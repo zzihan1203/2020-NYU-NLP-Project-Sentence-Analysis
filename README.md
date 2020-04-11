@@ -1,5 +1,4 @@
-# zzihan1203-gmail.com
-2020 NYU NLP project - NYU Professor Rating Review Sentiment Analysis
+#2020 NYU NLP project - NYU Professor Rating Review Sentiment Analysis
 
 Zihan Zhang(zz2349), Shou-Hao Wu(shw344) 
 
