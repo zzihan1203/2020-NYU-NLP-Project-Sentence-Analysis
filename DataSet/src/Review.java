@@ -8,7 +8,7 @@ public class Review {
         this.comment = parsedComment;
         this.rating = Double.parseDouble(parsedRating);
         this.helpful = Integer.parseInt(parsedhelpful);
-        this.cls = (this.rating >= 4) ? Cls.POSITIVE : Cls.NEGATIVE;
+        this.cls = (this.rating >= 4) ? Cls.P : Cls.N;
     }
 
     @Override

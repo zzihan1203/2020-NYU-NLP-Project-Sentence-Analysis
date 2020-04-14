@@ -1,3 +1,3 @@
 public enum Cls {
-    POSITIVE, NEGATIVE;
+    P, N;
 }

@@ -17,8 +17,8 @@ import org.jsoup.select.Elements;
 public class ReviewParser {
     String agent =
             "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36";
-    Map<String, Integer> positive = new HashMap<>();
-    Map<String, Integer> negative = new HashMap<>();
+    Map<String, Integer> trainPos = new HashMap<>();
+    Map<String, Integer> trainNeg = new HashMap<>();
 
     public List<String> loadUrls(String path) throws IOException {
         List<String> urls = new LinkedList<>();
@@ -55,24 +55,24 @@ public class ReviewParser {
         return reviews;
     }
 
-    public void putReviewsIntoBagOfWords(List<Review> reviews) {
+    public void putReviewsIntoTrainCorpus(List<Review> reviews) {
         for (Review review : reviews) {
             String[] words = review.comment.split("[()/\\s]");
 
-            if (review.cls == Cls.POSITIVE) {
+            if (review.cls == Cls.P) {
                 for (String word : words) {
-                    if (word.matches("[.,!?\"]+")) {
+                    if (word.replaceAll("[.,!?\"()/\n]", "").equals("")) {
                         continue;
                     }
-                    positive.merge(word.toLowerCase().replaceAll("[.,!?\"()/]", ""), 1,
+                    trainPos.merge(word.toLowerCase().replaceAll("[.,!?\"()/]", ""), 1,
                             (a, b) -> a + b);
                 }
             } else {
                 for (String word : words) {
-                    if (word.matches("[.,!?\"]+")) {
+                    if (word.replaceAll("[.,!?\"()/\n]", "").equals("")) {
                         continue;
                     }
-                    negative.merge(word.toLowerCase().replaceAll("[.,!?\"()/]", ""), 1,
+                    trainNeg.merge(word.toLowerCase().replaceAll("[.,!?\"()/]", ""), 1,
                             (a, b) -> a + b);
                 }
             }
@@ -80,25 +80,63 @@ public class ReviewParser {
     }
 
     public void showBags() {
-
-        for (Map.Entry<String, Integer> entry : positive.entrySet()) {
+        for (Map.Entry<String, Integer> entry : trainPos.entrySet()) {
             System.out.println(entry.getKey() + "\t" + entry.getValue() + "\tP");
         }
 
-        for (Map.Entry<String, Integer> entry : negative.entrySet()) {
+        for (Map.Entry<String, Integer> entry : trainNeg.entrySet()) {
             System.out.println(entry.getKey() + "\t" + entry.getValue() + "\tN");
         }
     }
 
-    public void writeBags(String path) throws IOException {
+    public void writeTrainData(String path) throws IOException {
         try (PrintWriter writer = new PrintWriter(new FileWriter(path));) {
-            for (Map.Entry<String, Integer> entry : positive.entrySet()) {
+            for (Map.Entry<String, Integer> entry : trainPos.entrySet()) {
                 writer.println(entry.getKey() + "\t" + entry.getValue() + "\tP");
             }
-            for (Map.Entry<String, Integer> entry : negative.entrySet()) {
+            for (Map.Entry<String, Integer> entry : trainNeg.entrySet()) {
                 writer.println(entry.getKey() + "\t" + entry.getValue() + "\tN");
             }
+        }
+    }
 
+    public void clearDevDataFileContent(String devOutputPath) throws IOException {
+        String keyFile = "standard.txt";
+        String devCorpus = "testWords.txt";
+        try (PrintWriter keyFileWriter = new PrintWriter(new FileWriter(devOutputPath + keyFile));
+                PrintWriter testWordsWriter =
+                        new PrintWriter(new FileWriter(devOutputPath + devCorpus));) {
+            keyFileWriter.write("");
+            testWordsWriter.write("");
+        }
+    }
+
+    public void writeDevData(List<Review> reviews, String devOutputPath, int baseIndex) {
+        String keyFile = "standard.txt";
+        String devCorpus = "testWords.txt";
+
+        try (PrintWriter keyFileWriter =
+                new PrintWriter(new FileWriter(devOutputPath + keyFile, true));
+                PrintWriter testWordsWriter =
+                        new PrintWriter(new FileWriter(devOutputPath + devCorpus, true));) {
+
+            for (Review review : reviews) {
+
+                // Write standard.txt, one review class per line
+                keyFileWriter.println(baseIndex++ + "\t" + review.cls);
+
+                // Write testWords.txt, one token per line
+                String[] words = review.comment.split("[()/\\s]");
+
+                for (String word : words) {
+                    if (word.replaceAll("[.,!?\"()/\n]", "").equals("")) {
+                        continue;
+                    }
+                    testWordsWriter.println(word.toLowerCase().replaceAll("[.,!?\"()/\n]", ""));
+                }
+                testWordsWriter.println("");
+            }
+        } catch (IOException ignore) {
         }
     }
 }

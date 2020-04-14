@@ -4,19 +4,28 @@ import java.util.List;
 public class Driver {
 
     public static void main(String[] args) throws IOException {
-        String inputPath = "doc/NYU";
-        String outputPath = "data/bag.txt";
+        String inputPath = "DataSet/doc/NYU";
+        String trainOutputPath = "Niave_Bayes/data/bag.txt";
+        String devOutputPath = "Niave_Bayes/data/";
 
         ReviewParser p = new ReviewParser();
         List<String> urls = p.loadUrls(inputPath);
+        p.clearDevDataFileContent(devOutputPath);
 
         int progress = 1;
+        int devCounter = 0;
         int all = urls.size();
         for (String url : urls) {
-            System.out.println("Processing " + progress++ + " of " + all + " urls.");
+            System.out.println("Processing " + progress + " of " + all + " urls.");
             List<Review> reviews = p.parse(url);
-            p.putReviewsIntoBagOfWords(reviews);
-            p.writeBags(outputPath);
+
+            if (progress % 14 == 0) {
+                p.writeDevData(reviews, devOutputPath, devCounter++ * reviews.size());
+            } else {
+                p.putReviewsIntoTrainCorpus(reviews);
+                p.writeTrainData(trainOutputPath);
+            }
+            progress++;
         }
 
     }

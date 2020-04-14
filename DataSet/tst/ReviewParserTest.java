@@ -28,6 +28,17 @@ public class ReviewParserTest {
         assertEquals(expectComment, actualComment);
         assertEquals(expectRating, actualRating);
         assertEquals(expecthelpful, actualhelpful);
-        assertEquals(Cls.NEGATIVE, firstReview.cls);
+        assertEquals(Cls.N, firstReview.cls);
+    }
+
+    @Test
+    public void testWriteDevData_getCorrectKeyFileAndTestWords() throws IOException {
+        // Given
+        reviews = p.parse(url);
+        p.writeDevData(reviews, "temp/", 0);
+
+        // When
+
+        // Then
     }
 }
