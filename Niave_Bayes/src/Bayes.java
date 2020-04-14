@@ -16,7 +16,7 @@ public class Bayes {
     }
     trainModel(args[0]);  // word - P/N - totalCount
     Map<Integer, String> results = classifyModel(args[1]);  // sentences
-    String outputFilePath = "results.txt";
+    String outputFilePath = "data/results.txt";
     writeIntoFile(results, outputFilePath);
   }
 
@@ -80,7 +80,8 @@ public class Bayes {
       Boolean endReading = false;
       while (!endReading) {
         String line = reader.readLine();
-        if (line.equals(null) || line.equals("")) { // end of one sentence
+        //if (line.equals(null) || line.equals("")) { // end of one sentence
+        if(line.length() == 5 && line.charAt(0) == '-' && line.charAt(1) == '-' && line.charAt(2) == '-' && line.charAt(3) == '-' && line.charAt(4) == '-') {
           String res = getTagOfSentence(words);
           tagResults.put(sentenceIndex, res);
           // Read NextLine
@@ -96,6 +97,7 @@ public class Bayes {
         // add words into word
         words.add(line);
       }
+      System.out.println("total sentences:"+sentenceIndex);
     }
     catch(Exception e){
       e.printStackTrace();
