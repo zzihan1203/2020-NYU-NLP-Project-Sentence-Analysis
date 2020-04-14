@@ -134,7 +134,7 @@ public class ReviewParser {
                     }
                     testWordsWriter.println(word.toLowerCase().replaceAll("[.,!?\"()/\n]", ""));
                 }
-                testWordsWriter.println("");
+                testWordsWriter.println("-----");
             }
         } catch (IOException ignore) {
         }

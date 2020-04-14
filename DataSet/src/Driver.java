@@ -17,13 +17,14 @@ public class Driver {
         int all = urls.size();
         for (String url : urls) {
             System.out.println("Processing " + progress + " of " + all + " urls.");
-            List<Review> reviews = p.parse(url);
 
             if (progress % 14 == 0) {
-                p.writeDevData(reviews, devOutputPath, devCounter++ * reviews.size());
+                List<Review> reviews = p.parse(url);
+                p.writeDevData(reviews, devOutputPath, devCounter);
+                devCounter += reviews.size();
             } else {
-                p.putReviewsIntoTrainCorpus(reviews);
-                p.writeTrainData(trainOutputPath);
+                // p.putReviewsIntoTrainCorpus(reviews);
+                // p.writeTrainData(trainOutputPath);
             }
             progress++;
         }

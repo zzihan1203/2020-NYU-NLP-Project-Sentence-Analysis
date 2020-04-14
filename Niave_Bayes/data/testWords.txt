@@ -62,7 +62,7 @@ rambles
 sometimes
 take
 him
-
+-----
 professor
 barna
 if
@@ -122,7 +122,7 @@ statement
 take
 his
 class
-
+-----
 nyu
 liberal
 studies
@@ -188,7 +188,7 @@ waste
 tuition
 hes
 great
-
+-----
 john
 barna's
 class
@@ -236,7 +236,7 @@ taking
 this
 man's
 class
-
+-----
 professor
 barna
 is
@@ -269,7 +269,7 @@ consider
 taking
 his
 class
-
+-----
 do
 yourself
 a
@@ -330,7 +330,7 @@ just
 under
 4
 hours
-
+-----
 professor
 barna
 is
@@ -387,7 +387,7 @@ that
 is
 the
 exam
-
+-----
 do
 not
 take
@@ -424,7 +424,7 @@ exams
 with
 study
 guide
-
+-----
 he's
 caring
 very
@@ -472,7 +472,7 @@ of
 notes
 in
 class
-
+-----
 great
 professor
 talks
@@ -494,7 +494,7 @@ the
 best
 in
 nyu
-
+-----
 definitely
 taking
 barna
@@ -558,7 +558,7 @@ no
 one
 really
 read
-
+-----
 barna
 is
 the
@@ -580,7 +580,7 @@ your
 sleep
 take
 him
-
+-----
 barna's
 a
 legend
@@ -649,7 +649,7 @@ easiest
 professor
 at
 nyu
-
+-----
 barna
 is
 the
@@ -686,7 +686,7 @@ lectures
 proves
 incredibly
 difficult
-
+-----
 living
 legend
 show
@@ -718,7 +718,7 @@ easiest
 teacher
 at
 nyu
-
+-----
 he
 is
 genuinely
@@ -789,7 +789,7 @@ anything
 he'll
 love
 you
-
+-----
 he
 is
 truly
@@ -855,7 +855,7 @@ you
 will
 as
 well
-
+-----
 i
 thought
 i
@@ -919,7 +919,7 @@ because
 of
 his
 disorganization
-
+-----
 professor
 barna
 is
@@ -979,7 +979,7 @@ what
 every
 professor
 thinks
-
+-----
 such
 a
 nice
@@ -1020,7 +1020,7 @@ professor
 overall
 highly
 recommended
-
+-----
 a
 legend
 one
@@ -1092,7 +1092,7 @@ you
 will
 be
 fine
-
+-----
 there
 is
 essentially
@@ -1160,7 +1160,7 @@ the
 work
 without
 teaching
-
+-----
 portanova
 is
 a
@@ -1225,7 +1225,7 @@ him
 about
 his
 dachshund
-
+-----
 portanova
 is
 a
@@ -1284,7 +1284,7 @@ does
 grade
 on
 participation
-
+-----
 portanova
 can
 be
@@ -1340,7 +1340,7 @@ knowledge
 on
 the
 subject
-
+-----
 do
 the
 reading
@@ -1403,7 +1403,7 @@ well
 in
 his
 class
-
+-----
 it
 was
 hard
@@ -1419,7 +1419,7 @@ is
 a
 great
 person
-
+-----
 portanova
 is
 one
@@ -1480,7 +1480,7 @@ office
 hours
 are
 helpful
-
+-----
 you
 have
 to
@@ -1545,7 +1545,7 @@ to
 it
 in
 class
-
+-----
 professor
 portanova
 is
@@ -1591,7 +1591,7 @@ him
 about
 his
 dachshund
-
+-----
 joseph
 is
 my
@@ -1655,7 +1655,7 @@ all
 a
 phenomenal
 human
-
+-----
 he
 knows
 literally
@@ -1712,7 +1712,7 @@ your
 time
 studying
 everything
-
+-----
 honestly
 i
 was
@@ -1749,7 +1749,7 @@ not
 a
 great
 professor
-
+-----
 showed
 up
 late
@@ -1798,7 +1798,7 @@ what
 to
 write
 down
-
+-----
 i
 took
 him
@@ -1867,7 +1867,7 @@ fill
 up
 so
 quickly
-
+-----
 my
 friend
 and
@@ -1921,13 +1921,13 @@ are
 insane
 super
 memorable
-
+-----
 great
 professor
 signed
 swifty
 morgan
-
+-----
 i
 love
 portanova
@@ -1988,7 +1988,7 @@ them
 also
 field
 trips
-
+-----
 portanova
 really
 cares
@@ -2040,7 +2040,7 @@ assignments
 are
 interesting
 too
-
+-----
 professor
 portanova
 is
@@ -2083,7 +2083,7 @@ understand
 the
 material
 better
-
+-----
 terrible
 professor
 with
@@ -2125,7 +2125,7 @@ i've
 had
 at
 nyu
-
+-----
 incredibly
 boring
 lectures
@@ -2181,7 +2181,7 @@ choice
 -
 choose
 wisely
-
+-----
 horribly
 monotonous
 and
@@ -2226,7 +2226,7 @@ take
 this
 class
 again
-
+-----
 her
 grading
 expectations
@@ -2287,7 +2287,7 @@ you'll
 need
 it
 :
-
+-----
 her
 midterm
 did
@@ -2355,7 +2355,7 @@ coming
 to
 class
 then
-
+-----
 she
 clearly
 cares
@@ -2417,7 +2417,7 @@ her
 guidelines
 weren't
 ridiculous
-
+-----
 pamela
 brown
 is
@@ -2462,7 +2462,7 @@ will
 be
 marked
 down
-
+-----
 horrible
 teacher
 every
@@ -2527,7 +2527,7 @@ word
 for
 word
 paragraphs
-
+-----
 ridiculous
 you
 will
@@ -2543,7 +2543,7 @@ get
 the
 worst
 grade
-
+-----
 number
 one
 piece
@@ -2612,7 +2612,7 @@ heavy
 and
 very
 interesting
-
+-----
 tests
 are
 based
@@ -2631,7 +2631,7 @@ definitions
 ahead
 of
 time
-
+-----
 i
 struggled
 to
@@ -2690,7 +2690,7 @@ because
 it
 was
 required
-
+-----
 prof
 brown
 was
@@ -2752,7 +2752,7 @@ actually
 want
 to
 learn
-
+-----
 professor
 brown
 is
@@ -2817,13 +2817,13 @@ the
 entire
 test
 beforehand
-
+-----
 worst
 prof
 i've
 ever
 had
-
+-----
 a
 very
 intelligent
@@ -2880,7 +2880,7 @@ suit
 nyu
 at
 all
-
+-----
 professor
 brown
 is
@@ -2948,7 +2948,7 @@ will
 take
 hard
 work
-
+-----
 literally
 the
 worst
@@ -3004,7 +3004,7 @@ good
 literature
 for
 you
-
+-----
 she
 is
 an
@@ -3068,7 +3068,7 @@ want
 an
 easy
 class
-
+-----
 she
 is
 a
@@ -3129,7 +3129,7 @@ good
 writing
 is
 ridiculou
-
+-----
 prof
 tucker
 is
@@ -3192,7 +3192,7 @@ great
 and
 graded
 objectively
-
+-----
 go
 to
 lectures
@@ -3253,7 +3253,7 @@ goal
 is
 to
 pass
-
+-----
 excellent
 lecturer
 one
@@ -3310,7 +3310,7 @@ start
 here
 or
 pol-ua300
-
+-----
 i
 absolutely
 love
@@ -3364,7 +3364,7 @@ recommend
 taking
 his
 class
-
+-----
 incredible
 and
 likable
@@ -3418,7 +3418,7 @@ the
 class
 highly
 recommend
-
+-----
 i
 love
 him
@@ -3476,7 +3476,7 @@ not
 a
 hard
 course
-
+-----
 overall
 great
 professor
@@ -3526,7 +3526,7 @@ you
 will
 do
 great
-
+-----
 way
 too
 many
@@ -3580,7 +3580,7 @@ takeaways
 for
 each
 topic
-
+-----
 his
 lectures
 are
@@ -3646,7 +3646,7 @@ class
 is
 worth
 it
-
+-----
 very
 very
 very
@@ -3682,7 +3682,7 @@ and
 you'll
 be
 fine
-
+-----
 tough
 grader
 i
@@ -3695,7 +3695,7 @@ really
 ruined
 my
 experience
-
+-----
 the
 class
 is
@@ -3763,7 +3763,7 @@ the
 class
 with
 caution
-
+-----
 a
 really
 great
@@ -3817,7 +3817,7 @@ lecture
 to
 do
 well
-
+-----
 professor
 tucker
 is
@@ -3856,7 +3856,7 @@ i've
 taken
 highly
 recommend
-
+-----
 i
 love
 josh
@@ -3897,7 +3897,7 @@ what
 can
 you
 do
-
+-----
 spoke
 way
 too
@@ -3960,7 +3960,7 @@ grading
 was
 very
 fair
-
+-----
 jt
 was
 an
@@ -4025,7 +4025,7 @@ but
 did
 pretty
 ok
-
+-----
 this
 man
 is
@@ -4091,7 +4091,7 @@ he's
 a
 great
 professor
-
+-----
 yes
 he
 is
@@ -4164,7 +4164,7 @@ part
 in
 giving
 grades
-
+-----
 he
 is
 honestly
@@ -4212,7 +4212,7 @@ very
 helpful
 and
 approachable
-
+-----
 this
 course
 needs
@@ -4277,7 +4277,7 @@ books
 you'll
 love
 him
-
+-----
 great
 intro
 to
@@ -4339,7 +4339,7 @@ ace
 great
 funny
 guy
-
+-----
 his
 lecturers
 are
@@ -4409,7 +4409,7 @@ all
 about
 ur
 opinions
-
+-----
 i
 honestly
 don't
@@ -4469,7 +4469,7 @@ journal
 really
 interesting
 guy
-
+-----
 the
 negative
 review
@@ -4523,7 +4523,7 @@ are
 still
 very
 interesting
-
+-----
 professor
 ollman
 is
@@ -4584,7 +4584,7 @@ the
 journal
 weekly
 :
-
+-----
 absolutely
 horrible
 professor
@@ -4599,7 +4599,7 @@ want
 a
 meaningful
 experience
-
+-----
 worst
 professor
 i
@@ -4655,7 +4655,7 @@ disgrace
 to
 the
 dept
-
+-----
 this
 was
 an
@@ -4724,7 +4724,7 @@ who
 is
 john
 galt
-
+-----
 i'm
 very
 interested
@@ -4775,7 +4775,7 @@ ignore
 you
 very
 disappointed
-
+-----
 as
 a
 poly
@@ -4834,7 +4834,7 @@ a
 course
 alright
 prof
-
+-----
 people
 are
 too
@@ -4903,7 +4903,7 @@ more
 cool
 like
 that
-
+-----
 this
 guy
 man
@@ -4927,7 +4927,7 @@ till
 the
 very
 end
-
+-----
 i'm
 very
 interested
@@ -4992,7 +4992,7 @@ to
 pay
 attention
 to
-
+-----
 lectures
 are
 repetitive
@@ -5056,7 +5056,7 @@ the
 material
 is
 interesting
-
+-----
 i
 took
 him
@@ -5103,7 +5103,7 @@ course
 the
 only
 assignment
-
+-----
 professor
 ollman
 is
@@ -5173,7 +5173,7 @@ had
 to
 be
 thorough
-
+-----
 i
 would
 not
@@ -5227,9 +5227,9 @@ grades
 and
 it
 shows
-
+-----
 terrible
-
+-----
 one
 of
 the
@@ -5287,7 +5287,7 @@ pants
 a
 real
 jackass
-
+-----
 if
 you
 are
@@ -5354,7 +5354,7 @@ you
 will
 be
 fine
-
+-----
 as
 the
 negative
@@ -5416,7 +5416,7 @@ if
 you
 work
 hard
-
+-----
 thorough
 textbook
 reading
@@ -5472,7 +5472,7 @@ work
 for
 the
 grade
-
+-----
 amos
 is
 overall
@@ -5536,7 +5536,7 @@ a-
 with
 moderate
 effort
-
+-----
 bloomberg's
 class
 is
@@ -5600,7 +5600,7 @@ stay
 away
 from
 him
-
+-----
 mixed
 feelings
 about
@@ -5655,7 +5655,7 @@ for
 midterm
 and
 final
-
+-----
 made
 me
 decide
@@ -5686,7 +5686,7 @@ different
 professor
 if
 possible
-
+-----
 amos
 is
 overall
@@ -5746,7 +5746,7 @@ a
 with
 moderate
 effort
-
+-----
 amos
 is
 a
@@ -5812,7 +5812,7 @@ b
 with
 minimal
 effort
-
+-----
 the
 tests
 in
@@ -5879,7 +5879,7 @@ though
 so
 take
 him
-
+-----
 he
 is
 a
@@ -5896,7 +5896,7 @@ and
 gives
 easy
 exams
-
+-----
 a
 brilliant
 professor
@@ -5916,7 +5916,7 @@ very
 responsive
 with
 questions
-
+-----
 excellent
 professor
 who
@@ -5971,7 +5971,7 @@ textbook
 is
 hugely
 helpful
-
+-----
 a
 very
 helpful
@@ -6030,7 +6030,7 @@ the
 exams
 are
 difficult
-
+-----
 his
 lectures
 are
@@ -6094,7 +6094,7 @@ and
 cs
 is
 interesting
-
+-----
 hes
 a
 solid
@@ -6158,7 +6158,7 @@ dont
 require
 much
 writing
-
+-----
 professor
 bloomberg
 gives
@@ -6214,14 +6214,14 @@ with
 the
 later
 ones
-
+-----
 avoid
 this
 professor
 at
 all
 costs
-
+-----
 very
 caring
 and
@@ -6275,7 +6275,7 @@ get
 overall
 good
 professor
-
+-----
 such
 a
 nice
@@ -6335,7 +6335,7 @@ you
 should
 be
 fine
-
+-----
 professor
 tharoor
 takes
@@ -6378,7 +6378,7 @@ is
 not
 nyu
 level
-
+-----
 soothing
 voice
 sometimes
@@ -6444,7 +6444,7 @@ her
 cf1
 as
 well
-
+-----
 so
 terrible
 i
@@ -6510,7 +6510,7 @@ boring
 and
 so
 terrible
-
+-----
 absolute
 worst
 please
@@ -6570,7 +6570,7 @@ teacher
 i've
 ever
 had
-
+-----
 worst
 professor
 i've
@@ -6632,7 +6632,7 @@ would
 not
 take
 again
-
+-----
 awful
 she
 has
@@ -6647,7 +6647,7 @@ gives
 too
 many
 readings
-
+-----
 very
 hard
 to
@@ -6698,7 +6698,7 @@ take
 a
 mediocre
 teacher
-
+-----
 she's
 a
 nice
@@ -6738,7 +6738,7 @@ from
 the
 middle
 east
-
+-----
 she
 gives
 way
@@ -6784,7 +6784,7 @@ for
 an
 a
 though
-
+-----
 she
 is
 a
@@ -6841,7 +6841,7 @@ definitely
 take
 her
 again
-
+-----
 super
 sweet
 &
@@ -6868,7 +6868,7 @@ makes
 lectures
 interesting
 though
-
+-----
 mrs
 tharoor
 doesn't
@@ -6914,7 +6914,7 @@ to
 do
 it
 again
-
+-----
 when
 i
 say
@@ -6974,7 +6974,7 @@ take
 risks
 with
 writing
-
+-----
 such
 a
 great
@@ -7031,7 +7031,7 @@ and
 1
 final
 essay
-
+-----
 great
 class
 if
@@ -7089,7 +7089,7 @@ and
 you'll
 be
 fine
-
+-----
 i
 really
 loved
@@ -7153,7 +7153,7 @@ guide
 the
 next
 paper
-
+-----
 super
 passionate
 about
@@ -7214,7 +7214,7 @@ huge
 connections
 in
 india
-
+-----
 the
 exams
 are
@@ -7242,7 +7242,7 @@ classes
 specifically
 cultural
 foundations
-
+-----
 i
 still
 see
@@ -7250,7 +7250,7 @@ her
 in
 my
 dreams
-
+-----
 nice
 person
 but
@@ -7259,7 +7259,7 @@ grading
 is
 very
 harsh
-
+-----
 this
 class
 was
@@ -7317,7 +7317,7 @@ avoid
 at
 all
 costs
-
+-----
 some
 classes
 were
@@ -7375,7 +7375,7 @@ do
 the
 textbook
 ones
-
+-----
 gordon
 is
 a
@@ -7431,7 +7431,7 @@ game
 theory
 quirky
 guy
-
+-----
 sg
 tells
 you
@@ -7495,7 +7495,7 @@ are
 of
 your
 grade
-
+-----
 gordon
 taught
 my
@@ -7559,7 +7559,7 @@ great
 to
 meet
 with
-
+-----
 tries
 too
 hard
@@ -7604,7 +7604,7 @@ questions
 and
 the
 tas
-
+-----
 lectures
 somewhat
 interesting
@@ -7667,7 +7667,7 @@ find
 it
 very
 useful
-
+-----
 though
 the
 exams
@@ -7711,7 +7711,7 @@ outs
 of
 american
 politics
-
+-----
 he
 is
 a
@@ -7768,7 +7768,7 @@ avoid
 at
 all
 costs
-
+-----
 clear
 and
 fascinating
@@ -7790,7 +7790,7 @@ are
 challenging
 but
 doable
-
+-----
 he
 reminded
 me
@@ -7851,7 +7851,7 @@ easy
 grading
 on
 paper
-
+-----
 his
 class
 was
@@ -7917,7 +7917,7 @@ them
 for
 help
 later
-
+-----
 this
 has
 to
@@ -7985,7 +7985,7 @@ the
 above
 come
 on
-
+-----
 exams
 were
 tough
@@ -8047,7 +8047,7 @@ he's
 also
 fairly
 arrogant
-
+-----
 this
 class
 was
@@ -8115,7 +8115,7 @@ going
 to
 be
 like
-
+-----
 excellent
 clear
 and
@@ -8142,7 +8142,7 @@ read
 for
 the
 course
-
+-----
 professor
 gordon
 always
@@ -8192,7 +8192,7 @@ the
 slides
 he's
 cool
-
+-----
 one
 of
 the
@@ -8210,7 +8210,7 @@ and
 you'll
 be
 fine
-
+-----
 he
 is
 the
@@ -8270,7 +8270,7 @@ go
 take
 his
 class
-
+-----
 great
 professor
 always
@@ -8287,7 +8287,7 @@ definitely
 take
 his
 classes
-
+-----
 if
 you
 take
@@ -8346,7 +8346,7 @@ expect
 to
 study
 hard
-
+-----
 i
 never
 really
@@ -8408,7 +8408,7 @@ no
 concepts
 memorization
 based
-
+-----
 i
 loved
 professor
@@ -8442,7 +8442,7 @@ class
 and
 his
 enthusiasm
-
+-----
 just
 make
 sure
@@ -8479,7 +8479,7 @@ part
 of
 the
 class
-
+-----
 i
 has
 volk
@@ -8544,7 +8544,7 @@ too
 take
 this
 class
-
+-----
 do
 not
 take
@@ -8607,7 +8607,7 @@ class
 ruined
 my
 gpa
-
+-----
 professor
 volk
 is
@@ -8658,7 +8658,7 @@ to
 get
 an
 a
-
+-----
 do
 not
 take
@@ -8695,7 +8695,7 @@ boring
 do
 not
 recommend
-
+-----
 definitely
 recommend
 this
@@ -8755,7 +8755,7 @@ extremely
 boring
 and
 easy
-
+-----
 awful
 do
 not
@@ -8818,7 +8818,7 @@ not
 take
 this
 class
-
+-----
 the
 course
 placed
@@ -8840,7 +8840,7 @@ material
 --
 i
 disapprove
-
+-----
 i
 hate
 to
@@ -8895,7 +8895,7 @@ guy
 terribly
 designed
 class
-
+-----
 class
 somewhat
 interesting
@@ -8955,7 +8955,7 @@ done
 nice
 professor
 btw
-
+-----
 tyler's
 a
 very
@@ -9010,7 +9010,7 @@ he's
 a
 fair
 grader
-
+-----
 lectures
 came
 mostly
@@ -9069,7 +9069,7 @@ very
 likable
 and
 good-looking
-
+-----
 dorky
 and
 lovable
@@ -9116,7 +9116,7 @@ nat
 sci
 ii
 course
-
+-----
 professor
 volk
 is
@@ -9178,7 +9178,7 @@ the
 test
 amazing
 teacher
-
+-----
 this
 class
 is
@@ -9238,7 +9238,7 @@ not
 take
 this
 class
-
+-----
 this
 class
 is
@@ -9282,7 +9282,7 @@ readings
 you
 are
 screwed
-
+-----
 i
 took
 environmental
@@ -9339,7 +9339,7 @@ is
 in
 the
 book
-
+-----
 i
 took
 her
@@ -9405,7 +9405,7 @@ great
 things
 about
 her
-
+-----
 professor
 newman
 cares
@@ -9466,7 +9466,7 @@ pick
 a
 different
 professor
-
+-----
 she
 is
 fine
@@ -9479,7 +9479,7 @@ sometimes
 a
 hard
 marker
-
+-----
 at
 the
 beginning
@@ -9535,7 +9535,7 @@ and
 participate
 in
 class
-
+-----
 generally
 in
 both
@@ -9592,7 +9592,7 @@ but
 overall
 great
 teacher
-
+-----
 roberta
 is
 an
@@ -9649,7 +9649,7 @@ effort
 into
 your
 papers
-
+-----
 this
 was
 the
@@ -9716,7 +9716,7 @@ and
 he
 said
 a-
-
+-----
 she
 is
 the
@@ -9733,7 +9733,7 @@ and
 you'll
 be
 good
-
+-----
 prof
 newman
 is
@@ -9791,7 +9791,7 @@ very
 helpful
 feedback
 love
-
+-----
 class
 lectures
 are
@@ -9837,7 +9837,7 @@ they're
 not
 too
 rough
-
+-----
 really
 enthusiastic
 professor
@@ -9878,7 +9878,7 @@ the
 class
 more
 fun
-
+-----
 enthusiastic
 knowledgeable
 and
@@ -9938,12 +9938,12 @@ and
 enjoy
 the
 class
-
+-----
 fun
 class
 difficult
 grader
-
+-----
 although
 she
 is
@@ -10000,7 +10000,7 @@ definitely
 like
 this
 class
-
+-----
 although
 she
 is
@@ -10051,7 +10051,7 @@ will
 like
 this
 class
-
+-----
 anyone
 who
 complains
@@ -10112,7 +10112,7 @@ extra
 help
 very
 brilliant
-
+-----
 tough
 grader
 when
@@ -10122,7 +10122,7 @@ to
 papers
 participation
 counts
-
+-----
 so
 i
 had
@@ -10184,7 +10184,7 @@ there
 were
 no
 tests
-
+-----
 avoid
 this
 professor
@@ -10251,7 +10251,7 @@ i've
 had
 at
 nyu
-
+-----
 she
 was
 unorganized
@@ -10284,7 +10284,7 @@ give
 you
 an
 a
-
+-----
 phelps
 is
 a
@@ -10341,7 +10341,7 @@ online
 for
 easy
 studying
-
+-----
 phelps
 was
 such
@@ -10411,7 +10411,7 @@ hours
 of
 research
 study
-
+-----
 dr
 phelps
 is
@@ -10473,7 +10473,7 @@ lot
 but
 are
 fair
-
+-----
 interesting
 lectures
 clearly
@@ -10500,7 +10500,7 @@ textbook
 helps
 as
 well
-
+-----
 amazing
 lectures
 respected
@@ -10546,7 +10546,7 @@ exams
 final
 1
 paper
-
+-----
 great
 professor
 really
@@ -10594,7 +10594,7 @@ from
 her
 great
 lectures
-
+-----
 easy
 class
 if
@@ -10643,7 +10643,7 @@ put
 in
 the
 work
-
+-----
 this
 was
 one
@@ -10712,7 +10712,7 @@ for
 in
 her
 tests
-
+-----
 she
 makes
 lectures
@@ -10722,7 +10722,7 @@ the
 tests
 are
 difficult
-
+-----
 prof
 phelps
 is
@@ -10783,7 +10783,7 @@ you
 memorize
 the
 textbook
-
+-----
 test
 graders
 are
@@ -10816,7 +10816,7 @@ you
 remember
 the
 material
-
+-----
 absolutely
 brilliant
 professor
@@ -10860,7 +10860,7 @@ now
 a
 psych
 major
-
+-----
 great
 class
 take
@@ -10902,7 +10902,7 @@ can
 get
 an
 a
-
+-----
 thinks
 u
 r
@@ -10923,7 +10923,7 @@ material
 like
 it's
 boring
-
+-----
 i
 highly
 recommend
@@ -10962,7 +10962,7 @@ help
 with
 specific
 questions
-
+-----
 she's
 great
 incredibly
@@ -11004,7 +11004,7 @@ anyone
 interested
 in
 psychology
-
+-----
 excellent
 prof
 is
@@ -11029,7 +11029,7 @@ to
 get
 an
 a
-
+-----
 although
 i
 disagree
@@ -11091,7 +11091,7 @@ is
 purely
 amazing
 :
-
+-----
 she's
 an
 awesome
@@ -11147,7 +11147,7 @@ a
 is
 not
 hard
-
+-----
 liz
 herself
 is
@@ -11206,7 +11206,7 @@ in
 the
 book's
 terms
-
+-----
 yoav
 seemed
 very
@@ -11232,7 +11232,7 @@ about
 using
 the
 tools
-
+-----
 the
 course
 structure
@@ -11276,7 +11276,7 @@ world
 practical
 software
 engineering
-
+-----
 i
 really
 love
@@ -11339,7 +11339,7 @@ familiar
 with
 the
 framework;
-
+-----
 yoav
 stubbornly
 refused
@@ -11385,7 +11385,7 @@ possible
 he
 deserves
 0s
-
+-----
 personally
 i
 feel
@@ -11453,7 +11453,7 @@ in
 the
 class
 though
-
+-----
 i
 would
 not
@@ -11513,7 +11513,7 @@ actually
 do
 the
 assignments
-
+-----
 how
 many
 talks
@@ -11535,7 +11535,7 @@ google
 themselves
 are
 abandoning
-
+-----
 this
 is
 a
@@ -11585,7 +11585,7 @@ other
 course's
 mailing
 list
-
+-----
 made
 an
 ok
@@ -11633,7 +11633,7 @@ of
 googles
 rusty
 framework
-
+-----
 lookup
 googlegroup
 nyu-gaming-course-2013
@@ -11699,7 +11699,7 @@ before
 the
 next
 class
-
+-----
 class
 was
 surprisingly
@@ -11748,7 +11748,7 @@ was
 suppose
 to
 know
-
+-----
 yoav
 zibin
 knew
@@ -11808,7 +11808,7 @@ say
 ‘it
 gets
 better’
-
+-----
 most
 of
 the
@@ -11851,7 +11851,7 @@ used
 in
 the
 industry
-
+-----
 project-oriented
 a
 lot
@@ -11881,7 +11881,7 @@ a
 really
 helpful
 course
-
+-----
 professor
 did
 not
@@ -11940,7 +11940,7 @@ class
 if
 you
 can
-
+-----
 please
 be
 advised
@@ -11993,7 +11993,7 @@ did
 for
 my
 semester
-
+-----
 i
 wish
 the
@@ -12049,7 +12049,7 @@ worked
 under
 the
 hood
-
+-----
 professor
 was
 extremely
@@ -12105,7 +12105,7 @@ to
 any
 web
 app
-
+-----
 this
 course
 is
@@ -12143,7 +12143,7 @@ of
 this
 project
 experience
-
+-----
 beware
 you
 only
@@ -12201,7 +12201,7 @@ as
 the
 semester
 progressed
-
+-----
 i
 really
 wanted
@@ -12267,7 +12267,7 @@ time
 of
 their
 lives
-
+-----
 took
 the
 architecture
@@ -12326,7 +12326,7 @@ midterm
 and
 a
 final
-
+-----
 mosette
 is
 a
@@ -12389,7 +12389,7 @@ to
 get
 an
 a
-
+-----
 it'll
 be
 hard
@@ -12443,7 +12443,7 @@ seems
 unimportant
 they
 are
-
+-----
 topics
 discussed
 in
@@ -12487,7 +12487,7 @@ would
 be
 extremely
 rewarding
-
+-----
 professor
 broderick's
 lectures
@@ -12543,7 +12543,7 @@ about
 europe
 and
 america
-
+-----
 really
 into
 all
@@ -12586,7 +12586,7 @@ students
 loved
 this
 class
-
+-----
 i
 took
 her
@@ -12637,7 +12637,7 @@ a
 liberal
 arts
 education
-
+-----
 professor
 broderick
 was
@@ -12698,7 +12698,7 @@ in
 professor
 broderick's
 group
-
+-----
 i
 absolutely
 love
@@ -12763,7 +12763,7 @@ good
 things
 about
 her
-
+-----
 i
 could
 not
@@ -12813,7 +12813,7 @@ regularly
 love
 this
 woman
-
+-----
 the
 professor
 broderick
@@ -12854,7 +12854,7 @@ easy
 a
 map
 course
-
+-----
 prof
 broderick
 is
@@ -12913,7 +12913,7 @@ much
 as
 she
 can
-
+-----
 professor
 broderick
 is
@@ -12935,7 +12935,7 @@ class
 -
 i
 promise
-
+-----
 wonderful
 teacher
 the
@@ -12994,7 +12994,7 @@ best
 professor
 at
 nyu
-
+-----
 genuinely
 nice
 and
@@ -13051,7 +13051,7 @@ improvement
 for
 final
 grade
-
+-----
 most
 unreasonable
 professor
@@ -13123,7 +13123,7 @@ delusional
 and
 a
 liar
-
+-----
 she
 is
 a
@@ -13175,7 +13175,7 @@ of
 those
 you're
 screwed
-
+-----
 extremely
 helpful
 to
@@ -13242,7 +13242,7 @@ better
 profs
 at
 nyu
-
+-----
 awesome
 professor
 obviously
@@ -13284,7 +13284,7 @@ you
 won't
 be
 bored
-
+-----
 professor
 roth
 is
@@ -13348,7 +13348,7 @@ unless
 you
 have
 to
-
+-----
 lectures
 very
 heavily
@@ -13414,7 +13414,7 @@ guide
 was
 44
 pgs
-
+-----
 low
 commitment
 class
@@ -13478,7 +13478,7 @@ see
 who
 is
 there
-
+-----
 insane
 lecture
 style
@@ -13525,7 +13525,7 @@ not
 take
 this
 again
-
+-----
 took
 cultures
 and
@@ -13585,7 +13585,7 @@ ended
 do
 not
 take
-
+-----
 professor
 roth
 is
@@ -13618,7 +13618,7 @@ and
 lots
 of
 work
-
+-----
 i
 don't
 understand
@@ -13678,7 +13678,7 @@ know
 that
 by
 experience
-
+-----
 loves
 egypt
 but
@@ -13739,7 +13739,7 @@ tenure
 &
 gave
 up
-
+-----
 she
 gave
 interesting
@@ -13769,7 +13769,7 @@ straight
 forward
 grades
 fairly
-
+-----
 i
 didn't
 know
@@ -13802,7 +13802,7 @@ some
 more
 teacher
 training
-
+-----
 roth
 is
 an
@@ -13857,7 +13857,7 @@ another
 cultures
 and
 contexts
-
+-----
 by
 far
 the
@@ -13911,7 +13911,7 @@ regret
 taking
 this
 class
-
+-----
 she
 was
 such
@@ -13972,7 +13972,7 @@ in
 grading
 the
 essays
-
+-----
 this
 was
 the
@@ -14031,7 +14031,7 @@ much
 like
 hers
 does
-
+-----
 i
 had
 her
@@ -14087,7 +14087,7 @@ final
 midterm
 2
 essays
-
+-----
 she
 is
 a
@@ -14145,7 +14145,7 @@ material
 she
 is
 teaching
-
+-----
 easiest
 class
 i
@@ -14185,7 +14185,7 @@ like
 the
 study
 guides
-
+-----
 she's
 insane
 and
@@ -14195,7 +14195,7 @@ ta's
 are
 wonderful
 though
-
+-----
 lectures
 aren't
 bad
@@ -14259,7 +14259,7 @@ papers
 knowledge
 of
 terms
-
+-----
 unbelievably
 bad
 massive
@@ -14321,7 +14321,7 @@ beatin
 out
 my
 expectations
-
+-----
 honestly
 molly
 was
@@ -14356,7 +14356,7 @@ she's
 very
 writing
 intensive
-
+-----
 molly
 is
 a
@@ -14425,7 +14425,7 @@ id
 -
 not
 difficult
-
+-----
 so
 much
 reading
@@ -14463,7 +14463,7 @@ for
 final
 was
 easy
-
+-----
 professor
 martin
 was
@@ -14524,7 +14524,7 @@ which
 was
 my
 goal
-
+-----
 she
 is
 an
@@ -14592,7 +14592,7 @@ she
 will
 like
 you
-
+-----
 molly
 was
 one
@@ -14651,7 +14651,7 @@ it
 out
 of
 you
-
+-----
 her
 lectures
 are
@@ -14693,7 +14693,7 @@ arizona
 from
 greys
 anatomy
-
+-----
 yes
 her
 nicey
@@ -14762,7 +14762,7 @@ you'll
 get
 an
 a
-
+-----
 super
 sweet
 if
@@ -14790,7 +14790,7 @@ only
 three
 easy
 tests
-
+-----
 prof
 martin
 is
@@ -14845,7 +14845,7 @@ comprise
 of
 passage
 analysis
-
+-----
 molly
 is
 so
@@ -14898,7 +14898,7 @@ specifically
 in
 your
 exams
-
+-----
 great
 teacher
 genuinely
@@ -14916,7 +14916,7 @@ option
 absolutely
 take
 her
-
+-----
 she
 is
 easy
@@ -14963,7 +14963,7 @@ are
 interested
 in
 literature
-
+-----
 i
 felt
 like
@@ -15012,7 +15012,7 @@ so
 much
 more
 difficult
-
+-----
 i
 don't
 know
@@ -15049,7 +15049,7 @@ experience
 in
 my
 life
-
+-----
 molz
 is
 really
@@ -15067,7 +15067,7 @@ dont
 bs
 the
 papers
-
+-----
 unintelligent
 pretentious
 harsh
@@ -15118,7 +15118,7 @@ that
 pretty
 up
 close
-
+-----
 don't
 get
 me
@@ -15179,7 +15179,7 @@ more
 than
 you
 do
-
+-----
 professor
 martin
 is
@@ -15220,7 +15220,7 @@ students
 with
 any
 issue
-
+-----
 i
 had
 molly
@@ -15281,7 +15281,7 @@ i
 could
 appreciate
 them
-
+-----
 my
 friend
 recommended
@@ -15339,7 +15339,7 @@ not
 to
 better
 u
-
+-----
 his
 grading
 was
@@ -15402,7 +15402,7 @@ horrible
 no
 help
 whatsoever
-
+-----
 very
 therapeutic
 class
@@ -15464,7 +15464,7 @@ essays
 total
 great
 guy
-
+-----
 professor
 goldfin
 was
@@ -15530,7 +15530,7 @@ writing
 2
 next
 semester
-
+-----
 his
 classes
 are
@@ -15586,7 +15586,7 @@ highly
 recommend
 this
 class
-
+-----
 loved
 him
 this
@@ -15638,7 +15638,7 @@ semester
 goldfin
 is
 bae
-
+-----
 goldfin
 is
 such
@@ -15688,7 +15688,7 @@ he
 assigns
 love
 him
-
+-----
 just
 take
 him
@@ -15698,7 +15698,7 @@ perfect
 no
 matter
 what
-
+-----
 sooooo
 sad
 that
@@ -15755,7 +15755,7 @@ therapy
 than
 a
 class
-
+-----
 i
 loved
 this
@@ -15812,7 +15812,7 @@ totally
 changed
 my
 perspective
-
+-----
 nice
 guy
 you
@@ -15874,7 +15874,7 @@ grader
 in
 this
 criteria
-
+-----
 professor
 goldfin
 was
@@ -15937,7 +15937,7 @@ leave
 on
 your
 paper
-
+-----
 profesor
 goldfin
 is
@@ -15984,7 +15984,7 @@ you
 won't
 regret
 it
-
+-----
 he
 is
 a
@@ -16047,7 +16047,7 @@ b+
 for
 the
 semester
-
+-----
 took
 him
 for
@@ -16103,7 +16103,7 @@ still
 recommend
 him
 though
-
+-----
 professor
 goldfin
 is
@@ -16164,7 +16164,7 @@ anyone
 taking
 writing
 1
-
+-----
 i
 loved
 professor
@@ -16230,7 +16230,7 @@ it's
 a
 great
 class
-
+-----
 before
 students
 pick
@@ -16302,7 +16302,7 @@ guarantee
 youll
 do
 well
-
+-----
 teacher
 is
 really
@@ -16358,7 +16358,7 @@ rather
 take
 mary
 roma
-
+-----
 great
 professor
 interesting
@@ -16388,7 +16388,7 @@ a
 is
 definitely
 possible
-
+-----
 if
 you
 are
@@ -16443,7 +16443,7 @@ to
 hear
 different
 perspectives
-
+-----
 a
 bit
 unorganized
@@ -16470,7 +16470,7 @@ and
 2
 article
 analysis
-
+-----
 i
 learned
 so
@@ -16489,7 +16489,7 @@ like
 him
 great
 professor
-
+-----
 great
 guy
 and
@@ -16557,7 +16557,7 @@ to
 cram
 last
 minute
-
+-----
 easy
 a
 and
@@ -16589,7 +16589,7 @@ were
 always
 pretty
 dead
-
+-----
 he's
 a
 brutal
@@ -16632,7 +16632,7 @@ couldn't
 be
 more
 excited
-
+-----
 if
 you
 are
@@ -16685,7 +16685,7 @@ much
 as
 a
 writer
-
+-----
 he
 gives
 great
@@ -16749,7 +16749,7 @@ take
 him
 otherwise
 don't
-
+-----
 take
 professor
 jackson
@@ -16812,7 +16812,7 @@ a
 cool
 dude
 too
-
+-----
 professor
 jackson
 is
@@ -16869,7 +16869,7 @@ you
 will
 be
 fine
-
+-----
 knows
 all
 about
@@ -16902,7 +16902,7 @@ some
 good
 writing
 advice
-
+-----
 i
 see
 most
@@ -16975,7 +16975,7 @@ satisfied
 with
 my
 b+
-
+-----
 easy
 b
 if
@@ -17035,14 +17035,14 @@ presentation
 at
 last
 week
-
+-----
 run
 very
 far
 hard
 to
 please
-
+-----
 funny
 great
 guy
@@ -17085,7 +17085,7 @@ come
 man
 chill
 out
-
+-----
 extremely
 hard
 to
@@ -17137,7 +17137,7 @@ him
 doesn't
 like
 dorks
-
+-----
 the
 worst
 writing
@@ -17159,7 +17159,7 @@ grader
 don't
 take
 him
-
+-----
 you
 would
 appreciate
@@ -17208,7 +17208,7 @@ would
 appreciate
 class
 more
-
+-----
 cool
 man
 very
@@ -17221,7 +17221,7 @@ his
 class
 very
 much
-
+-----
 he
 is
 so
@@ -17234,7 +17234,7 @@ you
 improve
 your
 writing
-
+-----
 i
 learned
 a
@@ -17298,7 +17298,7 @@ not
 a
 challenging
 course
-
+-----
 the
 myriad
 of
@@ -17359,7 +17359,7 @@ exam
 was
 extremely
 confusing
-
+-----
 easiest
 class
 and
@@ -17412,7 +17412,7 @@ ever
 received
 in
 college
-
+-----
 class
 is
 pretty
@@ -17455,7 +17455,7 @@ and
 super
 nice
 professor
-
+-----
 definite
 easy
 a
@@ -17510,7 +17510,7 @@ for
 a
 gpa
 boost
-
+-----
 sana
 was
 difficult
@@ -17569,7 +17569,7 @@ didn't
 enjoy
 the
 class
-
+-----
 not
 difficult
 enough
@@ -17610,7 +17610,7 @@ as
 it
 was
 assigned
-
+-----
 sana
 is
 a
@@ -17640,7 +17640,7 @@ rather
 than
 monotonous
 lecturing
-
+-----
 a
 very
 unclear
@@ -17681,7 +17681,7 @@ for
 comp
 sci
 majors
-
+-----
 amazing
 person
 but
@@ -17714,7 +17714,7 @@ from
 an
 actual
 class
-
+-----
 assignments
 and
 exams
@@ -17750,7 +17750,7 @@ the
 teaching
 it's
 decent
-
+-----
 she
 was
 awesome
@@ -17787,7 +17787,7 @@ science
 class
 take
 it
-
+-----
 she's
 kind
 and
@@ -17804,7 +17804,7 @@ well
 though
 she
 tried
-
+-----
 professor
 is
 very
@@ -17850,7 +17850,7 @@ recommend
 professor
 odeh
 classes
-
+-----
 her
 style
 of
@@ -17918,7 +17918,7 @@ are
 way
 too
 long
-
+-----
 easy
 a
 the
@@ -17976,7 +17976,7 @@ long
 but
 easy
 tests
-
+-----
 she
 is
 a
@@ -18019,7 +18019,7 @@ classes
 and
 listen
 carefully
-
+-----
 everything
 she
 teaches
@@ -18068,7 +18068,7 @@ use
 in
 the
 present
-
+-----
 everything
 she
 teaches
@@ -18117,7 +18117,7 @@ use
 in
 the
 present
-
+-----
 i
 saw
 such
@@ -18187,7 +18187,7 @@ for
 the
 final
 crazyyyy
-
+-----
 she
 is
 beyond
@@ -18211,7 +18211,7 @@ can
 do
 about
 it
-
+-----
 being
 boring
 strict
@@ -18269,7 +18269,7 @@ experience
 is
 definitely
 uncomfortable
-
+-----
 peggy
 oh
 peggy
@@ -18331,7 +18331,7 @@ she
 doesn't
 teach
 them
-
+-----
 very
 tough
 on
@@ -18366,7 +18366,7 @@ lot
 from
 her
 class
-
+-----
 tough
 on
 attendance
@@ -18398,7 +18398,7 @@ it
 to
 take
 her
-
+-----
 i
 graduated
 from
@@ -18457,7 +18457,7 @@ rate
 them
 similarly
 horrible
-
+-----
 ugh
 remember
 the
@@ -18483,7 +18483,7 @@ she's
 a
 famous
 actress
-
+-----
 this
 women
 is
@@ -18538,7 +18538,7 @@ talks
 about
 herself
 constantly
-
+-----
 peggy's
 lectures
 are
@@ -18574,7 +18574,7 @@ required
 so
 good
 luck
-
+-----
 caring
 teacher
 but
@@ -18607,7 +18607,7 @@ she's
 still
 pretty
 good
-
+-----
 i'm
 impressed
 by
@@ -18634,7 +18634,7 @@ is
 the
 only
 professor
-
+-----
 yuck
 this
 woman
@@ -18673,7 +18673,7 @@ you
 are
 forced
 to
-
+-----
 i
 think
 peggy
@@ -18737,7 +18737,7 @@ ended
 like
 that
 wow
-
+-----
 the
 class
 peggy
@@ -18801,7 +18801,7 @@ you'll
 get
 an
 a
-
+-----
 as
 you
 can
@@ -18866,7 +18866,7 @@ front
 ignore
 everything
 else
-
+-----
 oh
 peggy
 peggy
@@ -18927,7 +18927,7 @@ after
 every
 single
 class
-
+-----
 knows
 what
 she's
@@ -18985,7 +18985,7 @@ that's
 important
 to
 know
-
+-----
 peggy
 is
 an
@@ -19042,7 +19042,7 @@ to
 get
 an
 a
-
+-----
 peggy
 is
 eccentric
@@ -19102,7 +19102,7 @@ fit
 for
 the
 course
-
+-----
 peggy
 is
 full
@@ -19140,7 +19140,7 @@ is
 a
 cool
 lady
-
+-----
 rutigliano
 is
 one
@@ -19202,7 +19202,7 @@ very
 dry
 very
 quickly
-
+-----
 that
 rare
 kind
@@ -19242,7 +19242,7 @@ yourself
 in
 his
 class
-
+-----
 professor
 is
 awesome
@@ -19271,7 +19271,7 @@ again
 if
 i
 could
-
+-----
 out
 of
 all
@@ -19337,7 +19337,7 @@ that
 era
 he's
 unconventional
-
+-----
 teacher's
 teacher
 his
@@ -19348,7 +19348,7 @@ subject
 matter
 is
 contageous
-
+-----
 best
 professor
 i've
@@ -19418,7 +19418,7 @@ end
 of
 the
 semester
-
+-----
 this
 is
 really
@@ -19466,7 +19466,7 @@ you
 amazed
 highly
 recommend
-
+-----
 not
 very
 understanding
@@ -19501,7 +19501,7 @@ and
 understanding
 are
 given
-
+-----
 transformation
 -
 enough
@@ -19512,7 +19512,7 @@ class
 and
 you'll
 understand
-
+-----
 rutigliano
 is
 an
@@ -19580,7 +19580,7 @@ taken
 classes
 with
 him
-
+-----
 i've
 taken
 two
@@ -19642,13 +19642,13 @@ love
 him
 i
 promise
-
+-----
 easy
 a
 he
 is
 great
-
+-----
 he's
 the
 best
@@ -19695,7 +19695,7 @@ definitely
 makes
 you
 t
-
+-----
 rutigliano
 i'm
 sure
@@ -19735,7 +19735,7 @@ is
 good
 at
 it
-
+-----
 his
 classes
 were
@@ -19770,7 +19770,7 @@ fun
 advisor
 walking
 prozac
-
+-----
 absolute
 genius
 ridiculous
@@ -19799,7 +19799,7 @@ isn't
 a
 total
 ass
-
+-----
 he's
 the
 best
@@ -19814,12 +19814,12 @@ any
 class
 he
 offered
-
+-----
 i
 love
 this
 man
-
+-----
 he's
 a
 smart
@@ -19878,7 +19878,7 @@ his
 class
 is
 structured
-
+-----
 he
 does
 a
@@ -19913,7 +19913,7 @@ an
 incredibly
 passionate
 teacher
-
+-----
 professor
 kellogg's
 classes
@@ -19974,7 +19974,7 @@ doesn't
 really
 realize
 it
-
+-----
 easiest
 a
 and
@@ -20037,7 +20037,7 @@ groups
 overall
 great
 class
-
+-----
 you
 can
 take
@@ -20098,7 +20098,7 @@ discourages
 learning
 encourages
 memorization
-
+-----
 prof
 kellogg
 is
@@ -20168,7 +20168,7 @@ manageable
 overall
 he's
 amazing
-
+-----
 this
 is
 one
@@ -20235,7 +20235,7 @@ determine
 your
 final
 grade
-
+-----
 i
 took
 addiction
@@ -20301,7 +20301,7 @@ interesting
 but
 not
 imperative
-
+-----
 i
 enjoy
 the
@@ -20359,7 +20359,7 @@ work
 for
 it
 now
-
+-----
 the
 exams
 are
@@ -20417,7 +20417,7 @@ my
 life
 thanks
 professor
-
+-----
 this
 can
 be
@@ -20485,7 +20485,7 @@ is
 usually
 full
 too
-
+-----
 this
 class
 was
@@ -20550,7 +20550,7 @@ so
 little
 effort
 teaching
-
+-----
 easiest
 a
 i've
@@ -20617,7 +20617,7 @@ took
 less
 than
 30mins
-
+-----
 great
 professor
 easy
@@ -20640,7 +20640,7 @@ this
 guy
 is
 amazing
-
+-----
 attendance
 is
 not
@@ -20697,7 +20697,7 @@ related
 to
 the
 subject
-
+-----
 in
 3
 words
@@ -20765,7 +20765,7 @@ flag
 that
 he
 suck
-
+-----
 taking
 lab
 in
@@ -20807,7 +20807,7 @@ with
 him
 you
 can
-
+-----
 i
 love
 him
@@ -20883,7 +20883,7 @@ to
 class
 or
 go
-
+-----
 one
 of
 the
@@ -20932,7 +20932,7 @@ course
 with
 interesting
 movies
-
+-----
 i
 heart
 scotty
@@ -20984,7 +20984,7 @@ classes
 ::coughs
 social
 psych::
-
+-----
 this
 is
 an
@@ -21020,7 +21020,7 @@ a
 small
 class
 setting
-
+-----
 best
 professor
 i
@@ -21032,7 +21032,7 @@ an
 awesomeness
 about
 him
-
+-----
 honestly
 not
 an
@@ -21092,7 +21092,7 @@ and
 understand
 his
 words
-
+-----
 bisin
 is
 probably
@@ -21154,7 +21154,7 @@ a
 lot
 of
 materials
-
+-----
 bisin
 overall
 is
@@ -21224,7 +21224,7 @@ and
 taught
 me
 everythin
-
+-----
 do
 not
 take
@@ -21287,7 +21287,7 @@ favor
 and
 avoid
 him
-
+-----
 i'm
 still
 not
@@ -21356,7 +21356,7 @@ the
 class
 is
 weird
-
+-----
 curriculum
 is
 poorly
@@ -21404,7 +21404,7 @@ funny
 and
 interesting
 guy
-
+-----
 he
 has
 no
@@ -21451,7 +21451,7 @@ comes
 off
 as
 unhelpful
-
+-----
 i
 pay
 attention
@@ -21517,7 +21517,7 @@ not
 a
 great
 teacher
-
+-----
 bisin
 gives
 off
@@ -21582,7 +21582,7 @@ class
 and
 with
 him
-
+-----
 bisin
 is
 not
@@ -21632,7 +21632,7 @@ truly
 comprehending
 the
 material
-
+-----
 bisin
 moves
 fast
@@ -21667,7 +21667,7 @@ in
 the
 subject
 beforehand
-
+-----
 class
 is
 in
@@ -21696,7 +21696,7 @@ get
 something
 you're
 screwed
-
+-----
 bisin
 is
 a
@@ -21760,7 +21760,7 @@ without
 doing
 any
 work
-
+-----
 the
 class
 is
@@ -21826,7 +21826,7 @@ to
 be
 following
 him
-
+-----
 okay
 everyone
 who
@@ -21875,7 +21875,7 @@ of
 prior
 econ
 knowledge
-
+-----
 very
 intense
 not
@@ -21890,7 +21890,7 @@ background
 of
 the
 course
-
+-----
 you
 should
 know
@@ -21955,7 +21955,7 @@ really
 have
 a
 choice
-
+-----
 very
 unorganized
 but
@@ -21995,7 +21995,7 @@ and
 he
 likes
 you
-
+-----
 extremely
 interesting
 class
@@ -22042,7 +22042,7 @@ back
 to
 high
 school
-
+-----
 he
 can
 not
@@ -22072,7 +22072,7 @@ not
 prepared
 at
 all
-
+-----
 john
 is
 amazing
@@ -22113,7 +22113,7 @@ and
 retakes
 on
 midterms
-
+-----
 john
 waters
 is
@@ -22163,7 +22163,7 @@ out
 of
 the
 class
-
+-----
 john
 is
 the
@@ -22211,7 +22211,7 @@ man's
 success
 and
 integrity
-
+-----
 course
 was
 taught
@@ -22255,7 +22255,7 @@ comments
 w
 o
 realizing
-
+-----
 i
 took
 joyce
@@ -22317,7 +22317,7 @@ in
 all
 great
 guy
-
+-----
 phenomenal
 professor
 don't
@@ -22327,7 +22327,7 @@ tangential
 lectures
 deter
 you
-
+-----
 very
 knowledgeable
 man
@@ -22382,7 +22382,7 @@ class
 and
 do
 well
-
+-----
 waters
 is
 an
@@ -22435,7 +22435,7 @@ fully
 invested
 highly
 recommend
-
+-----
 amazing
 lectures
 you
@@ -22452,7 +22452,7 @@ you
 do
 the
 reading
-
+-----
 he's
 insanely
 smart
@@ -22492,7 +22492,7 @@ tests
 are
 pretty
 easy
-
+-----
 he
 is
 extremely
@@ -22530,7 +22530,7 @@ and
 grasping
 his
 ideas
-
+-----
 i
 took
 a
@@ -22592,7 +22592,7 @@ freshman
 class
 so
 far
-
+-----
 he's
 brilliant
 but
@@ -22660,7 +22660,7 @@ immense
 amount
 of
 reading
-
+-----
 i
 thought
 that
@@ -22710,7 +22710,7 @@ makes
 sense
 to
 me
-
+-----
 you
 will
 have
@@ -22722,7 +22722,7 @@ is
 freakin
 talking
 about
-
+-----
 did
 not
 respond
@@ -22767,7 +22767,7 @@ open
 communication
 and
 organization
-
+-----
 after
 a
 horrble
@@ -22823,7 +22823,7 @@ class
 fun
 and
 interesting
-
+-----
 took
 his
 class
@@ -22877,10 +22877,10 @@ get
 the
 books
 elsewhere
-
+-----
 amazing
 professor
-
+-----
 waters
 rocks
 my
@@ -22891,7 +22891,7 @@ man
 take
 his
 class
-
+-----
 amy
 is
 a
@@ -22926,7 +22926,7 @@ a
 lot
 take
 her
-
+-----
 perfect
 writing1
 prof
@@ -22987,7 +22987,7 @@ likes
 personalstories
 and
 details
-
+-----
 amy
 really
 cares
@@ -23042,7 +23042,7 @@ essay
 topics
 are
 interesting
-
+-----
 amy
 is
 the
@@ -23106,7 +23106,7 @@ and
 you'll
 do
 great
-
+-----
 amy
 is
 awesome
@@ -23141,7 +23141,7 @@ recommend
 taking
 her
 class
-
+-----
 amy
 really
 cares
@@ -23185,7 +23185,7 @@ you
 want
 an
 a
-
+-----
 she
 is
 a
@@ -23239,7 +23239,7 @@ will
 get
 an
 a
-
+-----
 absolute
 favorite
 professor
@@ -23291,7 +23291,7 @@ reach
 take
 her
 class
-
+-----
 amy
 is
 a
@@ -23352,7 +23352,7 @@ be
 in
 her
 class
-
+-----
 i
 was
 actually
@@ -23415,7 +23415,7 @@ was
 a
 great
 one
-
+-----
 amy
 is
 incredibly
@@ -23452,7 +23452,7 @@ her
 again
 for
 sure
-
+-----
 if
 you
 have
@@ -23505,7 +23505,7 @@ about
 highly
 highly
 recommend
-
+-----
 she's
 so
 sweet
@@ -23534,7 +23534,7 @@ would
 highly
 recommend
 her
-
+-----
 amy
 is
 the
@@ -23596,7 +23596,7 @@ to
 work
 on
 them
-
+-----
 i
 thought
 this
@@ -23659,7 +23659,7 @@ a
 pretty
 easy
 class
-
+-----
 i
 took
 her
@@ -23704,7 +23704,7 @@ i've
 learned
 a
 lot
-
+-----
 good
 teacher
 if
@@ -23742,7 +23742,7 @@ teacher
 and
 grades
 fair
-
+-----
 amy
 can
 make
@@ -23805,7 +23805,7 @@ class
 take
 her
 :
-
+-----
 amy
 is
 a
@@ -23867,7 +23867,7 @@ she's
 clear
 and
 devoted
-
+-----
 i
 absolutely
 loved
@@ -23930,7 +23930,7 @@ her
 if
 you
 can
-
+-----
 i
 really
 enjoy
@@ -23994,7 +23994,7 @@ more
 of
 her
 classes
-
+-----
 tia
 is
 the
@@ -24009,7 +24009,7 @@ math
 department
 100%
 recommend
-
+-----
 tia
 was
 amazing
@@ -24069,7 +24069,7 @@ to
 their
 own
 conclusions
-
+-----
 professor
 sondjaja
 is
@@ -24087,7 +24087,7 @@ tests
 that
 are
 self-explanatory
-
+-----
 sondjaja
 is
 truly
@@ -24136,7 +24136,7 @@ talk
 about
 any
 questions
-
+-----
 she's
 incredible
 discrete
@@ -24194,7 +24194,7 @@ pretty
 easy
 take
 her
-
+-----
 sondjaja
 is
 an
@@ -24226,7 +24226,7 @@ any
 of
 her
 classes
-
+-----
 great
 professor
 who
@@ -24292,7 +24292,7 @@ so
 study
 for
 them
-
+-----
 shes
 a
 good
@@ -24348,7 +24348,7 @@ is
 almost
 2
 hours
-
+-----
 sondjaja
 is
 a
@@ -24416,7 +24416,7 @@ lots
 of
 people
 retake
-
+-----
 amazing
 professor
 clear
@@ -24448,7 +24448,7 @@ up
 to
 every
 class
-
+-----
 she
 cares
 and
@@ -24462,7 +24462,7 @@ too
 much
 homework
 fam
-
+-----
 love
 her
 super
@@ -24525,7 +24525,7 @@ boring
 subject
 take
 her
-
+-----
 a
 really
 great
@@ -24583,7 +24583,7 @@ on
 top
 of
 hws
-
+-----
 sondjaja
 is
 awesome
@@ -24646,7 +24646,7 @@ didnt
 like
 the
 textbook
-
+-----
 she
 is
 super
@@ -24685,7 +24685,7 @@ and
 listen
 during
 class
-
+-----
 wasn't
 always
 very
@@ -24741,7 +24741,7 @@ to
 students
 at
 once
-
+-----
 uses
 clickers
 for
@@ -24766,7 +24766,7 @@ sections
 big
 lecture
 hall
-
+-----
 she
 is
 a
@@ -24831,7 +24831,7 @@ to
 understand
 her
 :
-
+-----
 she
 is
 the
@@ -24892,7 +24892,7 @@ with
 math
 take
 her
-
+-----
 really
 great
 class
@@ -24924,7 +24924,7 @@ important
 for
 your
 grade
-
+-----
 great
 professor
 genuinely
@@ -24960,7 +24960,7 @@ your
 grade
 as
 well
-
+-----
 so
 if
 you
@@ -25019,7 +25019,7 @@ class
 is
 really
 systematic
-
+-----
 professor
 shamsai
 is
@@ -25080,7 +25080,7 @@ in
 touch
 with
 peri
-
+-----
 peri
 is
 one
@@ -25135,7 +25135,7 @@ plus
 she's
 super
 nice
-
+-----
 emi
 is
 a
@@ -25195,7 +25195,7 @@ answer
 questions
 and
 help
-
+-----
 this
 class
 is
@@ -25261,7 +25261,7 @@ any
 point
 to
 help
-
+-----
 three
 years
 post
@@ -25318,7 +25318,7 @@ credits
 on
 your
 transcript
-
+-----
 prof
 shamsai's
 class
@@ -25375,7 +25375,7 @@ lectures
 fun
 and
 engaging
-
+-----
 prof
 shamsai
 is
@@ -25425,7 +25425,7 @@ understand
 the
 media
 industries
-
+-----
 she's
 passionate
 about
@@ -25478,7 +25478,7 @@ expects
 is
 too
 much
-
+-----
 prof
 shamsai's
 emi
@@ -25535,7 +25535,7 @@ fun
 and
 helpful
 professor
-
+-----
 has
 a
 lot
@@ -25600,7 +25600,7 @@ and
 would
 not
 recommend
-
+-----
 i
 have
 never
@@ -25666,7 +25666,7 @@ and
 she
 truly
 cares
-
+-----
 professor
 shamsai
 had
@@ -25720,7 +25720,7 @@ can't
 recommend
 her
 enough
-
+-----
 great
 class
 really
@@ -25757,7 +25757,7 @@ to
 the
 class
 texts
-
+-----
 shamsai
 did
 a
@@ -25823,7 +25823,7 @@ from
 the
 class
 often
-
+-----
 this
 class
 is
@@ -25885,7 +25885,7 @@ info
 is
 most
 useful
-
+-----
 it
 was
 definitely
@@ -25947,7 +25947,7 @@ detail
 on
 those
 ppts
-
+-----
 she
 was
 my
@@ -26006,7 +26006,7 @@ about
 the
 entertainment
 industry
-
+-----
 he
 is
 a
@@ -26057,7 +26057,7 @@ pay
 attention
 and
 participate
-
+-----
 he's
 a
 sweet
@@ -26078,7 +26078,7 @@ he's
 talking
 about
 sometimes
-
+-----
 i
 had
 him
@@ -26133,7 +26133,7 @@ work
 for
 your
 grade
-
+-----
 i
 really
 liked
@@ -26165,7 +26165,7 @@ one
 of
 my
 favorites
-
+-----
 this
 was
 the
@@ -26189,7 +26189,7 @@ as
 far
 as
 help
-
+-----
 very
 energetic
 in
@@ -26214,7 +26214,7 @@ woka
 wokawoka
 woka
 right
-
+-----
 loves
 to
 talk
@@ -26248,7 +26248,7 @@ right
 waka
 waka
 waka
-
+-----
 a
 difficult
 yet
@@ -26277,7 +26277,7 @@ it
 will
 pay
 off
-
+-----
 do
 not
 take
@@ -26346,7 +26346,7 @@ to
 improve
 your
 writing
-
+-----
 he's
 absolutely
 useless
@@ -26383,7 +26383,7 @@ at
 your
 own
 risk
-
+-----
 prof
 mccormack
 was
@@ -26449,7 +26449,7 @@ recommend
 him
 to
 all
-
+-----
 loved
 writing
 before
@@ -26507,7 +26507,7 @@ you'll
 get
 an
 a
-
+-----
 definitely
 wants
 his
@@ -26572,7 +26572,7 @@ of
 an
 essay
 thanks
-
+-----
 we
 get
 to
@@ -26634,7 +26634,7 @@ you
 think
 a
 lot:
-
+-----
 totally
 a
 nice
@@ -26687,7 +26687,7 @@ met
 grades
 really
 harshly
-
+-----
 extremely
 nice
 guy
@@ -26755,7 +26755,7 @@ improved
 or
 learned
 much
-
+-----
 he
 wants
 to
@@ -26794,10 +26794,10 @@ he's
 a
 nice
 guy
-
+-----
 no
 comments
-
+-----
 enthusiastic
 and
 good-hearted
@@ -26857,7 +26857,7 @@ quite
 an
 intelligent
 professor
-
+-----
 this
 teacher
 if
@@ -26919,7 +26919,7 @@ brain
 tumors
 stay
 away
-
+-----
 dr
 fenton
 is
@@ -26986,7 +26986,7 @@ you
 can
 think
 logically
-
+-----
 very
 smart
 professor
@@ -27003,7 +27003,7 @@ for
 a
 core
 subject
-
+-----
 this
 class
 is
@@ -27057,7 +27057,7 @@ struggling
 seek
 him
 out
-
+-----
 don't
 make
 the
@@ -27120,7 +27120,7 @@ useless
 don't
 take
 him
-
+-----
 dr
 fenton
 doesn't
@@ -27182,7 +27182,7 @@ lets
 on
 no
 curve
-
+-----
 for
 a
 guy
@@ -27245,7 +27245,7 @@ to
 see
 you
 succeed
-
+-----
 read
 the
 textbook
@@ -27311,7 +27311,7 @@ decent
 job
 presenting
 it
-
+-----
 prof
 fenton
 is
@@ -27347,7 +27347,7 @@ seen
 among
 neuroscience
 dept
-
+-----
 attendance
 was
 not
@@ -27413,7 +27413,7 @@ something
 wrong
 with
 you
-
+-----
 professor
 fenton
 is
@@ -27474,7 +27474,7 @@ midterm
 and
 the
 final
-
+-----
 andre
 is
 so
@@ -27538,7 +27538,7 @@ tests
 will
 be
 okay
-
+-----
 the
 teacher
 doesn't
@@ -27570,7 +27570,7 @@ and
 are
 quite
 difficult
-
+-----
 i
 found
 his
@@ -27639,7 +27639,7 @@ isn't
 the
 best
 teacher
-
+-----
 don't
 take
 this
@@ -27685,7 +27685,7 @@ good
 at
 conveying
 information
-
+-----
 if
 you're
 not
@@ -27729,7 +27729,7 @@ his
 area
 of
 study
-
+-----
 i
 really
 enjoyed
@@ -27779,7 +27779,7 @@ then
 take
 this
 class
-
+-----
 originally
 i
 thought
@@ -27839,7 +27839,7 @@ class
 is
 a
 challenge
-
+-----
 this
 is
 by
@@ -27904,7 +27904,7 @@ lectures
 don't
 take
 this
-
+-----
 worst
 course
 and
@@ -27965,7 +27965,7 @@ was
 condescending
 and
 unhelpful
-
+-----
 this
 class
 was
@@ -28020,7 +28020,7 @@ this
 class
 if
 possible
-
+-----
 great
 class
 not
@@ -28059,7 +28059,7 @@ difficult
 but
 not
 ridiculous
-
+-----
 lots
 of
 info
@@ -28071,7 +28071,7 @@ class
 is
 very
 interesting
-
+-----
 prof
 anton
 is
@@ -28133,7 +28133,7 @@ some
 effort
 you're
 good
-
+-----
 do
 not
 take
@@ -28192,7 +28192,7 @@ of
 time
 to
 study
-
+-----
 brilliant
 professorbest
 lecturer
@@ -28234,7 +28234,7 @@ much
 more
 than
 that
-
+-----
 excellent
 professor
 extremely
@@ -28282,7 +28282,7 @@ professor
 and
 really
 funny
-
+-----
 i
 cannot
 fathom
@@ -28329,7 +28329,7 @@ be
 tested
 on
 10
-
+-----
 prof
 anton
 is
@@ -28379,7 +28379,7 @@ are
 mandatory
 and
 tedious
-
+-----
 dr
 anton
 is
@@ -28429,7 +28429,7 @@ straightforward
 no
 surprises
 here
-
+-----
 she's
 an
 amazing
@@ -28479,7 +28479,7 @@ you'll
 do
 just
 fine
-
+-----
 i
 didn't
 expect
@@ -28535,7 +28535,7 @@ to
 memorize
 memorize
 memorize
-
+-----
 awesome
 teacher
 great
@@ -28564,7 +28564,7 @@ the
 tas
 are
 awesome
-
+-----
 i
 was
 excited
@@ -28626,7 +28626,7 @@ requirement
 choose
 another
 class
-
+-----
 forensic
 anthropology
 best
@@ -28654,7 +28654,7 @@ interesting
 it
 won't
 matter
-
+-----
 awesome
 professor
 her
@@ -28706,7 +28706,7 @@ her
 if
 you
 can
-
+-----
 i
 took
 her
@@ -28758,7 +28758,7 @@ regret
 taking
 her
 class
-
+-----
 by
 far
 the
@@ -28807,7 +28807,7 @@ another
 class
 with
 her
-
+-----
 i
 took
 her
@@ -28859,7 +28859,7 @@ she
 lectures
 love
 her
-
+-----
 this
 was
 the
@@ -28917,7 +28917,7 @@ prof
 take
 this
 class
-
+-----
 hands
 down
 the
@@ -28951,7 +28951,7 @@ but
 totally
 worth
 it
-
+-----
 fred
 myers
 is
@@ -29009,7 +29009,7 @@ take
 a
 different
 c&c
-
+-----
 a
 good
 choice
@@ -29051,7 +29051,7 @@ go
 to
 every
 lecture
-
+-----
 fred
 is
 a
@@ -29116,7 +29116,7 @@ but
 can
 be
 boring
-
+-----
 fred
 myers
 is
@@ -29180,7 +29180,7 @@ i
 learned
 a
 lot
-
+-----
 without
 a
 doubt
@@ -29239,7 +29239,7 @@ will
 turn
 out
 okay
-
+-----
 i
 took
 his
@@ -29293,7 +29293,7 @@ to
 your
 ta
 though
-
+-----
 this
 class
 is
@@ -29356,7 +29356,7 @@ on
 the
 four
 essays
-
+-----
 what
 makes
 this
@@ -29427,7 +29427,7 @@ you
 put
 in
 effort
-
+-----
 every
 essay
 is
@@ -29500,7 +29500,7 @@ of
 that
 matters
 avoid
-
+-----
 gives
 a
 2-question
@@ -29568,7 +29568,7 @@ get
 a
 good
 grade
-
+-----
 talks
 about
 himself
@@ -29615,7 +29615,7 @@ on
 their
 good
 side
-
+-----
 indigenous
 australia
 with
@@ -29667,7 +29667,7 @@ listening
 to
 his
 lectures
-
+-----
 this
 class
 is
@@ -29719,7 +29719,7 @@ nothing
 but
 it's
 easy
-
+-----
 interesting
 sort
 of
@@ -29764,7 +29764,7 @@ total
 waste
 of
 time
-
+-----
 professor
 myers
 is
@@ -29802,7 +29802,7 @@ and
 learn
 a
 lot
-
+-----
 professor
 myers
 is
@@ -29824,7 +29824,7 @@ course--
 overall
 very
 enjoyable
-
+-----
 arrogant
 and
 annoying
@@ -29851,7 +29851,7 @@ tests
 boring
 reading
 though
-
+-----
 i
 took
 world
@@ -29912,7 +29912,7 @@ the
 final
 was
 optional
-
+-----
 intro
 to
 aboriginal
@@ -29928,10 +29928,10 @@ to
 lecture
 tas
 good
-
+-----
 no
 comments
-
+-----
 very
 knowledgeable
 speaks
@@ -29983,7 +29983,7 @@ on
 this
 pepsi-drinking
 lumberjack
-
+-----
 dies
 is
 a
@@ -30047,7 +30047,7 @@ in
 good
 shape
 recommend
-
+-----
 he
 is
 the
@@ -30097,7 +30097,7 @@ person
 i
 ever
 met
-
+-----
 go
 to
 class
@@ -30157,7 +30157,7 @@ are
 probably
 better
 options
-
+-----
 he's
 a
 good
@@ -30209,7 +30209,7 @@ for
 future
 math
 classes
-
+-----
 pretty
 fair
 tests
@@ -30262,7 +30262,7 @@ and
 great
 clear
 voice
-
+-----
 good
 lecture
 but
@@ -30290,7 +30290,7 @@ homework
 nor
 hard
 exam
-
+-----
 took
 it
 over
@@ -30315,7 +30315,7 @@ he
 has
 office
 hours
-
+-----
 very
 interesting
 and
@@ -30334,7 +30334,7 @@ progressions
 respects
 his
 students
-
+-----
 he
 is
 a
@@ -30368,7 +30368,7 @@ great
 teacher
 i
 recommend
-
+-----
 i
 took
 it
@@ -30381,7 +30381,7 @@ had
 no
 office
 hours
-
+-----
 uses
 real
 examples
@@ -30396,7 +30396,7 @@ description
 in
 syllabus
 though
-
+-----
 fair
 not
 great
@@ -30410,7 +30410,7 @@ inspiring
 homework
 good
 voice
-
+-----
 his
 lectures
 are
@@ -30431,7 +30431,7 @@ a
 in
 the
 class
-
+-----
 dies
 is
 an
@@ -30445,9 +30445,9 @@ great
 sense
 of
 humor
-
+-----
 helpful
-
+-----
 erik
 is
 hands
@@ -30505,7 +30505,7 @@ hard
 math
 subjects
 bearable
-
+-----
 erik
 is
 a
@@ -30565,7 +30565,7 @@ you'll
 receive
 an
 a
-
+-----
 great
 lecturer
 took
@@ -30604,10 +30604,10 @@ him
 if
 you
 can
-
+-----
 no
 comments
-
+-----
 aviva's
 class
 on
@@ -30676,7 +30676,7 @@ all
 of
 her
 classes
-
+-----
 aviva
 is
 a
@@ -30718,7 +30718,7 @@ to
 see
 your
 thoughts
-
+-----
 very
 engaged
 kind
@@ -30743,7 +30743,7 @@ and
 overwhelmingly
 great
 teacher
-
+-----
 aviva
 is
 a
@@ -30777,7 +30777,7 @@ is
 a
 fantastic
 educator
-
+-----
 i've
 taken
 two
@@ -30846,7 +30846,7 @@ forth
 your
 best
 effort
-
+-----
 amazing
 teacher
 some
@@ -30884,7 +30884,7 @@ inspirational
 eye
 opening
 class
-
+-----
 aviva
 is
 a
@@ -30945,7 +30945,7 @@ well
 would
 take
 again
-
+-----
 extremely
 knowledgeable
 about
@@ -30997,7 +30997,7 @@ great
 lady
 great
 class
-
+-----
 master
 class
 doc
@@ -31058,7 +31058,7 @@ connected
 love
 this
 class
-
+-----
 human
 rights
 in
@@ -31115,7 +31115,7 @@ than
 just
 a
 grade
-
+-----
 i've
 taken
 several
@@ -31184,7 +31184,7 @@ slide
 with
 crap
 papers
-
+-----
 i
 took
 all
@@ -31241,7 +31241,7 @@ a
 class
 from
 her
-
+-----
 disrespects
 opinions
 even
@@ -31306,7 +31306,7 @@ take
 her
 class
 again
-
+-----
 prof
 slesin
 is
@@ -31366,7 +31366,7 @@ frustrated
 in
 her
 classes
-
+-----
 aviva
 believes
 each
@@ -31431,7 +31431,7 @@ know
 why
 you
 came
-
+-----
 amazing
 professor
 one
@@ -31448,7 +31448,7 @@ interest
 in
 each
 student
-
+-----
 aviva's
 class
 taught
@@ -31479,7 +31479,7 @@ for
 documentaries
 is
 contagious
-
+-----
 i
 switched
 into
@@ -31537,7 +31537,7 @@ will
 learn
 a
 lot
-
+-----
 she
 is
 very
@@ -31600,7 +31600,7 @@ horrible
 teacher
 and
 person
-
+-----
 aviva's
 strengths
 are
@@ -31665,7 +31665,7 @@ go
 wrong
 with
 aviva
-
+-----
 class
 structure
 is
@@ -31734,7 +31734,7 @@ was
 for
 context
 info
-
+-----
 one
 of
 the
@@ -31797,7 +31797,7 @@ texts
 and
 about
 life
-
+-----
 seems
 like
 a
@@ -31853,7 +31853,7 @@ lot
 to
 change
 that
-
+-----
 awesome
 teacher
 he
@@ -31916,7 +31916,7 @@ lot
 about
 the
 world
-
+-----
 rubenstein
 is
 by
@@ -31978,7 +31978,7 @@ in
 recitation
 without
 them
-
+-----
 rubenstein
 was
 a
@@ -32027,7 +32027,7 @@ all
 a
 decent
 professor
-
+-----
 professor
 rubenstein
 makes
@@ -32093,7 +32093,7 @@ hard
 should
 be
 fine
-
+-----
 prof
 rubenstein
 is
@@ -32154,7 +32154,7 @@ the
 material
 in
 lectures
-
+-----
 professor
 rubenstein
 was
@@ -32219,7 +32219,7 @@ need
 to
 use
 them
-
+-----
 professor
 rubenstein
 is
@@ -32256,7 +32256,7 @@ will
 likely
 do
 well
-
+-----
 prof
 rubenstein
 was
@@ -32298,7 +32298,7 @@ up
 the
 class
 :
-
+-----
 this
 was
 one
@@ -32341,7 +32341,7 @@ and
 participate
 in
 recitations
-
+-----
 took
 him
 for
@@ -32399,7 +32399,7 @@ ta
 if
 you
 can
-
+-----
 to
 be
 honest
@@ -32464,7 +32464,7 @@ notes
 get
 the
 concepts
-
+-----
 i
 had
 him
@@ -32524,7 +32524,7 @@ to
 exams
 are
 straightforward
-
+-----
 i
 took
 this
@@ -32588,7 +32588,7 @@ lecture
 material
 &
 handouts
-
+-----
 jewish
 ethics
 class
@@ -32635,7 +32635,7 @@ prof
 to
 deal
 with
-
+-----
 classes
 are
 actually
@@ -32684,7 +32684,7 @@ still
 got
 an
 a
-
+-----
 con
 west
 was
@@ -32734,7 +32734,7 @@ almost
 everything
 very
 enlightening
-
+-----
 i
 love
 professor
@@ -32759,7 +32759,7 @@ and
 worthwhile
 excellent
 teacher
-
+-----
 human
 societies&cultures
 had
@@ -32825,7 +32825,7 @@ with
 prof
 r
 musttake
-
+-----
 human
 societies
 and
@@ -32883,7 +32883,7 @@ recommend
 taking
 the
 class
-
+-----
 professor
 rademacher's
 lectures
@@ -32944,7 +32944,7 @@ as
 you
 put
 in
-
+-----
 extremely
 lecture
 and
@@ -33003,7 +33003,7 @@ results
 in
 majors
 stress
-
+-----
 i
 only
 had
@@ -33070,7 +33070,7 @@ she
 has
 high
 expectations
-
+-----
 she
 grades
 ridiculously
@@ -33108,7 +33108,7 @@ for
 an
 elective
 course
-
+-----
 i've
 had
 professor
@@ -33154,7 +33154,7 @@ be
 challenged
 and
 rewarded
-
+-----
 professor
 rademacher
 is
@@ -33188,7 +33188,7 @@ in
 their
 college
 career
-
+-----
 i've
 had
 anne
@@ -33251,7 +33251,7 @@ profs
 taught
 like
 her
-
+-----
 the
 lectures
 are
@@ -33290,7 +33290,7 @@ a
 lot
 great
 class
-
+-----
 r
 is
 a
@@ -33351,7 +33351,7 @@ the
 final
 is
 easy
-
+-----
 she
 is
 very
@@ -33413,7 +33413,7 @@ total
 which
 are
 brutal
-
+-----
 the
 essays
 are
@@ -33458,7 +33458,7 @@ must
 attend
 every
 lecture
-
+-----
 there
 is
 indeed
@@ -33515,7 +33515,7 @@ quizes
 on
 the
 readings
-
+-----
 too
 much
 reading
@@ -33538,7 +33538,7 @@ is
 lecture
 at
 us
-
+-----
 seems
 a
 little
@@ -33581,10 +33581,10 @@ opportunities
 for
 the
 final
-
+-----
 no
 comments
-
+-----
 great
 professor;
 yale
@@ -33613,7 +33613,7 @@ with
 the
 reading
 somewhat
-
+-----
 great
 professor
 seems
@@ -33634,7 +33634,7 @@ even
 humorous
 great
 class
-
+-----
 very
 good
 professors
@@ -33653,7 +33653,7 @@ closely
 with
 the
 textbook
-
+-----
 kleeman
 always
 has
@@ -33719,7 +33719,7 @@ a
 very
 hard
 final
-
+-----
 for
 calculus
 iii
@@ -33778,7 +33778,7 @@ that's
 a
 curriculum
 choice
-
+-----
 professor
 kleeman's
 lectures
@@ -33837,7 +33837,7 @@ tests
 are
 very
 reasonable
-
+-----
 a
 very
 charming
@@ -33902,7 +33902,7 @@ lectures
 end
 45m
 early
-
+-----
 mostly
 organized
 lectures
@@ -33966,7 +33966,7 @@ to
 read
 the
 textbook
-
+-----
 ends
 his
 lectures
@@ -34031,7 +34031,7 @@ need
 extra
 explaining
 help
-
+-----
 professor
 kleeman's
 class
@@ -34092,7 +34092,7 @@ it
 all
 planned
 out
-
+-----
 take
 this
 professor
@@ -34140,7 +34140,7 @@ best
 definitely
 take
 him
-
+-----
 kleeman
 is
 an
@@ -34172,7 +34172,7 @@ lecture
 planned
 out
 beforehand
-
+-----
 good
 professor
 teaches
@@ -34204,7 +34204,7 @@ fair
 in
 my
 opinion
-
+-----
 chillest
 professor
 ever
@@ -34233,7 +34233,7 @@ fair
 highly
 recommend
 him
-
+-----
 the
 questions
 this
@@ -34293,7 +34293,7 @@ and
 ends
 class
 early
-
+-----
 i
 had
 him
@@ -34312,7 +34312,7 @@ gave
 very
 little
 homework
-
+-----
 charming
 and
 ends
@@ -34374,7 +34374,7 @@ can
 make
 calculus
 i
-
+-----
 i
 really
 don't
@@ -34415,7 +34415,7 @@ he
 wasn't
 terrible
 either
-
+-----
 he
 teaches
 more
@@ -34445,7 +34445,7 @@ anything
 out
 of
 it
-
+-----
 all
 he
 does
@@ -34502,7 +34502,7 @@ taking
 his
 class
 jump
-
+-----
 this
 man
 has
@@ -34545,7 +34545,7 @@ avoid
 like
 the
 plague
-
+-----
 foley
 is
 a
@@ -34611,7 +34611,7 @@ experience
 of
 my
 growth
-
+-----
 david
 is
 very
@@ -34654,7 +34654,7 @@ essay
 drafts
 amazing
 professor
-
+-----
 okay
 heres
 the
@@ -34713,7 +34713,7 @@ hes
 great
 pls
 take
-
+-----
 david
 foley
 is
@@ -34772,7 +34772,7 @@ recommend
 as
 a
 professor
-
+-----
 -will
 make
 you
@@ -34837,7 +34837,7 @@ don't
 do
 the
 work
-
+-----
 go
 in
 ready
@@ -34901,7 +34901,7 @@ he
 will
 challenge
 you
-
+-----
 after
 starting
 my
@@ -34963,7 +34963,7 @@ as
 a
 writer
 though
-
+-----
 too
 much
 work
@@ -34999,7 +34999,7 @@ just
 stresses
 and
 depresses
-
+-----
 you
 definitely
 need
@@ -35059,7 +35059,7 @@ the
 world
 great
 teacher
-
+-----
 foley
 is
 a
@@ -35114,7 +35114,7 @@ not
 a
 good
 time
-
+-----
 ok
 so
 david
@@ -35183,7 +35183,7 @@ even
 bae
 i
 swear
-
+-----
 david
 foley
 is
@@ -35246,7 +35246,7 @@ notorious
 class
 even
 more
-
+-----
 he's
 well
 meant
@@ -35304,7 +35304,7 @@ up
 your
 final
 papers
-
+-----
 this
 guy
 is
@@ -35363,7 +35363,7 @@ not
 take
 his
 class
-
+-----
 sohe
 is
 actually
@@ -35430,7 +35430,7 @@ some
 sort
 of
 b
-
+-----
 very
 good
 class
@@ -35449,7 +35449,7 @@ an
 automatically
 great
 rating
-
+-----
 the
 worst
 prof
@@ -35479,7 +35479,7 @@ every
 one
 hates
 it
-
+-----
 did
 not
 answer
@@ -35499,7 +35499,7 @@ gave
 everyone
 a
 b
-
+-----
 he
 was
 a
@@ -35513,7 +35513,7 @@ always
 there
 to
 help
-
+-----
 he's
 a
 cute
@@ -35578,7 +35578,7 @@ didn't
 learn
 at
 all
-
+-----
 this
 class
 is
@@ -35650,7 +35650,7 @@ write
 on
 the
 paper
-
+-----
 one
 word:
 old
@@ -35713,7 +35713,7 @@ honestlyjust
 take
 another
 professsor
-
+-----
 such
 a
 boss
@@ -35753,7 +35753,7 @@ impression
 of
 nicholas
 cage
-
+-----
 professor
 bell
 was
@@ -35809,7 +35809,7 @@ made
 in
 his
 lectures
-
+-----
 i've
 studied
 this
@@ -35876,7 +35876,7 @@ to
 get
 above
 b+
-
+-----
 professor
 bell
 is
@@ -35950,7 +35950,7 @@ a
 b+
 easy
 class
-
+-----
 he's
 a
 nice
@@ -36015,7 +36015,7 @@ are
 easy
 own
 s
-
+-----
 amazing
 teacher
 keeps
@@ -36047,10 +36047,10 @@ highly
 recommend
 this
 class
-
+-----
 love
 him
-
+-----
 very
 funny
 nice
@@ -36067,7 +36067,7 @@ he
 goes
 over
 them
-
+-----
 i
 love
 this
@@ -36122,13 +36122,13 @@ a
 funny
 old
 man
-
+-----
 karmen
 professa
 karmen
 professa
 karrrrrrrmen
-
+-----
 bell's
 grading
 can
@@ -36191,7 +36191,7 @@ get
 b-
 or
 c
-
+-----
 he's
 really
 into
@@ -36244,7 +36244,7 @@ it
 got
 really
 repetitive
-
+-----
 the
 class
 is
@@ -36288,7 +36288,7 @@ you
 put
 into
 it
-
+-----
 a
 great
 teacher
@@ -36319,7 +36319,7 @@ his
 class
 to
 anyone
-
+-----
 nice
 older
 guy
@@ -36329,7 +36329,7 @@ lot
 makes
 ya
 think
-
+-----
 i
 was
 uncertain
@@ -36392,7 +36392,7 @@ her
 knowledge
 is
 impressive
-
+-----
 prof
 schieffelin
 is
@@ -36451,7 +36451,7 @@ room
 for
 individual
 creativity
-
+-----
 i've
 been
 bamboozled
@@ -36472,7 +36472,7 @@ will
 be
 think
 again
-
+-----
 bambi
 is
 by
@@ -36530,7 +36530,7 @@ sociolinguistics
 as
 a
 whole
-
+-----
 took
 this
 as
@@ -36597,7 +36597,7 @@ of
 what
 she
 wants
-
+-----
 her
 class
 is
@@ -36665,7 +36665,7 @@ i
 enjoyed
 her
 class
-
+-----
 as
 someone
 here
@@ -36725,7 +36725,7 @@ you
 should
 be
 fine
-
+-----
 passionate
 about
 class
@@ -36781,7 +36781,7 @@ semester
 to
 anthropology
 avoid
-
+-----
 she
 is
 an
@@ -36842,7 +36842,7 @@ don't
 take
 this
 class
-
+-----
 you
 will
 never
@@ -36899,7 +36899,7 @@ for
 a
 first-semester
 freshman
-
+-----
 she
 is
 one
@@ -36935,7 +36935,7 @@ never
 finish
 the
 work
-
+-----
 the
 worst
 teacher
@@ -36999,7 +36999,7 @@ didn't
 switch
 out
 immediately
-
+-----
 the
 course
 was
@@ -37044,7 +37044,7 @@ were
 an
 awesome
 team
-
+-----
 bambi
 is
 the
@@ -37096,7 +37096,7 @@ def
 won't
 regret
 it
-
+-----
 bambi
 is
 wonderful
@@ -37167,7 +37167,7 @@ other
 class
 great
 prof
-
+-----
 i
 love
 bambi
@@ -37229,7 +37229,7 @@ cares
 about
 her
 students
-
+-----
 be
 prepared
 to
@@ -37265,7 +37265,7 @@ time
 doing
 her
 work
-
+-----
 i've
 had
 bambi
@@ -37316,7 +37316,7 @@ her
 over
 anyone
 else
-
+-----
 todd
 is
 a
@@ -37387,7 +37387,7 @@ it
 so
 be
 good
-
+-----
 not
 a
 very
@@ -37430,7 +37430,7 @@ pop
 quizzes
 throughout
 term
-
+-----
 took
 this
 for
@@ -37482,7 +37482,7 @@ relate
 to
 the
 material
-
+-----
 he
 is
 really
@@ -37545,7 +37545,7 @@ material
 inside
 and
 out
-
+-----
 great
 professor
 really
@@ -37590,7 +37590,7 @@ to
 any
 anthro
 major
-
+-----
 he
 is
 really
@@ -37621,7 +37621,7 @@ grade
 avoid
 his
 class
-
+-----
 took
 human
 evolution
@@ -37655,7 +37655,7 @@ i've
 had
 at
 nyu
-
+-----
 loved
 him
 so
@@ -37685,7 +37685,7 @@ a
 class
 with
 him
-
+-----
 i
 loved
 professor
@@ -37736,7 +37736,7 @@ study
 enough
 they're
 fine
-
+-----
 disotell
 is
 about
@@ -37803,7 +37803,7 @@ if
 you
 take
 it
-
+-----
 disotell
 is
 amazing
@@ -37867,7 +37867,7 @@ his
 class
 next
 semester
-
+-----
 definitely
 the
 coolest
@@ -37930,7 +37930,7 @@ are
 still
 worth
 it
-
+-----
 he's
 not
 a
@@ -37984,7 +37984,7 @@ which
 was
 quite
 wonderful
-
+-----
 very
 informative
 and
@@ -38007,7 +38007,7 @@ mohawk
 and
 monkey
 shirts
-
+-----
 he
 is
 such
@@ -38062,7 +38062,7 @@ i
 recommend
 this
 professor
-
+-----
 this
 is
 the
@@ -38110,7 +38110,7 @@ he
 has
 a
 mohawk
-
+-----
 i
 hated
 biology
@@ -38166,7 +38166,7 @@ quotes
 in
 incorrectly
 yes
-
+-----
 take
 any
 class
@@ -38188,7 +38188,7 @@ scientific
 current
 events
 information
-
+-----
 elaine
 was
 honestly
@@ -38248,7 +38248,7 @@ any
 bureaucratic
 nyu
 nonsense
-
+-----
 horrible
 teacher
 i
@@ -38306,7 +38306,7 @@ some
 mistaken
 notion
 reconsider
-
+-----
 one
 of
 my
@@ -38367,7 +38367,7 @@ to
 sleep
 through
 lecture
-
+-----
 not
 a
 class
@@ -38440,7 +38440,7 @@ it's
 hard
 to
 follow
-
+-----
 second
 class
 with
@@ -38499,7 +38499,7 @@ a
 conclusion
 take
 her
-
+-----
 her
 class
 is
@@ -38566,7 +38566,7 @@ can
 get
 an
 a
-
+-----
 horrible
 professor
 she
@@ -38612,7 +38612,7 @@ ruined
 my
 senior
 year
-
+-----
 freedgood
 started
 out
@@ -38673,7 +38673,7 @@ in
 my
 face
 :
-
+-----
 what
 a
 disappointment
@@ -38724,7 +38724,7 @@ very
 questionable
 stay
 away
-
+-----
 she
 is
 vicious
@@ -38783,7 +38783,7 @@ much
 she
 likes
 you
-
+-----
 terrible
 professor
 what
@@ -38828,7 +38828,7 @@ theory
 i
 hate
 her
-
+-----
 for
 19th
 century
@@ -38877,7 +38877,7 @@ on
 subjects
 in
 class
-
+-----
 inaccessible
 caustic
 rude
@@ -38930,14 +38930,14 @@ when
 asked
 for
 clarification
-
+-----
 great
 teacher
 great
 motivator
 extremely
 witty
-
+-----
 freedgood
 doesn't
 really
@@ -39001,7 +39001,7 @@ i
 highly
 recommend
 pick
-
+-----
 dont
 usually
 post
@@ -39025,7 +39025,7 @@ organized
 but
 definitely
 worthwhile
-
+-----
 awful
 teacher
 she
@@ -39077,7 +39077,7 @@ a
 lot
 of
 money
-
+-----
 guillory
 is
 an
@@ -39132,7 +39132,7 @@ likes
 game
 of
 thrones
-
+-----
 what
 an
 amazing
@@ -39167,7 +39167,7 @@ nyu
 has
 to
 offer
-
+-----
 professor
 guillory
 is
@@ -39229,7 +39229,7 @@ do
 well
 good
 luck
-
+-----
 guillory
 is
 one
@@ -39292,7 +39292,7 @@ class
 you'll
 be
 fine
-
+-----
 guillory
 is
 kind
@@ -39328,7 +39328,7 @@ respect
 for
 this
 professor
-
+-----
 everyone
 has
 their
@@ -39390,7 +39390,7 @@ person
 for
 doing
 it
-
+-----
 john
 david
 guillory
@@ -39454,7 +39454,7 @@ will
 not
 regret
 it
-
+-----
 professor
 guillory
 is
@@ -39494,7 +39494,7 @@ author
 you'll
 be
 fine
-
+-----
 just
 the
 sweetest
@@ -39554,7 +39554,7 @@ why
 they're
 actually
 great
-
+-----
 i
 am
 in
@@ -39608,7 +39608,7 @@ donne
 to
 me
 forever
-
+-----
 i
 have
 to
@@ -39648,7 +39648,7 @@ advisor
 in
 the
 department
-
+-----
 i
 wanted
 so
@@ -39705,7 +39705,7 @@ interesting;
 always
 left
 satisfied
-
+-----
 shakespeare
 didn't
 know
@@ -39736,7 +39736,7 @@ enough
 of
 his
 lectures
-
+-----
 spellbinding
 lectures
 eye-opening
@@ -39784,7 +39784,7 @@ to
 take
 his
 courses
-
+-----
 britlit
 i
 --
@@ -39843,7 +39843,7 @@ but
 he's
 unbelievably
 repetitive
-
+-----
 incredible
 engaging
 lecturer
@@ -39864,7 +39864,7 @@ alternate
 readings
 of
 material
-
+-----
 teaches
 rarely
 but
@@ -39908,7 +39908,7 @@ speak
 [a
 humble
 superstar]
-
+-----
 amazing
 professor
 very
@@ -39933,7 +39933,7 @@ required
 for
 every
 student
-
+-----
 professor
 white
 is
@@ -39990,7 +39990,7 @@ so
 understanding
 and
 caring
-
+-----
 she
 boosts
 your
@@ -40031,7 +40031,7 @@ in
 my
 whole
 life
-
+-----
 this
 is
 a
@@ -40070,7 +40070,7 @@ gets
 there
 it's
 helpful
-
+-----
 professor
 white
 has
@@ -40129,7 +40129,7 @@ for
 life
 after
 college
-
+-----
 great
 professor
 great
@@ -40157,7 +40157,7 @@ asks
 you
 to
 do
-
+-----
 i
 wish
 more
@@ -40225,7 +40225,7 @@ looking
 for
 a
 job
-
+-----
 she
 is
 the
@@ -40254,7 +40254,7 @@ for
 a
 job
 interview
-
+-----
 really
 was
 the
@@ -40288,7 +40288,7 @@ well
 highly
 recommended
 professor
-
+-----
 professor
 white
 is
@@ -40335,7 +40335,7 @@ with
 her
 has
 ended
-
+-----
 i
 can't
 recommend
@@ -40392,7 +40392,7 @@ should
 write
 a
 book
-
+-----
 by
 far
 the
@@ -40458,7 +40458,7 @@ to
 everyone
 at
 nyu
-
+-----
 karen
 white
 is
@@ -40522,7 +40522,7 @@ without
 prof
 white's
 guidance
-
+-----
 prof
 white
 is
@@ -40587,7 +40587,7 @@ learned
 have
 been
 crucial
-
+-----
 she's
 kind
 of
@@ -40634,7 +40634,7 @@ learn
 how
 to
 interview
-
+-----
 she
 is
 amazing
@@ -40701,7 +40701,7 @@ you
 outside
 of
 class
-
+-----
 extremely
 helpful
 and
@@ -40729,7 +40729,7 @@ you
 can
 think
 of
-
+-----
 great
 guy
 pretty
@@ -40770,7 +40770,7 @@ engaged
 in
 the
 class
-
+-----
 he
 is
 a
@@ -40816,7 +40816,7 @@ of
 teacher
 to
 take
-
+-----
 his
 voice
 is
@@ -40870,7 +40870,7 @@ teachers
 i
 have
 had
-
+-----
 very
 monotone
 60%
@@ -40936,7 +40936,7 @@ take
 for
 easy
 grade
-
+-----
 tippit
 is
 very
@@ -40990,7 +40990,7 @@ he's
 not
 so
 bad
-
+-----
 took
 labor
 with
@@ -41055,7 +41055,7 @@ i
 would
 def
 reco
-
+-----
 i
 took
 prof
@@ -41116,14 +41116,14 @@ and
 you'll
 be
 fine
-
+-----
 good
 teacher
 very
 nice
 and
 clear
-
+-----
 he's
 a
 great
@@ -41161,7 +41161,7 @@ order
 to
 stay
 awake
-
+-----
 had
 tippit
 for
@@ -41219,7 +41219,7 @@ is
 a
 good
 professor
-
+-----
 he
 does
 not
@@ -41247,7 +41247,7 @@ a
 group
 take-home
 exam
-
+-----
 i
 liked
 the
@@ -41313,7 +41313,7 @@ stuffs
 to
 do
 homeworks
-
+-----
 had
 him
 for
@@ -41370,7 +41370,7 @@ matter
 who
 teaches
 them
-
+-----
 awesome
 professor
 really
@@ -41422,7 +41422,7 @@ helpful
 during
 office
 hours
-
+-----
 good
 teacher
 the
@@ -41450,7 +41450,7 @@ was
 up
 to
 you
-
+-----
 one
 of
 the
@@ -41513,7 +41513,7 @@ unclear
 and
 very
 boring
-
+-----
 i've
 had
 helen
@@ -41568,7 +41568,7 @@ read
 all
 the
 readings
-
+-----
 helen
 is
 incredible
@@ -41631,7 +41631,7 @@ the
 semester
 off
 well
-
+-----
 helen
 is
 amazing
@@ -41678,7 +41678,7 @@ valuable
 information
 in
 there
-
+-----
 helen
 is
 literally
@@ -41744,7 +41744,7 @@ she
 is
 sooo
 funny
-
+-----
 i
 took
 helen
@@ -41809,7 +41809,7 @@ isn't
 actually
 too
 harsh
-
+-----
 i
 have
 helen
@@ -41867,11 +41867,11 @@ delight
 i
 love
 her
-
+-----
 best
 professor
 ever
-
+-----
 massive
 time
 wasted
@@ -41899,7 +41899,7 @@ above
 the
 basic
 level
-
+-----
 i
 was
 greatly
@@ -41937,7 +41937,7 @@ routine
 low
 on
 rigor
-
+-----
 she
 is
 a
@@ -42004,7 +42004,7 @@ hilarious
 asides
 def
 recommend
-
+-----
 one
 of
 the
@@ -42060,7 +42060,7 @@ you
 are
 missing
 out
-
+-----
 helen
 shaw
 is
@@ -42090,7 +42090,7 @@ subjects
 loved
 her
 class
-
+-----
 i
 promise
 you
@@ -42154,7 +42154,7 @@ as
 it
 opens
 seriously
-
+-----
 i
 love
 helen
@@ -42208,7 +42208,7 @@ hilarious
 take
 helen
 shaw
-
+-----
 a
 wonderful
 teacher
@@ -42241,7 +42241,7 @@ have
 helen
 for
 its
-
+-----
 oh
 my
 gosh
@@ -42310,7 +42310,7 @@ it
 not
 matter
 :
-
+-----
 he's
 a
 curmudgeon
@@ -42345,7 +42345,7 @@ favorite
 professor
 thus
 far
-
+-----
 prof
 serrin
 is
@@ -42358,7 +42358,7 @@ he's
 a
 great
 person
-
+-----
 not
 sure
 what
@@ -42416,7 +42416,7 @@ he's
 in
 montana
 :
-
+-----
 serrin
 is
 half
@@ -42477,7 +42477,7 @@ a
 long
 time
 ago
-
+-----
 the
 absolute
 best
@@ -42536,7 +42536,7 @@ class
 if
 you
 can
-
+-----
 prof
 serrin
 is
@@ -42568,7 +42568,7 @@ amazing
 things
 in
 journalism
-
+-----
 he
 is
 so
@@ -42616,7 +42616,7 @@ of
 nyu
 journalism
 department
-
+-----
 how
 come
 a
@@ -42667,7 +42667,7 @@ the
 light
 of
 conscience
-
+-----
 how
 did
 craig
@@ -42724,7 +42724,7 @@ protect
 harasser
 and
 discriminator
-
+-----
 by
 far
 the
@@ -42781,7 +42781,7 @@ serrin
 as
 a
 teacher
-
+-----
 professor
 serrin
 is
@@ -42832,7 +42832,7 @@ knows
 what
 he's
 doing
-
+-----
 nobody
 should
 go
@@ -42855,7 +42855,7 @@ have
 to
 offer
 period
-
+-----
 one
 of
 the
@@ -42885,7 +42885,7 @@ for
 free
 cone
 day
-
+-----
 probably
 the
 best
@@ -42923,7 +42923,7 @@ lot
 of
 professors
 here
-
+-----
 the
 best
 instructor
@@ -42935,7 +42935,7 @@ had
 at
 any
 level
-
+-----
 had
 her
 for
@@ -42999,7 +42999,7 @@ fair
 grader
 quality
 professor
-
+-----
 professor
 jackson
 is
@@ -43042,7 +43042,7 @@ enjoyable
 experience
 at
 all
-
+-----
 prof
 nj
 does
@@ -43102,7 +43102,7 @@ you
 will
 do
 fine
-
+-----
 one
 of
 the
@@ -43162,7 +43162,7 @@ effort
 for
 the
 grade
-
+-----
 had
 nvj
 for
@@ -43222,7 +43222,7 @@ definitely
 fail
 her
 class
-
+-----
 jackson
 does
 not
@@ -43257,7 +43257,7 @@ all
 about
 her
 family
-
+-----
 seems
 nice
 in
@@ -43303,7 +43303,7 @@ are
 on
 good
 luck
-
+-----
 one
 of
 the
@@ -43349,7 +43349,7 @@ based
 around
 her
 stories
-
+-----
 she's
 mean
 and
@@ -43373,7 +43373,7 @@ so
 hard
 and
 unfair
-
+-----
 i've
 had
 health
@@ -43408,7 +43408,7 @@ does
 i
 love
 her
-
+-----
 don't
 expect
 too
@@ -43479,7 +43479,7 @@ and
 papers
 she
 assigns
-
+-----
 she
 is
 not
@@ -43532,10 +43532,10 @@ classes
 if
 you
 can
-
+-----
 no
 comments
-
+-----
 very
 tough
 but
@@ -43562,10 +43562,10 @@ class
 with
 heavy
 coursload
-
+-----
 no
 comments
-
+-----
 i
 had
 the
@@ -43616,7 +43616,7 @@ material
 i
 highly
 recommend
-
+-----
 loved
 this
 class
@@ -43667,7 +43667,7 @@ class
 and
 great
 instructor
-
+-----
 he
 tries
 to
@@ -43721,7 +43721,7 @@ the
 topic
 to
 life
-
+-----
 uses
 real
 world
@@ -43740,7 +43740,7 @@ when
 doing
 the
 homework
-
+-----
 gave
 great
 clear
@@ -43769,7 +43769,7 @@ in
 financial
 statement
 analysis
-
+-----
 chris
 dee
 is
@@ -43826,7 +43826,7 @@ studies
 help
 apply
 material
-
+-----
 hands
 down
 one
@@ -43884,7 +43884,7 @@ was
 $11
 on
 amazon
-
+-----
 one
 thing
 i
@@ -44048,7 +44048,7 @@ dee
 did
 exactly
 that
-
+-----
 this
 is
 a
@@ -44107,7 +44107,7 @@ material
 and
 do
 well
-
+-----
 chris
 is
 an
@@ -44166,7 +44166,7 @@ all
 the
 dotsthanks
 chris
-
+-----
 chris
 was
 excellent
@@ -44218,7 +44218,7 @@ for
 sure
 with
 him
-
+-----
 chris
 was
 a
@@ -44248,7 +44248,7 @@ very
 clear
 and
 patient
-
+-----
 very
 easy
 and
@@ -44299,7 +44299,7 @@ highly
 recommend
 this
 professor
-
+-----
 has
 the
 art
@@ -44356,12 +44356,12 @@ ask
 for
 more
 :-
-
+-----
 great
 teacher
-
+-----
 no
-
+-----
 professor
 ronell
 delivers
@@ -44401,7 +44401,7 @@ highly
 recommend
 her
 classes
-
+-----
 if
 you
 like
@@ -44437,7 +44437,7 @@ though
 so
 be
 warned
-
+-----
 she
 is
 not
@@ -44474,7 +44474,7 @@ but
 i
 loved
 her
-
+-----
 often
 misunderstood:
 in
@@ -44527,7 +44527,7 @@ a
 truly
 revolutionary
 method
-
+-----
 often
 misunderstood:
 in
@@ -44580,7 +44580,7 @@ a
 truly
 revolutionary
 method
-
+-----
 so
 great
 i
@@ -44615,7 +44615,7 @@ know
 she's
 on
 there
-
+-----
 shes
 great
 smart
@@ -44623,14 +44623,14 @@ funny
 and
 very
 challenging
-
+-----
 just
 plain
 awesome
 but
 never
 plain
-
+-----
 she
 is
 one
@@ -44667,7 +44667,7 @@ yourself
 and
 the
 world
-
+-----
 i
 have
 to
@@ -44724,7 +44724,7 @@ to
 examine
 get
 eviscerated
-
+-----
 anyone
 who
 brings
@@ -44740,7 +44740,7 @@ alive
 and
 at
 nyu
-
+-----
 her
 class
 was
@@ -44772,7 +44772,7 @@ helpful
 take
 her
 class
-
+-----
 sad
 sad
 case
@@ -44807,11 +44807,11 @@ a
 serious
 *scholar*
 instead
-
+-----
 she
 is
 ridiculous
-
+-----
 prof
 murray
 is
@@ -44841,7 +44841,7 @@ the
 slide
 shows
 lectures
-
+-----
 her
 lectures
 are
@@ -44894,7 +44894,7 @@ is
 grading
 you
 on
-
+-----
 prof
 murray
 is
@@ -44925,7 +44925,7 @@ fine
 very
 fair
 grading
-
+-----
 knowledgeable
 professor
 the
@@ -44976,7 +44976,7 @@ and
 her
 dry
 wit
-
+-----
 i
 took
 television
@@ -45033,7 +45033,7 @@ get
 a
 good
 grade
-
+-----
 she
 is
 a
@@ -45097,7 +45097,7 @@ based
 then
 i
 thought
-
+-----
 one
 of
 the
@@ -45108,7 +45108,7 @@ i've
 had
 at
 nyu
-
+-----
 i
 thought
 this
@@ -45154,7 +45154,7 @@ of
 hate
 this
 class
-
+-----
 great
 teacher
 it's
@@ -45211,7 +45211,7 @@ this
 professor
 and
 class
-
+-----
 she's
 very
 nice
@@ -45258,7 +45258,7 @@ tv
 clips
 she's
 cool
-
+-----
 awesome
 very
 knowledgeable
@@ -45303,9 +45303,9 @@ are
 confused
 highly
 recommended
-
+-----
 *
-
+-----
 very
 interesting
 professor
@@ -45329,21 +45329,21 @@ fair
 normal
 work
 load
-
+-----
 really
 really
 easy
 she's
 nice
-
+-----
 no
 comments
-
+-----
 what
 everyone
 else
 said
-
+-----
 this
 guy
 is
@@ -45405,7 +45405,7 @@ simples
 of
 questions
 unreal
-
+-----
 nothing
 much
 to
@@ -45422,7 +45422,7 @@ entire
 life
 no
 question
-
+-----
 i
 like
 him
@@ -45448,7 +45448,7 @@ enroll
 in
 this
 program
-
+-----
 nyu
 music
 technology
@@ -45465,7 +45465,7 @@ needs
 to
 organize
 it
-
+-----
 so
 he
 makes
@@ -45532,7 +45532,7 @@ not
 fair
 at
 all
-
+-----
 i
 think
 it
@@ -45598,7 +45598,7 @@ little
 about
 the
 subject
-
+-----
 he
 takes
 a
@@ -45633,7 +45633,7 @@ the
 music
 tech
 environs
-
+-----
 ugh
 i
 have
@@ -45654,10 +45654,10 @@ should
 not
 be
 teaching
-
+-----
 no
 comments
-
+-----
 i
 took
 two
@@ -45727,7 +45727,7 @@ they
 aren't
 for
 everyone
-
+-----
 dresses
 and
 acts
@@ -45763,7 +45763,7 @@ have
 a
 real
 deparment
-
+-----
 biggest
 waste
 of
@@ -45771,11 +45771,11 @@ $6k
 in
 my
 life
-
+-----
 i'm
 still
 reeling
-
+-----
 at
 first
 a
@@ -45833,7 +45833,7 @@ guy
 beautiful
 lecture
 notes
-
+-----
 european
 scottish
 professor
@@ -45874,7 +45874,7 @@ seeing
 examples
 worked
 out
-
+-----
 take
 him
 if
@@ -45921,7 +45921,7 @@ email
 of
 after
 class
-
+-----
 the
 best
 professor
@@ -45971,12 +45971,12 @@ made
 me
 love
 maths
-
+-----
 great
 professor
 very
 helpful
-
+-----
 one
 of
 my
@@ -46016,7 +46016,7 @@ long
 uploads
 lecture
 notes
-
+-----
 he
 comes
 from
@@ -46080,7 +46080,7 @@ him
 in
 the
 end
-
+-----
 he
 hardly
 ever
@@ -46139,7 +46139,7 @@ really
 wonderful
 instructor
 overall
-
+-----
 his
 tests
 were
@@ -46201,10 +46201,10 @@ and
 you'll
 be
 dazed
-
+-----
 nice
 person
-
+-----
 okay
 yes
 he
@@ -46266,7 +46266,7 @@ will
 change
 over
 time
-
+-----
 he's
 a
 seriously
@@ -46295,7 +46295,7 @@ the
 time
 to
 ask
-
+-----
 has
 high
 standards
@@ -46357,7 +46357,7 @@ goes
 over
 in
 class
-
+-----
 although
 his
 lectures
@@ -46379,7 +46379,7 @@ hot
 and
 that
 counts
-
+-----
 lectures
 are
 not
@@ -46414,7 +46414,7 @@ take
 his
 class
 again
-
+-----
 the
 class
 is
@@ -46459,7 +46459,7 @@ i
 chose
 this
 one
-
+-----
 he
 is
 so
@@ -46495,7 +46495,7 @@ about
 another
 culture
 =
-
+-----
 i
 don't
 know
@@ -46557,7 +46557,7 @@ he's
 a
 great
 professor
-
+-----
 arvind
 is
 not
@@ -46620,7 +46620,7 @@ not
 bad
 at
 all
-
+-----
 the
 class
 is
@@ -46686,7 +46686,7 @@ off
 a
 b
 lectures=boring
-
+-----
 i've
 heard
 that
@@ -46753,7 +46753,7 @@ can
 get
 an
 a-
-
+-----
 rajagopal
 is
 the
@@ -46799,7 +46799,7 @@ politics
 than
 modern
 times
-
+-----
 go
 to
 class
@@ -46836,14 +46836,14 @@ surprisingly
 very
 interesting
 class
-
+-----
 nice
 guy
 good
 teacher
 easy
 exams
-
+-----
 rajagopal
 is
 a
@@ -46896,7 +46896,7 @@ yourself
 to
 get
 frustrated
-
+-----
 fast
 class
 lots
@@ -46906,10 +46906,10 @@ his
 writing
 is
 illegible
-
+-----
 no
 comments
-
+-----
 i
 found
 world
@@ -46947,7 +46947,7 @@ a
 very
 stressful
 experience
-
+-----
 writing
 essay
 lecture
@@ -46972,7 +46972,7 @@ overall
 really
 great
 prof
-
+-----
 i
 had
 sheril
@@ -47019,7 +47019,7 @@ right
 over
 my
 head
-
+-----
 she's
 a
 great
@@ -47039,7 +47039,7 @@ take
 her
 for
 granted
-
+-----
 i
 took
 her
@@ -47058,7 +47058,7 @@ it
 was
 excellent
 brilliant
-
+-----
 nice
 teacher;
 poor
@@ -47076,7 +47076,7 @@ read
 in
 the
 textbook
-
+-----
 she
 was
 pretty
@@ -47090,7 +47090,7 @@ around
 a
 cool
 teacher
-
+-----
 she's
 so
 into
@@ -47126,27 +47126,27 @@ because
 she
 probably
 is
-
+-----
 no
 comments
-
+-----
 very
 smart
 strong
 opinions
 great
 teacher
-
+-----
 good
 intro
 course
-
+-----
 no
 comments
-
+-----
 no
 comments
-
+-----
 she
 is
 so
@@ -47183,7 +47183,7 @@ money
 in
 her
 class
-
+-----
 pat
 is
 one
@@ -47223,7 +47223,7 @@ highly
 recommend
 doing
 so
-
+-----
 pat
 comes
 prepared
@@ -47288,7 +47288,7 @@ stronger
 writer
 for
 it
-
+-----
 pat
 is
 fantastic
@@ -47335,7 +47335,7 @@ instrumental
 in
 my
 concentration
-
+-----
 patty
 is
 a
@@ -47351,7 +47351,7 @@ a
 world
 of
 wonderment
-
+-----
 this
 class
 is
@@ -47407,7 +47407,7 @@ nice
 very
 into
 herself
-
+-----
 i
 just
 finished
@@ -47474,7 +47474,7 @@ to
 get
 an
 a
-
+-----
 good
 selection
 of
@@ -47499,7 +47499,7 @@ generally
 unprepared
 for
 class
-
+-----
 i
 took
 her
@@ -47538,7 +47538,7 @@ class
 a
 better
 student
-
+-----
 pat
 lennox
 is
@@ -47599,7 +47599,7 @@ recommend
 pat
 and
 m&f
-
+-----
 the
 worst
 professor
@@ -47656,7 +47656,7 @@ fill
 said
 wasted
 time
-
+-----
 sweet
 lady
 pretty
@@ -47685,7 +47685,7 @@ topics
 definitely
 take
 her
-
+-----
 amazing
 this
 is
@@ -47754,7 +47754,7 @@ class
 and
 recom
 it
-
+-----
 she's
 sweet
 but
@@ -47785,7 +47785,7 @@ about
 is
 very
 open
-
+-----
 he
 is
 a
@@ -47840,7 +47840,7 @@ again
 in
 the
 fall
-
+-----
 you
 must
 take
@@ -47899,7 +47899,7 @@ have
 to
 work
 hard
-
+-----
 archer
 is
 a
@@ -47957,7 +47957,7 @@ definitely
 would
 take
 again
-
+-----
 archer
 seems
 like
@@ -48024,7 +48024,7 @@ harsh
 blunt
 and
 rude
-
+-----
 professor
 archer
 is
@@ -48080,7 +48080,7 @@ big
 fan
 of
 shakespeare
-
+-----
 word
 of
 warning
@@ -48104,7 +48104,7 @@ might
 be
 pretty
 cruel
-
+-----
 i
 learned
 a
@@ -48117,7 +48117,7 @@ always
 well-prepared
 and
 interesting
-
+-----
 professor
 archer
 gives
@@ -48172,7 +48172,7 @@ awesome
 and
 very
 helpful
-
+-----
 john
 archer
 is
@@ -48232,7 +48232,7 @@ criticism
 &
 genuinely
 helpful
-
+-----
 archer
 is
 a
@@ -48287,7 +48287,7 @@ for
 an
 interesting
 topic
-
+-----
 fair
 grading
 exams
@@ -48324,7 +48324,7 @@ you
 do
 the
 reading
-
+-----
 professor
 archer
 is
@@ -48349,7 +48349,7 @@ shakespeare
 otherwise
 do
 not
-
+-----
 professor
 archer
 is
@@ -48396,7 +48396,7 @@ the
 ta
 you
 have
-
+-----
 i
 think
 she
@@ -48465,7 +48465,7 @@ very
 stressed
 all
 semester
-
+-----
 professor
 souffrant
 managed
@@ -48522,7 +48522,7 @@ or
 concerns
 100%
 recommend
-
+-----
 wte
 is
 just
@@ -48583,7 +48583,7 @@ to
 the
 writing
 center
-
+-----
 she
 is
 very
@@ -48615,7 +48615,7 @@ long
 period
 of
 time
-
+-----
 i've
 never
 thought
@@ -48651,7 +48651,7 @@ to
 during
 essay
 meetings
-
+-----
 im
 about
 to
@@ -48692,7 +48692,7 @@ attentive
 really
 hear
 her
-
+-----
 professor
 souffrant
 is
@@ -48756,7 +48756,7 @@ a
 lot
 of
 reading
-
+-----
 professor
 souffrant
 really
@@ -48811,7 +48811,7 @@ and
 meetings
 with
 her
-
+-----
 very
 tough
 grader
@@ -48836,7 +48836,7 @@ when
 i
 needed
 it
-
+-----
 she
 cares
 about
@@ -48901,7 +48901,7 @@ very
 tough
 grader
 though
-
+-----
 she
 made
 the
@@ -48954,7 +48954,7 @@ i
 recommend
 this
 teacher
-
+-----
 in
 the
 entire
@@ -49013,7 +49013,7 @@ vague
 thanks
 to
 her
-
+-----
 good
 teacher
 very
@@ -49042,7 +49042,7 @@ her
 as
 a
 teacher
-
+-----
 nicole
 is
 a
@@ -49075,7 +49075,7 @@ professor
 better
 than
 her
-
+-----
 i
 would
 take
@@ -49137,14 +49137,14 @@ say
 take
 her
 class
-
+-----
 thank
 you
 for
 being
 my
 teacher
-
+-----
 incredible
 lady
 super
@@ -49190,7 +49190,7 @@ i
 did
 last
 semester
-
+-----
 professor
 callihan
 is
@@ -49236,7 +49236,7 @@ offers
 many
 one-to-one
 conferences
-
+-----
 professor
 callihan
 is
@@ -49275,7 +49275,7 @@ are
 extraordinary
 truly
 inspiring
-
+-----
 professor
 callihan
 is
@@ -49309,7 +49309,7 @@ with
 her
 i
 promise
-
+-----
 prof
 callihan
 is
@@ -49368,7 +49368,7 @@ never
 a
 great
 writer
-
+-----
 one
 of
 the
@@ -49425,7 +49425,7 @@ to
 take
 her
 class
-
+-----
 professor
 callihan
 is
@@ -49486,7 +49486,7 @@ lot
 for
 her
 students
-
+-----
 not
 only
 is
@@ -49546,7 +49546,7 @@ even
 bring
 cookies
 madeleines
-
+-----
 wonderful
 teacher;
 she
@@ -49559,7 +49559,7 @@ good
 at
 explaining
 things
-
+-----
 love
 professor
 callihan
@@ -49593,7 +49593,7 @@ cupcakes
 to
 class
 sometimes
-
+-----
 terrible
 teacher
 she
@@ -49644,7 +49644,7 @@ answer
 avoid
 this
 teacher
-
+-----
 extremely
 dismissive
 narcissistic
@@ -49662,7 +49662,7 @@ on
 getting
 an
 a
-
+-----
 you
 have
 to
@@ -49726,7 +49726,7 @@ theories
 of
 social
 psych
-
+-----
 stacey
 could
 not
@@ -49785,7 +49785,7 @@ made
 the
 class
 interesting
-
+-----
 tends
 to
 be
@@ -49834,7 +49834,7 @@ entirely
 to
 her
 authority
-
+-----
 i
 like
 her
@@ -49891,7 +49891,7 @@ which
 is
 great
 too
-
+-----
 the
 lutz
 should
@@ -49954,7 +49954,7 @@ student
 is
 officially
 correct
-
+-----
 i
 took
 her
@@ -50012,7 +50012,7 @@ two
 hours
 of
 self-love
-
+-----
 tedious
 professor
 who
@@ -50044,7 +50044,7 @@ being
 released
 from
 prison
-
+-----
 bad
 teacher
 and
@@ -50054,7 +50054,7 @@ don't
 take
 this
 course
-
+-----
 avoid
 this
 class
@@ -50066,7 +50066,7 @@ unhelpful
 especially
 with
 grades
-
+-----
 i
 had
 prof
@@ -50105,7 +50105,7 @@ papers
 and
 three
 tests
-
+-----
 took
 intro
 to
@@ -50138,7 +50138,7 @@ blog
 was
 also
 useful
-
+-----
 this
 was
 the
@@ -50177,7 +50177,7 @@ complete
 waste
 of
 time
-
+-----
 he
 is
 a
@@ -50218,7 +50218,7 @@ to
 you
 in
 class
-
+-----
 hey
 this
 was
@@ -50242,7 +50242,7 @@ you
 won't
 regret
 it
-
+-----
 i
 took
 intro
@@ -50308,7 +50308,7 @@ curriculum
 is
 very
 obscure
-
+-----
 marco
 is
 a
@@ -50348,7 +50348,7 @@ a
 lot
 from
 it
-
+-----
 ta
 for
 siva's
@@ -50395,11 +50395,11 @@ slow
 with
 returning
 grades
-
+-----
 highly
 recommend
 him
-
+-----
 marco
 is
 very
@@ -50418,10 +50418,10 @@ factors
 other
 than
 these
-
+-----
 no
 comments
-
+-----
 marco
 was
 a
@@ -50437,7 +50437,7 @@ recommend
 him
 to
 anybody
-
+-----
 once
 you
 get
@@ -50462,7 +50462,7 @@ to
 look
 at
 either
-
+-----
 is
 she
 a
@@ -50508,7 +50508,7 @@ transparent
 and
 reliable
 studies
-
+-----
 perfect
 combination
 of
@@ -50516,7 +50516,7 @@ gravitas
 wit
 and
 charm
-
+-----
 totally
 agree
 with
@@ -50533,7 +50533,7 @@ all
 for
 her
 exam
-
+-----
 mccabe
 knows
 her
@@ -50597,7 +50597,7 @@ which
 one
 comes
 first
-
+-----
 if
 you
 do
@@ -50650,7 +50650,7 @@ helped
 me
 come
 prepared
-
+-----
 i
 love
 dr
@@ -50685,7 +50685,7 @@ a
 really
 good
 lecturer
-
+-----
 not
 bad
 podcasts
@@ -50699,7 +50699,7 @@ mainly
 in
 the
 powerpoints
-
+-----
 made
 the
 class
@@ -50711,7 +50711,7 @@ have
 been
 a
 nightmare
-
+-----
 dr
 mccabe
 is
@@ -50773,7 +50773,7 @@ to
 say
 highly
 recommended
-
+-----
 she
 was
 awesome
@@ -50800,7 +50800,7 @@ i
 had
 at
 nyu
-
+-----
 organized
 clear
 and
@@ -50832,7 +50832,7 @@ it
 clear
 and
 interesting
-
+-----
 i
 think
 she's
@@ -50852,7 +50852,7 @@ recommend
 her
 to
 anyone
-
+-----
 great
 lecturer
 accessible
@@ -50865,7 +50865,7 @@ good
 feedback
 to
 assignments
-
+-----
 took
 his
 linear
@@ -50927,7 +50927,7 @@ not
 helpful
 at
 all
-
+-----
 he
 teaches
 using
@@ -50964,7 +50964,7 @@ it
 on
 my
 own
-
+-----
 focused
 more
 on
@@ -51027,7 +51027,7 @@ even
 the
 easy
 ones
-
+-----
 if
 he
 would
@@ -51081,7 +51081,7 @@ to
 what
 was
 taught
-
+-----
 he's
 likable
 but
@@ -51141,7 +51141,7 @@ he's
 better
 than
 most
-
+-----
 his
 accent
 complimented
@@ -51177,7 +51177,7 @@ tail
 in
 his
 pants
-
+-----
 his
 lengthy
 proofs
@@ -51226,7 +51226,7 @@ most
 part;
 young;
 sociable
-
+-----
 probably
 the
 most
@@ -51298,14 +51298,14 @@ skips
 over
 some
 things
-
+-----
 this
 fool
 is
 amazing
 nuf
 said
-
+-----
 harvey
 is
 thourough
@@ -51360,7 +51360,7 @@ really
 enjoy
 calc
 nowwoot
-
+-----
 when
 students
 have
@@ -51425,7 +51425,7 @@ the
 end
 of
 it
-
+-----
 professor
 caspary
 is
@@ -51486,7 +51486,7 @@ b
 in
 the
 class
-
+-----
 wonderful
 professor
 and
@@ -51535,7 +51535,7 @@ to
 a
 greater
 understanding
-
+-----
 bill
 is
 one
@@ -51600,7 +51600,7 @@ it
 he's
 a
 mentor
-
+-----
 truly
 representative
 of
@@ -51640,7 +51640,7 @@ reading
 this
 thank
 you
-
+-----
 caspary
 is
 a
@@ -51704,7 +51704,7 @@ this
 class
 don't
 take
-
+-----
 i
 rarely
 write
@@ -51732,7 +51732,7 @@ more
 decent
 human
 being
-
+-----
 truly
 an
 amazing
@@ -51759,10 +51759,10 @@ enthusiastic
 intelligent
 and
 welcoming
-
+-----
 10
 10
-
+-----
 bill
 is
 endearing
@@ -51825,7 +51825,7 @@ that
 head
 of
 his
-
+-----
 simply
 great
 class
@@ -51876,7 +51876,7 @@ squaring
 with
 each
 other
-
+-----
 i
 never
 write
@@ -51925,7 +51925,7 @@ person
 in
 my
 life
-
+-----
 i
 had
 bill
@@ -51964,7 +51964,7 @@ with
 a
 caring
 soul
-
+-----
 she
 is
 the
@@ -52009,7 +52009,7 @@ lot
 in
 her
 class
-
+-----
 pearl
 was
 my
@@ -52045,7 +52045,7 @@ is
 so
 worth
 it
-
+-----
 pearl
 is
 the
@@ -52104,7 +52104,7 @@ will
 be
 worth
 it
-
+-----
 pearl
 is
 one
@@ -52166,7 +52166,7 @@ hard
 to
 slack
 off
-
+-----
 professor
 pearl
 is
@@ -52225,7 +52225,7 @@ and
 culture
 100%
 recommend
-
+-----
 this
 professor
 seriously
@@ -52290,7 +52290,7 @@ writing
 and
 our
 world
-
+-----
 take
 professor
 pearl
@@ -52357,7 +52357,7 @@ but
 it's
 worth
 it
-
+-----
 still
 to
 this
@@ -52420,7 +52420,7 @@ in
 my
 classes
 now
-
+-----
 professor
 pearl
 is
@@ -52480,7 +52480,7 @@ course
 material
 as
 well
-
+-----
 uses
 a
 great
@@ -52536,7 +52536,7 @@ you
 don't
 demand
 help
-
+-----
 kind
 and
 compassionate
@@ -52566,7 +52566,7 @@ i
 highly
 recommend
 it
-
+-----
 very
 theoretical
 even
@@ -52615,7 +52615,7 @@ bit
 of
 a
 challenge
-
+-----
 i
 had
 her
@@ -52664,7 +52664,7 @@ hers
 during
 the
 year
-
+-----
 she
 was
 extremely
@@ -52711,7 +52711,7 @@ professor
 at
 the
 college
-
+-----
 friendly
 professor
 good
@@ -52733,7 +52733,7 @@ for
 in
 the
 writing
-
+-----
 had
 her
 at
@@ -52763,7 +52763,7 @@ manner
 also
 extremely
 hot
-
+-----
 the
 lectures
 were
@@ -52775,7 +52775,7 @@ was
 challenging
 but
 worthwhile
-
+-----
 top
 notch
 prof
@@ -52800,7 +52800,7 @@ i
 loved
 the
 class
-
+-----
 if
 you're
 interested
@@ -52852,7 +52852,7 @@ note
 she's
 quite
 attractive
-
+-----
 not
 only
 is
@@ -52865,10 +52865,10 @@ an
 underegrad
 advisor
 too
-
+-----
 no
 comments
-
+-----
 one
 of
 the
@@ -52899,10 +52899,10 @@ be
 willing
 to
 learn
-
+-----
 not
 great
-
+-----
 the
 course
 material
@@ -52965,7 +52965,7 @@ and
 a
 literature
 critique
-
+-----
 lila
 is
 extremely
@@ -53025,7 +53025,7 @@ is
 mandatory
 but
 pointless
-
+-----
 davachi
 was
 extremely
@@ -53089,7 +53089,7 @@ to
 get
 an
 a
-
+-----
 first
 of
 all
@@ -53147,7 +53147,7 @@ class
 is
 very
 demanding
-
+-----
 davachi
 is
 really
@@ -53203,7 +53203,7 @@ study
 your
 ass
 off
-
+-----
 she's
 great
 really
@@ -53230,7 +53230,7 @@ semester
 plus
 she's
 hot
-
+-----
 absolutely
 hate
 her
@@ -53286,7 +53286,7 @@ to
 which
 lecture
 notes
-
+-----
 this
 class
 is
@@ -53342,7 +53342,7 @@ she
 is
 pretty
 hot
-
+-----
 she
 makes
 it
@@ -53359,7 +53359,7 @@ but
 worth
 the
 effort
-
+-----
 hot
 funny
 really
@@ -53370,7 +53370,7 @@ look
 easy
 and
 popular
-
+-----
 tests
 were
 pretty
@@ -53426,7 +53426,7 @@ and
 hard
 to
 read
-
+-----
 enthusiastic
 teacher
 who
@@ -53456,7 +53456,7 @@ about
 the
 subject
 matter
-
+-----
 he
 was
 a
@@ -53494,7 +53494,7 @@ than
 skreta
 for
 sure
-
+-----
 very
 nice
 guy
@@ -53537,7 +53537,7 @@ on
 the
 actual
 exams
-
+-----
 he's
 not
 great
@@ -53577,7 +53577,7 @@ that
 good
 either
 so
-
+-----
 i
 hate
 microeconomics
@@ -53637,7 +53637,7 @@ take
 advantage
 of
 that
-
+-----
 there's
 just
 something
@@ -53703,7 +53703,7 @@ or
 the
 other
 one
-
+-----
 his
 midterms
 and
@@ -53728,7 +53728,7 @@ lot
 about
 his
 students
-
+-----
 sweet
 guyvery
 awkward
@@ -53773,7 +53773,7 @@ sucky
 recitationbut
 who
 cares
-
+-----
 not
 the
 best
@@ -53815,10 +53815,10 @@ overall
 a
 nice
 class
-
+-----
 no
 comments
-
+-----
 he
 is
 a
@@ -53880,7 +53880,7 @@ he
 earns
 my
 recommendation
-
+-----
 biostats
 for
 gph
@@ -53938,7 +53938,7 @@ most
 in
 the
 class
-
+-----
 prof
 roberts
 expects
@@ -54003,7 +54003,7 @@ someone
 else
 if
 possib
-
+-----
 prof
 roberts
 seems
@@ -54059,7 +54059,7 @@ absolutely
 would
 not
 recommend
-
+-----
 worst
 professor
 and
@@ -54116,7 +54116,7 @@ unapproachable
 save
 yourself
 please
-
+-----
 he
 doesn't
 care
@@ -54181,7 +54181,7 @@ him
 as
 a
 prof
-
+-----
 he
 doesn't
 provide
@@ -54241,7 +54241,7 @@ another
 prof
 consider
 it
-
+-----
 roberts
 provides
 you
@@ -54309,7 +54309,7 @@ good
 understanding
 of
 math
-
+-----
 roberts
 gets
 really
@@ -54352,7 +54352,7 @@ get
 ready
 to
 suffer
-
+-----
 it
 is
 pretty
@@ -54415,7 +54415,7 @@ well
 in
 this
 class
-
+-----
 fun
 professor
 you
@@ -54427,7 +54427,7 @@ math
 isn't
 your
 thing
-
+-----
 if
 math
 isn't
@@ -54450,7 +54450,7 @@ do
 the
 minimal
 work
-
+-----
 chong
 is
 an
@@ -54487,7 +54487,7 @@ professor
 and
 her
 class
-
+-----
 song
 is
 really
@@ -54534,7 +54534,7 @@ fare
 amount
 of
 reading
-
+-----
 super
 informative
 engaging
@@ -54596,7 +54596,7 @@ really
 fun
 and
 personal
-
+-----
 song
 is
 a
@@ -54658,7 +54658,7 @@ ideas
 around
 &
 explore
-
+-----
 song
 made
 this
@@ -54722,7 +54722,7 @@ favorite
 classes
 at
 nyu
-
+-----
 song
 is
 so
@@ -54781,7 +54781,7 @@ nice
 &
 approachablefunny
 too
-
+-----
 excellent
 down
 to
@@ -54798,7 +54798,7 @@ for
 a
 better
 professor
-
+-----
 chong
 is
 a
@@ -54850,7 +54850,7 @@ and
 opinions
 def
 reccommend
-
+-----
 song
 is
 an
@@ -54892,7 +54892,7 @@ with
 take
 her
 class
-
+-----
 excellent
 teacher
 communicates
@@ -54919,7 +54919,7 @@ her
 class
 she's
 awesome
-
+-----
 had
 song
 for
@@ -54945,7 +54945,7 @@ at
 the
 same
 time
-
+-----
 amazing
 professor
 extremely
@@ -54956,7 +54956,7 @@ lot
 from
 this
 class
-
+-----
 what
 an
 incredible
@@ -55019,7 +55019,7 @@ nyu
 i
 miss
 her
-
+-----
 she
 does
 want
@@ -55082,7 +55082,7 @@ towards
 some
 students
 musicpsyc
-
+-----
 i
 loved
 this
@@ -55144,25 +55144,25 @@ for
 an
 easy
 a
-
+-----
 no
 comments
-
+-----
 no
 comments
-
+-----
 no
 comments
-
+-----
 no
 comments
-
+-----
 no
 comments
-
+-----
 no
 comments
-
+-----
 awesome
 best
 philosophy
@@ -55205,7 +55205,7 @@ beings
 in
 that
 department
-
+-----
 matt
 is
 pretty
@@ -55223,7 +55223,7 @@ material
 lively
 and
 interesting
-
+-----
 funny
 interesting
 very
@@ -55234,7 +55234,7 @@ to
 and
 very
 helpful
-
+-----
 funny
 guy
 who
@@ -55251,7 +55251,7 @@ on
 the
 eyes
 :
-
+-----
 very
 funny
 and
@@ -55285,13 +55285,13 @@ the
 best
 of
 it
-
+-----
 no
 comments
-
+-----
 no
 comments
-
+-----
 hot
 but
 didn't
@@ -55309,13 +55309,13 @@ his
 overwhelming
 expectations
 jeeeeeeez
-
+-----
 no
 comments
-
+-----
 no
 comments
-
+-----
 class
 is
 based
@@ -55384,7 +55384,7 @@ stay
 and
 pay
 attention
-
+-----
 professor
 watts
 is
@@ -55444,7 +55444,7 @@ recommended
 class
 and
 professor
-
+-----
 super
 nice
 and
@@ -55512,7 +55512,7 @@ the
 whole
 25
 hours
-
+-----
 very
 nice
 teacher
@@ -55543,7 +55543,7 @@ which
 is
 very
 nice
-
+-----
 he's
 very
 pleasantetc
@@ -55602,7 +55602,7 @@ b-
 instead
 of
 a-
-
+-----
 shelds
 is
 amazing
@@ -55656,7 +55656,7 @@ knowledgeable
 approachable
 and
 understanding
-
+-----
 great
 teacher
 he's
@@ -55689,7 +55689,7 @@ read
 you'll
 do
 great
-
+-----
 i
 love
 sheldon
@@ -55704,7 +55704,7 @@ really
 understanding
 and
 helpful
-
+-----
 this
 guys
 know
@@ -55728,7 +55728,7 @@ food
 and
 our
 bodies
-
+-----
 his
 teaching
 style
@@ -55745,7 +55745,7 @@ are
 interesting
 and
 well-explained
-
+-----
 i
 am
 a
@@ -55795,7 +55795,7 @@ good
 humor
 highly
 recommended
-
+-----
 this
 course
 music
@@ -55845,7 +55845,7 @@ on
 the
 final
 paper
-
+-----
 loved
 this
 class
@@ -55862,7 +55862,7 @@ entertaining
 to
 do
 recommended
-
+-----
 if
 you
 like
@@ -55918,7 +55918,7 @@ write
 but
 there
 manageable
-
+-----
 this
 class
 is
@@ -55981,7 +55981,7 @@ i
 definitely
 enjoyed
 it
-
+-----
 okay
 so
 if
@@ -56008,7 +56008,7 @@ class
 to
 be
 easy
-
+-----
 good
 guy
 very
@@ -56072,7 +56072,7 @@ being
 on
 his
 phone
-
+-----
 the
 material
 is
@@ -56138,7 +56138,7 @@ that
 guy
 its
 fun:
-
+-----
 there
 are
 a
@@ -56200,7 +56200,7 @@ the
 class
 isn't
 hard
-
+-----
 by
 far
 the
@@ -56233,7 +56233,7 @@ any
 course
 with
 him
-
+-----
 horrible
 professor
 -
@@ -56268,7 +56268,7 @@ webassign
 and
 written
 hw
-
+-----
 although
 he's
 a
@@ -56313,7 +56313,7 @@ exams
 are
 much
 easier
-
+-----
 always
 explain
 with
@@ -56328,7 +56328,7 @@ thoughts
 other
 than
 textbooks
-
+-----
 a
 really
 nice
@@ -56357,13 +56357,13 @@ something
 in
 the
 lecture
-
+-----
 sooooooooo
 nice
-
+-----
 fantastic
 professor
-
+-----
 if
 you've
 never
@@ -56429,7 +56429,7 @@ unhelpful
 as
 his
 lectures
-
+-----
 wei
 literally
 reads
@@ -56470,7 +56470,7 @@ but
 don't
 take
 him
-
+-----
 pretty
 tough
 not
@@ -56533,7 +56533,7 @@ cus
 everyone
 does
 terribly
-
+-----
 worst
 class
 i
@@ -56566,10 +56566,10 @@ try
 and
 avoid
 him
-
+-----
 she's
 sensational
-
+-----
 absolutely
 love
 her
@@ -56626,7 +56626,7 @@ have
 her
 when
 possible
-
+-----
 she
 is
 the
@@ -56650,7 +56650,7 @@ for
 all
 her
 students
-
+-----
 she's
 always
 very
@@ -56672,7 +56672,7 @@ she
 makes
 class
 fun
-
+-----
 amazing
 teacher
 even
@@ -56696,7 +56696,7 @@ super
 helpful
 and
 encouraging
-
+-----
 nicest
 teacher
 and
@@ -56745,7 +56745,7 @@ loved
 taking
 her
 class
-
+-----
 really
 nice
 and
@@ -56786,11 +56786,11 @@ makes
 class
 really
 fun
-
+-----
 best
 professor
 ever
-
+-----
 interested
 in
 taking
@@ -56828,7 +56828,7 @@ study
 you'll
 be
 fine
-
+-----
 na
 seonsaengnim
 is
@@ -56877,7 +56877,7 @@ or
 her
 class
 ^^
-
+-----
 best
 stats
 professor
@@ -56903,7 +56903,7 @@ he
 is
 reallly
 nice
-
+-----
 professor
 chen
 is
@@ -56969,7 +56969,7 @@ he
 makes
 stats
 bearable
-
+-----
 professor
 chen
 was
@@ -57013,7 +57013,7 @@ definitely
 take
 his
 class
-
+-----
 professor
 chen
 was
@@ -57068,7 +57068,7 @@ gives
 additionally
 important
 info
-
+-----
 professor
 chen
 was
@@ -57124,7 +57124,7 @@ give
 additional
 important
 info
-
+-----
 he
 is
 such
@@ -57139,7 +57139,7 @@ will
 be
 grateful
 having
-
+-----
 professor
 xi
 is
@@ -57199,7 +57199,7 @@ office
 hours
 take
 him
-
+-----
 very
 lenient
 exams
@@ -57218,10 +57218,10 @@ examples
 done
 in
 class
-
+-----
 great
 man
-
+-----
 very
 nice
 person
@@ -57230,7 +57230,7 @@ homework
 and
 easy
 tests
-
+-----
 loves
 to
 micro
@@ -57246,7 +57246,7 @@ doing
 the
 entire
 semester
-
+-----
 she
 is
 one
@@ -57257,7 +57257,7 @@ professors
 in
 the
 program
-
+-----
 ther
 workload
 is
@@ -57296,7 +57296,7 @@ she
 knows
 her
 stuff
-
+-----
 dr
 messerli
 is
@@ -57348,7 +57348,7 @@ for
 any
 hospitality
 class
-
+-----
 there
 is
 alot
@@ -57389,7 +57389,7 @@ other
 classes
 with
 her
-
+-----
 i
 absolutely
 love
@@ -57400,10 +57400,10 @@ in
 the
 hotel
 school
-
+-----
 no
 comments
-
+-----
 great
 professor
 lots
@@ -57435,7 +57435,7 @@ she's
 a
 great
 resource
-
+-----
 so
 much
 busy
@@ -57459,10 +57459,10 @@ it's
 just
 too
 much
-
+-----
 n
 a
-
+-----
 yeah
 who
 does
@@ -57518,7 +57518,7 @@ ps
 jost
 is
 brilliant
-
+-----
 he
 is
 simply
@@ -57562,7 +57562,7 @@ ever
 taken
 in
 psychology
-
+-----
 sometimes
 students
 will
@@ -57598,9 +57598,9 @@ their
 observation
 freaky
 weird
-
+-----
 patronizing
-
+-----
 stay
 away--especially
 if
@@ -57643,7 +57643,7 @@ i
 took
 at
 nyu
-
+-----
 he
 is
 authoritarian--really
@@ -57697,7 +57697,7 @@ in
 general
 and
 defensive
-
+-----
 smug
 and
 authoritarian
@@ -57758,7 +57758,7 @@ extremely
 approachable
 and
 encouraging
-
+-----
 major
 full-of-himself
 pompous
@@ -57767,7 +57767,7 @@ i
 hated
 this
 course
-
+-----
 one
 of
 the
@@ -57789,7 +57789,7 @@ take
 his
 class
 again
-
+-----
 nice
 man
 horribly
@@ -57816,7 +57816,7 @@ and
 reading
 the
 text
-
+-----
 nicest
 professor
 ever
@@ -57878,7 +57878,7 @@ i
 would
 have
 otherwise
-
+-----
 he's
 the
 nicest
@@ -57940,7 +57940,7 @@ don't
 underestimate
 this
 class
-
+-----
 nicest
 guy
 you'll
@@ -57963,7 +57963,7 @@ aren't
 too
 bad
 either
-
+-----
 awesome
 teacher
 has
@@ -57996,10 +57996,10 @@ the
 material
 highly
 recommend
-
+-----
 no
 comments
-
+-----
 by
 far
 the
@@ -58019,7 +58019,7 @@ great
 new
 zealand
 accent
-
+-----
 he
 was
 a
@@ -58039,7 +58039,7 @@ students
 to
 do
 well
-
+-----
 a
 truly
 inspirational
@@ -58099,7 +58099,7 @@ through
 a
 unique
 lense
-
+-----
 i
 strongly
 recommend
@@ -58118,7 +58118,7 @@ at
 nyu
 so
 far
-
+-----
 i
 strongly
 recommend
@@ -58161,7 +58161,7 @@ so
 far
 at
 nyu
-
+-----
 i
 had
 her
@@ -58222,7 +58222,7 @@ i
 will
 miss
 her
-
+-----
 baar
 is
 not
@@ -58286,7 +58286,7 @@ can
 take
 her
 class
-
+-----
 the
 best
 professor
@@ -58355,7 +58355,7 @@ a
 better
 human
 being
-
+-----
 genuinely
 cares
 about
@@ -58394,7 +58394,7 @@ baar
 what
 a
 gem
-
+-----
 super
 nice
 great
@@ -58434,7 +58434,7 @@ gotta
 take
 this
 class
-
+-----
 she
 is
 an
@@ -58479,7 +58479,7 @@ research
 knowledge
 high
 recommended
-
+-----
 i
 do
 not
@@ -58544,7 +58544,7 @@ advanced
 students
 are
 ok
-
+-----
 this
 was
 one
@@ -58605,7 +58605,7 @@ thanks
 for
 this
 course
-
+-----
 okay
 teacher
 doesn't
@@ -58655,7 +58655,7 @@ similar
 to
 homework
 questions
-
+-----
 she
 is
 a
@@ -58708,7 +58708,7 @@ exams
 and
 the
 course
-
+-----
 she
 is
 great
@@ -58740,7 +58740,7 @@ to
 further
 pursue
 math
-
+-----
 first
 of
 all
@@ -58804,7 +58804,7 @@ doing
 you'll
 easily
 pass
-
+-----
 midterm
 was
 very
@@ -58823,7 +58823,7 @@ homework
 can
 be
 long
-
+-----
 she
 is
 a
@@ -58874,7 +58874,7 @@ examples
 from
 the
 lectures
-
+-----
 prof
 lushi
 is
@@ -58942,7 +58942,7 @@ you
 will
 definitely
 fail
-
+-----
 fritz
 is
 great
@@ -58985,7 +58985,7 @@ for
 theater
 and
 directing
-
+-----
 fritz
 is
 a
@@ -59043,7 +59043,7 @@ anything
 helpful
 to
 me
-
+-----
 fritz
 is
 an
@@ -59054,7 +59054,7 @@ to
 everything
 he
 says
-
+-----
 pretty
 regular
 a
@@ -59076,7 +59076,7 @@ growth
 as
 an
 actor
-
+-----
 pentecost
 was
 an
@@ -59084,10 +59084,10 @@ amazing
 experience
 thanks
 fritz
-
+-----
 no
 comments
-
+-----
 one
 of
 the
@@ -59130,7 +59130,7 @@ to
 fix
 it
 :
-
+-----
 fritz
 is
 incredible
@@ -59153,7 +59153,7 @@ leave
 the
 field
 immediately
-
+-----
 my
 most
 frustating
@@ -59172,7 +59172,7 @@ and
 a
 good
 teacher
-
+-----
 watching
 geluso
 speak
@@ -59230,7 +59230,7 @@ wasn't
 used
 at
 all
-
+-----
 i've
 heard
 many
@@ -59295,7 +59295,7 @@ lots
 of
 outside
 reading
-
+-----
 geluso's
 not
 the
@@ -59354,7 +59354,7 @@ worked
 with
 famous
 artists
-
+-----
 mr
 geluso
 is
@@ -59407,7 +59407,7 @@ get
 along
 with
 with
-
+-----
 the
 class
 is
@@ -59452,7 +59452,7 @@ most
 valuable
 teachers
 here
-
+-----
 didn't
 do
 much
@@ -59464,7 +59464,7 @@ his
 sometimes
 questionable
 opinion
-
+-----
 10
 out
 of
@@ -59522,7 +59522,7 @@ will
 learn
 a
 lot
-
+-----
 even
 though
 he
@@ -59545,12 +59545,12 @@ class
 here
 and
 there
-
+-----
 nice
 guy
 good
 teacher
-
+-----
 he's
 a
 nice
@@ -59612,7 +59612,7 @@ will
 be
 a
 chore
-
+-----
 sweetest
 guy
 knows
@@ -59667,7 +59667,7 @@ want
 to
 great
 guy
-
+-----
 genuinely
 nice
 guy
@@ -59689,7 +59689,7 @@ picks
 some
 unusual
 adaptations
-
+-----
 genuinely
 nice
 person
@@ -59716,7 +59716,7 @@ is
 just
 a
 sweetheart
-
+-----
 he
 is
 the
@@ -59762,7 +59762,7 @@ witty
 take
 the
 class
-
+-----
 he
 is
 a
@@ -59797,7 +59797,7 @@ would
 be
 more
 exciting
-
+-----
 warning
 warning
 stay
@@ -59824,10 +59824,10 @@ typical
 nyu
 drama
 student
-
+-----
 no
 comments
-
+-----
 i
 found
 it
@@ -59892,7 +59892,7 @@ lecture
 take
 another
 course
-
+-----
 all
 comments
 are
@@ -59949,7 +59949,7 @@ you'll
 get
 an
 a
-
+-----
 i
 had
 him
@@ -60014,7 +60014,7 @@ or
 at
 least
 fair
-
+-----
 while
 he
 he
@@ -60061,7 +60061,7 @@ away
 if
 you
 can
-
+-----
 makes
 a
 potentially
@@ -60094,7 +60094,7 @@ i
 wouldn't
 bother
 going
-
+-----
 professor
 goelet
 is
@@ -60144,7 +60144,7 @@ papers
 in
 one
 semester
-
+-----
 very
 difficult
 grader
@@ -60164,7 +60164,7 @@ end
 of
 the
 semester
-
+-----
 the
 class
 is
@@ -60206,7 +60206,7 @@ indeed
 a
 history
 class
-
+-----
 it's
 cool
 to
@@ -60264,7 +60264,7 @@ homework
 very
 reasonable
 guy
-
+-----
 very
 knowledgeable
 in
@@ -60304,7 +60304,7 @@ the
 last
 2
 weeks
-
+-----
 he's
 wicked
 smart
@@ -60357,7 +60357,7 @@ to
 catch
 on
 quickly
-
+-----
 peter
 is
 great
@@ -60405,7 +60405,7 @@ to
 mention
 the
 shins
-
+-----
 wonderful
 educator
 nyu
@@ -60414,7 +60414,7 @@ more
 people
 like
 this
-
+-----
 the
 class
 can
@@ -60446,7 +60446,7 @@ ask
 for
 help
 though
-
+-----
 wonderful
 teacher
 extremely
@@ -60459,7 +60459,7 @@ can
 get
 pretty
 tedious
-
+-----
 extremely
 helpful
 and
@@ -60521,7 +60521,7 @@ could
 fall
 far
 behind
-
+-----
 carolina
 deluca
 is
@@ -60581,7 +60581,7 @@ character
 +she's
 a
 fox
-
+-----
 the
 woman
 is
@@ -60600,10 +60600,10 @@ is
 open
 take
 it
-
+-----
 brilliant
 woman
-
+-----
 amazing
 teacher
 one
@@ -60613,7 +60613,7 @@ best
 i've
 ever
 had
-
+-----
 loved
 her
 best
@@ -60622,7 +60622,7 @@ teacher
 fun
 and
 gorgeous
-
+-----
 excellent
 teacher
 and
@@ -60644,8 +60644,8 @@ a
 lot
 of
 italian
-
-
+-----
+-----
 great
 teacher
 makes
@@ -60654,7 +60654,7 @@ italian
 lots
 of
 fun
-
+-----
 had
 her
 at
@@ -60670,7 +60670,7 @@ her
 lectures
 easy
 b
-
+-----
 i
 had
 her
@@ -60729,7 +60729,7 @@ they
 sucked
 queen
 lea
-
+-----
 one
 of
 the
@@ -60760,7 +60760,7 @@ want
 above
 a
 c
-
+-----
 fair
 amount
 of
@@ -60824,7 +60824,7 @@ and
 interpretation
 of
 texts
-
+-----
 had
 her
 for
@@ -60893,7 +60893,7 @@ looks
 like
 a
 model
-
+-----
 i
 had
 her
@@ -60922,7 +60922,7 @@ gave
 was
 a
 c
-
+-----
 she
 just
 started
@@ -60970,7 +60970,7 @@ d
 then
 stay
 away
-
+-----
 boring
 class
 poorly
@@ -60979,7 +60979,7 @@ course
 but
 nice
 professor
-
+-----
 hannah
 is
 wonderful
@@ -61035,7 +61035,7 @@ class
 fun
 and
 interactive
-
+-----
 hannah
 is
 wonderful
@@ -61054,7 +61054,7 @@ the
 same
 way
 again
-
+-----
 hannah
 is
 a
@@ -61116,7 +61116,7 @@ that
 i'd
 take
 again
-
+-----
 hannah
 is
 one
@@ -61166,7 +61166,7 @@ better
 person
 highly
 recommend
-
+-----
 she
 is
 super
@@ -61186,7 +61186,7 @@ a
 lot
 from
 her
-
+-----
 hannah
 is
 one
@@ -61243,7 +61243,7 @@ really
 fun
 strongly
 recommend
-
+-----
 loved
 her
 so
@@ -61307,7 +61307,7 @@ best
 mca
 prof
 though
-
+-----
 hannah
 is
 a
@@ -61347,7 +61347,7 @@ explains
 them
 in
 class
-
+-----
 literally
 the
 best
@@ -61410,7 +61410,7 @@ were
 amazing
 take
 class
-
+-----
 prof
 flaherty's
 course
@@ -61465,7 +61465,7 @@ have
 taken
 so
 far
-
+-----
 what
 i
 imagined
@@ -61524,7 +61524,7 @@ as
 he's
 teaching
 it
-
+-----
 frank
 is
 a
@@ -61565,7 +61565,7 @@ repeats
 himself
 a
 lot
-
+-----
 i
 took
 the
@@ -61608,7 +61608,7 @@ gives
 great
 writing
 tips
-
+-----
 prof
 flaherty
 is
@@ -61669,7 +61669,7 @@ and
 a
 wonderful
 teacher
-
+-----
 frank
 is
 such
@@ -61720,7 +61720,7 @@ his
 class
 don't
 hesitate
-
+-----
 he's
 my
 hero
@@ -61764,7 +61764,7 @@ a
 seriously
 nice
 guy
-
+-----
 just
 a
 few
@@ -61818,7 +61818,7 @@ lecture
 slides
 before
 class
-
+-----
 took
 programming
 languages
@@ -61880,7 +61880,7 @@ questions
 almost
 all
 day
-
+-----
 i
 took
 programming
@@ -61931,7 +61931,7 @@ love
 to
 take
 again
-
+-----
 the
 course
 materials
@@ -61956,7 +61956,7 @@ in
 courant
 strongly
 recommend
-
+-----
 he
 is
 very
@@ -61999,7 +61999,7 @@ answers
 would
 definitely
 recommend
-
+-----
 i
 took
 his
@@ -62047,7 +62047,7 @@ me
 understand
 the
 materials
-
+-----
 would
 recommend
 principles
@@ -62094,7 +62094,7 @@ notes
 pretty
 straightforward
 class
-
+-----
 principles
 of
 programming
@@ -62154,7 +62154,7 @@ due
 date
 wouldn't
 recommend
-
+-----
 professor
 paliwoda
 is
@@ -62191,7 +62191,7 @@ to
 get
 an
 a
-
+-----
 dr
 paliwoda
 was
@@ -62249,7 +62249,7 @@ enough
 to
 allow
 creativity
-
+-----
 the
 class
 is
@@ -62291,7 +62291,7 @@ and
 only
 two
 papers
-
+-----
 he
 is
 an
@@ -62305,7 +62305,7 @@ boring
 and
 sometimes
 depressing
-
+-----
 his
 lecture
 is
@@ -62321,7 +62321,7 @@ he
 takes
 attendance
 sometimes
-
+-----
 subject
 material
 was
@@ -62388,7 +62388,7 @@ participate
 he
 loves
 it
-
+-----
 professor
 paliwoda
 is
@@ -62417,7 +62417,7 @@ like
 you
 easy
 grader
-
+-----
 prof
 paliwoda
 was
@@ -62475,7 +62475,7 @@ feedback
 very
 much
 recommend
-
+-----
 this
 guy
 knows
@@ -62515,7 +62515,7 @@ dante
 and
 you're
 golden
-
+-----
 incomprehensible
 lectures
 full
@@ -62563,7 +62563,7 @@ even
 when
 you
 ask
-
+-----
 professor
 frecerro
 had
@@ -62611,7 +62611,7 @@ got
 the
 harder
 ta
-
+-----
 take
 his
 conwest
@@ -62656,7 +62656,7 @@ very
 knowledgable
 and
 helpful
-
+-----
 loved
 this
 class
@@ -62704,7 +62704,7 @@ this
 if
 you
 can
-
+-----
 the
 guy
 knows
@@ -62746,7 +62746,7 @@ term
 papers
 great
 guy
-
+-----
 he
 is
 unbelievably
@@ -62782,7 +62782,7 @@ it's
 really
 good
 class
-
+-----
 the
 course
 in
@@ -62837,14 +62837,14 @@ research
 really
 good
 prof
-
+-----
 worst
 class
 i
 have
 ever
 taken
-
+-----
 took
 physio
 basis
@@ -62903,7 +62903,7 @@ a
 lot
 of
 information
-
+-----
 took
 this
 class
@@ -62966,7 +62966,7 @@ core
 class
 for
 sure
-
+-----
 his
 class
 was
@@ -62977,7 +62977,7 @@ this
 program
 loved
 it
-
+-----
 he
 is
 very
@@ -63027,7 +63027,7 @@ biological
 basis
 of
 behaviour
-
+-----
 extremely
 clear
 even
@@ -63042,7 +63042,7 @@ is
 an
 excellent
 teacher
-
+-----
 he
 was
 one
@@ -63077,7 +63077,7 @@ test
 are
 very
 straightforward
-
+-----
 you
 will
 miss
@@ -63104,7 +63104,7 @@ he's
 a
 great
 professor
-
+-----
 his
 test
 was
@@ -63137,7 +63137,7 @@ for
 principle
 of
 biology
-
+-----
 he's
 a
 really
@@ -63181,7 +63181,7 @@ of
 just
 a
 month
-
+-----
 he's
 totally
 awesome
@@ -63224,7 +63224,7 @@ that
 he's
 not
 lecturing
-
+-----
 one
 of
 the
@@ -63268,7 +63268,7 @@ the
 other
 professors
 are
-
+-----
 had
 him
 for
@@ -63291,7 +63291,7 @@ nice
 and
 totally
 chill
-
+-----
 smart
 guy
 but
@@ -63312,7 +63312,7 @@ about
 actual
 micro
 theory
-
+-----
 lousy
 prof
 -
@@ -63333,16 +63333,16 @@ asian
 names
 at
 ca
-
+-----
 avoid
 avoid
-
+-----
 try
 to
 avoid
 this
 professor
-
+-----
 dr
 hodge
 really
@@ -63405,7 +63405,7 @@ in
 the
 ma
 program
-
+-----
 had
 him
 to
@@ -63441,12 +63441,12 @@ succeed
 lots
 of
 hw
-
+-----
 worst
 teacher
 in
 history
-
+-----
 he
 improved
 his
@@ -63456,7 +63456,7 @@ from
 is1
 helpful
 person
-
+-----
 nice
 guy
 wants
@@ -63489,7 +63489,7 @@ is
 a
 nice
 change
-
+-----
 not
 teaching
 talk
@@ -63533,7 +63533,7 @@ to
 students
 on
 time
-
+-----
 i
 think
 this
@@ -63544,11 +63544,11 @@ man
 i've
 ever
 met
-
+-----
 too
 much
 reading
-
+-----
 very
 strict
 and
@@ -63557,9 +63557,9 @@ you
 to
 be
 prepared
-
+-----
 boring
-
+-----
 had
 him
 for
@@ -63618,7 +63618,7 @@ pretentious
 and
 self
 absorbed
-
+-----
 he
 expects
 you
@@ -63665,7 +63665,7 @@ class
 is
 the
 ta
-
+-----
 lectures
 convoluted
 made
@@ -63724,7 +63724,7 @@ to
 teaching
 high
 school
-
+-----
 terrible
 professor
 unprepared
@@ -63782,7 +63782,7 @@ needs
 to
 be
 done
-
+-----
 he
 is
 very
@@ -63843,7 +63843,7 @@ not
 take
 this
 class
-
+-----
 i
 love
 jay
@@ -63903,7 +63903,7 @@ honestly
 an
 easy
 a
-
+-----
 jay
 is
 the
@@ -63942,7 +63942,7 @@ this
 teachertry
 and
 take
-
+-----
 prof
 marcelle
 is
@@ -63998,7 +63998,7 @@ he
 is
 always
 humorous
-
+-----
 tbh
 he
 isn't
@@ -64048,7 +64048,7 @@ he
 doesn't
 actually
 teach
-
+-----
 brilliant
 teacher
 kind
@@ -64105,7 +64105,7 @@ shoes
 he's
 a
 darling
-
+-----
 this
 prof
 is
@@ -64176,7 +64176,7 @@ who
 loves
 his
 job
-
+-----
 great
 professor
 great
@@ -64237,7 +64237,7 @@ favorite
 professor
 by
 far
-
+-----
 he
 is
 a
@@ -64298,7 +64298,7 @@ crack
 at
 political
 jokes
-
+-----
 only
 have
 some
@@ -64355,7 +64355,7 @@ doesn't
 always
 take
 attendance
-
+-----
 i
 took
 this
@@ -64408,7 +64408,7 @@ the
 lookout
 for
 that
-
+-----
 prof
 christiaen
 was
@@ -64465,7 +64465,7 @@ lecture
 and
 re-watch
 recordings
-
+-----
 the
 more
 classes
@@ -64509,7 +64509,7 @@ teaching
 more
 classes
 :
-
+-----
 his
 teaching
 style
@@ -64563,7 +64563,7 @@ enjoyed
 devbio
 a
 lot
-
+-----
 explains
 concepts
 decently
@@ -64625,7 +64625,7 @@ find
 he
 repeats
 questions
-
+-----
 squeezes
 a
 lot
@@ -64676,7 +64676,7 @@ very
 thorough
 when
 studying
-
+-----
 very
 clear
 mostly
@@ -64704,7 +64704,7 @@ the
 book
 too
 much
-
+-----
 your
 grade
 for
@@ -64773,7 +64773,7 @@ to
 ice
 my
 hand
-
+-----
 you're
 going
 to
@@ -64829,7 +64829,7 @@ it's
 an
 incredible
 class
-
+-----
 tony
 tries
 to
@@ -64898,7 +64898,7 @@ class
 gets
 an
 a
-
+-----
 tony
 is
 a
@@ -64966,7 +64966,7 @@ hard
 but
 cool
 prof
-
+-----
 phenomenal
 professor
 very
@@ -65025,7 +65025,7 @@ friend
 come
 exam
 time
-
+-----
 movshon
 is
 an
@@ -65091,7 +65091,7 @@ is
 your
 best
 friend
-
+-----
 one
 of
 the
@@ -65158,7 +65158,7 @@ movshon
 love
 this
 guy
-
+-----
 i
 know
 professor
@@ -65227,7 +65227,7 @@ he
 is
 really
 caring
-
+-----
 great
 professor
 and
@@ -65277,7 +65277,7 @@ class
 on
 vietnam
 war
-
+-----
 professor
 peck
 is
@@ -65339,7 +65339,7 @@ get
 the
 main
 points
-
+-----
 professor
 peck
 is
@@ -65402,7 +65402,7 @@ regret
 taking
 his
 class
-
+-----
 great
 professor
 and
@@ -65433,7 +65433,7 @@ class
 with
 interesting
 content
-
+-----
 easy
 class
 if
@@ -65488,7 +65488,7 @@ related
 movies
 and
 documentaries
-
+-----
 incredibly
 smart
 guy
@@ -65523,7 +65523,7 @@ but
 well
 worth
 it
-
+-----
 terrible
 all
 around
@@ -65583,7 +65583,7 @@ professor
 but
 her
 ugh
-
+-----
 i
 liked
 this
@@ -65651,7 +65651,7 @@ repeat
 of
 the
 lecture
-
+-----
 agree
 with
 everyone
@@ -65703,7 +65703,7 @@ take
 jabs
 at
 you
-
+-----
 she
 is
 one
@@ -65731,7 +65731,7 @@ and
 is
 mean
 spirited
-
+-----
 unorganized
 unhelpful
 unfair
@@ -65781,7 +65781,7 @@ be
 rewarded
 total
 ****
-
+-----
 she
 really
 wants
@@ -65827,7 +65827,7 @@ what's
 write
 and
 wrong
-
+-----
 chris
 straayer
 is
@@ -65847,11 +65847,11 @@ with
 him
 teaching
 it
-
+-----
 chris
 is
 fantastic
-
+-----
 my
 favorite
 class
@@ -65909,7 +65909,7 @@ it's
 exciting
 and
 invigorating
-
+-----
 one
 of
 best
@@ -65923,7 +65923,7 @@ school
 a
 life
 changer
-
+-----
 i
 took
 the
@@ -65988,7 +65988,7 @@ good
 professor
 --
 take
-
+-----
 film
 theory
 is
@@ -66044,7 +66044,7 @@ really
 not
 that
 awful
-
+-----
 billy
 is
 really
@@ -66103,7 +66103,7 @@ and
 fun
 to
 attend
-
+-----
 he's
 super
 clever
@@ -66153,7 +66153,7 @@ life
 skills
 definitely
 recommended
-
+-----
 if
 you
 take
@@ -66190,7 +66190,7 @@ the
 class
 a
 lot
-
+-----
 very
 fun
 made
@@ -66211,7 +66211,7 @@ and
 available
 for
 appointments
-
+-----
 he
 always
 has
@@ -66242,7 +66242,7 @@ to
 my
 email
 questions
-
+-----
 worst
 advisor
 ever
@@ -66291,7 +66291,7 @@ to
 lose
 the
 attitude
-
+-----
 universally
 beloved
 and
@@ -66352,7 +66352,7 @@ of
 humor
 ily
 daryl
-
+-----
 he
 is
 funny
@@ -66423,7 +66423,7 @@ best
 luck
 readers
 thanks
-
+-----
 he
 is
 a
@@ -66444,7 +66444,7 @@ daryl
 on
 your
 schedule
-
+-----
 daryl
 is
 the
@@ -66479,7 +66479,7 @@ interested
 in
 anything
 stagecraft
-
+-----
 the
 most
 approachable
@@ -66496,7 +66496,7 @@ cares
 about
 theater
 immensely
-
+-----
 amazing
 professor
 very
@@ -66546,7 +66546,7 @@ stagecraft
 experience
 awesome
 class
-
+-----
 i
 took
 mod
@@ -66598,7 +66598,7 @@ grader
 too
 definitely
 recommend
-
+-----
 one
 of
 the
@@ -66636,7 +66636,7 @@ cute
 little
 man
 too
-
+-----
 i
 absolutely
 love
@@ -66697,7 +66697,7 @@ will
 learn
 so
 much
-
+-----
 while
 it
 is
@@ -66750,7 +66750,7 @@ great
 take
 his
 classes
-
+-----
 nice
 professor
 straight
@@ -66777,7 +66777,7 @@ i
 learn
 from
 him
-
+-----
 prof
 oliver
 means
@@ -66826,7 +66826,7 @@ not
 interesting
 at
 all
-
+-----
 took
 her
 for
@@ -66884,7 +66884,7 @@ not
 take
 this
 class
-
+-----
 had
 her
 for
@@ -66934,7 +66934,7 @@ manageable
 as
 possible
 recommend
-
+-----
 took
 quantitative
 reasoning:
@@ -66980,7 +66980,7 @@ care
 about
 learning
 math
-
+-----
 way
 too
 much
@@ -67013,7 +67013,7 @@ explain
 a
 lot
 better
-
+-----
 very
 nice
 and
@@ -67047,7 +67047,7 @@ problems
 on
 the
 exams
-
+-----
 this
 was
 her
@@ -67103,7 +67103,7 @@ have
 the
 math
 accurate
-
+-----
 zeb
 is
 an
@@ -67172,7 +67172,7 @@ to
 produce
 good
 essays
-
+-----
 he
 makes
 an
@@ -67235,7 +67235,7 @@ knows
 which
 ones
 matter
-
+-----
 very
 manageable
 class
@@ -67305,7 +67305,7 @@ and
 i
 enjoyed
 it
-
+-----
 so
 passionate
 about
@@ -67317,7 +67317,7 @@ chill
 about
 everything
 :
-
+-----
 the
 profesor
 is
@@ -67346,7 +67346,7 @@ easy
 and
 enjoyable
 a
-
+-----
 the
 instructor
 is
@@ -67390,7 +67390,7 @@ makes
 the
 class
 interesting
-
+-----
 lectures
 short
 5
@@ -67457,7 +67457,7 @@ person
 gives
 an
 opinion
-
+-----
 drew
 is
 an
@@ -67504,7 +67504,7 @@ classes
 that
 you
 can
-
+-----
 professor
 thomases
 is
@@ -67554,7 +67554,7 @@ should
 take
 his
 class
-
+-----
 professor
 thomases
 maintained
@@ -67603,7 +67603,7 @@ approachable
 friendly
 and
 helpful
-
+-----
 professor
 thomases
 is
@@ -67653,7 +67653,7 @@ very
 approachable
 and
 helpful
-
+-----
 drew
 is
 a
@@ -67694,7 +67694,7 @@ you'll
 get
 an
 a
-
+-----
 had
 him
 for
@@ -67754,7 +67754,7 @@ a
 lot
 to
 say
-
+-----
 his
 lectures
 have
@@ -67790,7 +67790,7 @@ ive
 taken
 thus
 far
-
+-----
 his
 lectures
 are
@@ -67848,7 +67848,7 @@ plus
 it's
 just
 polite
-
+-----
 iampolski
 is
 amazing
@@ -67879,7 +67879,7 @@ the
 best
 way
 possible
-
+-----
 professor
 iampolski
 rocks
@@ -67917,7 +67917,7 @@ you
 a
 decent
 grade
-
+-----
 iampolski
 is
 the
@@ -67981,7 +67981,7 @@ a
 lot
 of
 fun
-
+-----
 professor
 thomas
 is
@@ -68045,7 +68045,7 @@ you
 will
 be
 successful
-
+-----
 he
 doesnt
 clearly
@@ -68062,7 +68062,7 @@ hes
 a
 heavy
 grader
-
+-----
 you
 may
 have
@@ -68121,7 +68121,7 @@ something
 on
 your
 essay
-
+-----
 professor
 thomas
 is
@@ -68184,7 +68184,7 @@ work
 for
 your
 grade
-
+-----
 i
 don't
 really
@@ -68245,7 +68245,7 @@ this
 professor
 prepare
 yourself
-
+-----
 amazing
 writing
 i
@@ -68271,7 +68271,7 @@ shadow
 of
 a
 doubt
-
+-----
 one
 of
 my
@@ -68334,7 +68334,7 @@ such
 a
 nice
 man
-
+-----
 hardart
 is
 very
@@ -68392,7 +68392,7 @@ i
 learned
 anything
 new
-
+-----
 extremely
 knowledgeable
 in
@@ -68445,7 +68445,7 @@ class
 best
 professor
 ever
-
+-----
 professor
 hardart
 is
@@ -68493,7 +68493,7 @@ you
 should
 do
 fine
-
+-----
 whoever
 wrote
 the
@@ -68550,7 +68550,7 @@ professor
 if
 you
 can
-
+-----
 if
 you
 have
@@ -68605,7 +68605,7 @@ points
 really
 great
 professor
-
+-----
 hilarious
 professor
 he
@@ -68655,7 +68655,7 @@ knowing
 waves
 really
 well
-
+-----
 he
 uses
 his
@@ -68713,7 +68713,7 @@ textbook
 to
 know
 anything
-
+-----
 this
 class
 is
@@ -68777,11 +68777,11 @@ me
 at
 office
 hours
-
+-----
 has
 no
 chill
-
+-----
 awesome
 dude
 there
@@ -68790,7 +68790,7 @@ help
 very
 entertaining
 lectures
-
+-----
 really
 good
 professor
@@ -68807,7 +68807,7 @@ you
 should
 be
 fine
-
+-----
 she
 is
 an
@@ -68861,7 +68861,7 @@ she
 values
 student
 discussion
-
+-----
 accessible
 approachable
 knowledgeable
@@ -68869,7 +68869,7 @@ cares
 about
 student
 success
-
+-----
 loved
 her
 learned
@@ -68878,7 +68878,7 @@ lot
 sweetest
 teacher
 ever
-
+-----
 intense
 work
 load
@@ -68905,7 +68905,7 @@ a
 lot
 very
 available
-
+-----
 she
 does
 alot
@@ -68954,7 +68954,7 @@ the
 grades
 nice
 prof
-
+-----
 inflated
 sense
 of
@@ -68983,7 +68983,7 @@ should
 be
 a
 highlight
-
+-----
 i
 took
 her
@@ -69012,14 +69012,14 @@ got
 a
 good
 grade
-
+-----
 horrible
 unproffesional
 professor
 should
 be
 fired
-
+-----
 she
 is:
 extremely
@@ -69042,10 +69042,10 @@ any
 class
 including
 documentary
-
+-----
 no
 comments
-
+-----
 he
 also
 teaches
@@ -69109,7 +69109,7 @@ it
 wasn't
 terribly
 difficult
-
+-----
 awful
 rants
 and
@@ -69146,7 +69146,7 @@ is
 an
 ecology
 course
-
+-----
 makes
 simple
 subjects
@@ -69198,7 +69198,7 @@ and
 havent
 learned
 anything
-
+-----
 history
 of
 the
@@ -69241,10 +69241,10 @@ for
 definitely
 recommend
 him
-
+-----
 no
 comments
-
+-----
 lectures
 are
 well-organized
@@ -69291,7 +69291,7 @@ he's
 a
 part-time
 professor
-
+-----
 the
 lectures
 are
@@ -69321,7 +69321,7 @@ almost
 never
 responds
 emails
-
+-----
 stochastic
 calculus
 -
@@ -69371,7 +69371,7 @@ even
 for
 long
 lectures
-
+-----
 i
 took
 his
@@ -69420,10 +69420,10 @@ recommend
 him
 to
 everyone
-
+-----
 no
 comments
-
+-----
 nice
 guy
 had
@@ -69451,7 +69451,7 @@ will
 get
 an
 a
-
+-----
 had
 gerber
 for
@@ -69514,7 +69514,7 @@ class
 were
 pretty
 nerdy
-
+-----
 prof
 is
 trying
@@ -69538,7 +69538,7 @@ explains
 the
 material
 clearly
-
+-----
 prof
 gerber
 is
@@ -69584,10 +69584,10 @@ be
 geeky
 at
 times
-
+-----
 no
 comments
-
+-----
 i've
 taken
 multiple
@@ -69644,7 +69644,7 @@ expect
 to
 float
 by
-
+-----
 best
 english
 prof
@@ -69662,7 +69662,7 @@ a
 whole
 different
 way
-
+-----
 she
 assigns
 so
@@ -69699,7 +69699,7 @@ it
 all
 really
 cool
-
+-----
 i
 love
 this
@@ -69714,7 +69714,7 @@ gazing
 adoringly
 at
 her
-
+-----
 robson
 might
 be
@@ -69764,7 +69764,7 @@ i
 highly
 recommend
 her
-
+-----
 i
 took
 chem
@@ -69825,7 +69825,7 @@ a
 summer
 course
 goodluck
-
+-----
 great
 teacher
 i
@@ -69886,7 +69886,7 @@ class
 you'll
 do
 great
-
+-----
 attended
 chem
 102
@@ -69944,7 +69944,7 @@ to
 error
 laden
 exams
-
+-----
 chemistry
 is
 a
@@ -69996,7 +69996,7 @@ another
 class
 he
 teaches
-
+-----
 he
 is
 a
@@ -70058,7 +70058,7 @@ class
 to
 everyone
 interested
-
+-----
 class
 was
 great
@@ -70096,7 +70096,7 @@ facts
 best
 class
 ever
-
+-----
 professor
 brooks
 is
@@ -70148,7 +70148,7 @@ take
 his
 class
 again
-
+-----
 he
 explains
 everything
@@ -70168,7 +70168,7 @@ participation
 its
 very
 imporant
-
+-----
 i
 would
 definitely
@@ -70229,7 +70229,7 @@ you
 can
 def
 a's
-
+-----
 prof
 brooks's
 lectures
@@ -70282,7 +70282,7 @@ cares
 about
 his
 students
-
+-----
 two
 thumbs
 up
@@ -70317,7 +70317,7 @@ do
 well
 highly
 recommended
-
+-----
 cool
 class
 -
@@ -70334,7 +70334,7 @@ and
 real
 world
 knowledge
-
+-----
 great
 teacher
 one
@@ -70373,7 +70373,7 @@ will
 take
 her
 again
-
+-----
 a
 really
 nice
@@ -70416,7 +70416,7 @@ banking
 really
 love
 her
-
+-----
 good
 professor
 but
@@ -70430,7 +70430,7 @@ to
 read
 the
 textbook
-
+-----
 good
 professor
 and
@@ -70477,7 +70477,7 @@ material
 after
 the
 midterm
-
+-----
 computer
 networks
 was
@@ -70531,7 +70531,7 @@ electives
 to
 take
 imo
-
+-----
 he
 is
 unclear
@@ -70565,7 +70565,7 @@ to
 understand
 him
 sometimes
-
+-----
 this
 was
 a
@@ -70583,7 +70583,7 @@ very
 accessible
 outside
 class
-
+-----
 although
 it
 was
@@ -70641,7 +70641,7 @@ networks
 would
 highly
 recommend
-
+-----
 one
 of
 my
@@ -70681,7 +70681,7 @@ your
 professional
 development
 skills
-
+-----
 go
 to
 class
@@ -70734,7 +70734,7 @@ people
 in
 the
 class
-
+-----
 marie
 is
 an
@@ -70800,7 +70800,7 @@ her
 class
 easy
 grading
-
+-----
 one
 of
 the
@@ -70862,7 +70862,7 @@ class
 also
 she's
 hilarious
-
+-----
 disorganized
 but
 understands
@@ -70901,7 +70901,7 @@ make
 the
 class
 engaging
-
+-----
 i've
 had
 professor
@@ -70959,7 +70959,7 @@ you
 won't
 regret
 it
-
+-----
 professor
 k
 is
@@ -71020,7 +71020,7 @@ is
 an
 amazing
 mentor
-
+-----
 very
 encouraging
 person
@@ -71085,7 +71085,7 @@ and
 a
 human
 being
-
+-----
 great
 professor
 will
@@ -71142,7 +71142,7 @@ energetic
 and
 beyond
 expectations
-
+-----
 professor
 k
 is
@@ -71203,7 +71203,7 @@ you
 will
 do
 fine:
-
+-----
 joost
 brings
 alot
@@ -71261,7 +71261,7 @@ not
 as
 fun
 tho
-
+-----
 this
 guy
 is
@@ -71326,7 +71326,7 @@ games
 do
 not
 take
-
+-----
 while
 i
 appreciate
@@ -71382,7 +71382,7 @@ paper
 the
 following
 day
-
+-----
 he's
 really
 laid
@@ -71435,7 +71435,7 @@ game
 industry
 look
 elsewhere
-
+-----
 soooooo
 laidback
 awesome
@@ -71457,7 +71457,7 @@ it
 have
 to
 end
-
+-----
 jenna
 is
 an
@@ -71486,7 +71486,7 @@ public
 relations
 highly
 recommend
-
+-----
 one
 of
 the
@@ -71514,7 +71514,7 @@ much
 about
 her
 students
-
+-----
 prof
 brayton
 is
@@ -71568,7 +71568,7 @@ and
 essays
 loved
 her
-
+-----
 jenna
 is
 the
@@ -71612,7 +71612,7 @@ policy
 class
 please
 take
-
+-----
 absolute
 favorite
 class
@@ -71669,7 +71669,7 @@ fun
 but
 educational
 class
-
+-----
 i
 adore
 professor
@@ -71740,7 +71740,7 @@ need
 to
 meet
 him
-
+-----
 mark
 cruse
 is
@@ -71790,7 +71790,7 @@ knows
 and
 thus
 brilliant
-
+-----
 very
 clear
 and
@@ -71823,7 +71823,7 @@ guy-
 i
 recommend
 him
-
+-----
 great
 teacher
 very
@@ -71857,9 +71857,9 @@ expect
 an
 easy
 a
-
+-----
 great
-
+-----
 ok
 the
 reviews
@@ -71920,7 +71920,7 @@ nothing
 about
 screenplay
 form
-
+-----
 ugh
 what
 an
@@ -71949,7 +71949,7 @@ work
 for
 you
 creep
-
+-----
 totally
 unprofessional
 unclear
@@ -71992,7 +71992,7 @@ abrasive
 rude
 and
 unavailable
-
+-----
 prof
 rinaldi
 is
@@ -72058,7 +72058,7 @@ groove
 of
 a
 lesson
-
+-----
 prof
 rinaldi
 goes
@@ -72112,7 +72112,7 @@ highly
 recommnend
 taking
 her
-
+-----
 this
 is
 the
@@ -72146,7 +72146,7 @@ keeps
 class
 very
 interesting
-
+-----
 she
 really
 goes
@@ -72176,7 +72176,7 @@ should
 be
 like
 her
-
+-----
 literally
 one
 of
@@ -72231,7 +72231,7 @@ you
 write
 and
 revise
-
+-----
 gallatin
 transfer
 student
@@ -72268,10 +72268,10 @@ and
 feedback
 is
 invaluable
-
+-----
 no
 comments
-
+-----
 the
 most
 insightful
@@ -72293,13 +72293,13 @@ to
 say
 about
 that
-
+-----
 #mrsgreene
 super
 cool
 and
 hot
-
+-----
 allie
 is
 amazing
@@ -72324,7 +72324,7 @@ nice
 take
 her
 class
-
+-----
 mrs
 greene
 got
@@ -72363,7 +72363,7 @@ note
 she
 is
 stunning
-
+-----
 had
 her
 for
@@ -72380,7 +72380,7 @@ class
 and
 shes
 hot
-
+-----
 taking
 jamie
 berthe's
@@ -72442,7 +72442,7 @@ i
 took
 her
 class
-
+-----
 i'm
 an
 mcc
@@ -72504,7 +72504,7 @@ topic
 they're
 interesting
 anyway
-
+-----
 very
 enthusiastic
 and
@@ -72517,7 +72517,7 @@ she
 is
 very
 helpful
-
+-----
 very
 clear
 on
@@ -72550,7 +72550,7 @@ and
 jamie
 is
 great
-
+-----
 go
 to
 class
@@ -72589,7 +72589,7 @@ there
 dont
 miss
 class
-
+-----
 she's
 amazing
 -
@@ -72645,7 +72645,7 @@ can
 and
 she'll
 understand
-
+-----
 great
 teacher
 very
@@ -72667,7 +72667,7 @@ you
 will
 do
 well
-
+-----
 laurie
 is
 the
@@ -72718,7 +72718,7 @@ i'd
 definitely
 recommend
 her
-
+-----
 i
 took
 a
@@ -72775,7 +72775,7 @@ down
 to
 earth
 prof
-
+-----
 took
 his
 business
@@ -72814,7 +72814,7 @@ to
 have
 him
 again
-
+-----
 jack
 is
 a
@@ -72853,7 +72853,7 @@ is
 currently
 working
 on
-
+-----
 jack's
 a
 great
@@ -72891,7 +72891,7 @@ interesting
 anyway
 great
 professor
-
+-----
 deanie
 is
 one
@@ -72931,7 +72931,7 @@ cares
 about
 her
 students
-
+-----
 hands
 down
 one
@@ -72994,7 +72994,7 @@ best
 decision
 i
 made
-
+-----
 deanie
 is
 the
@@ -73031,7 +73031,7 @@ contribute
 to
 class
 discussions
-
+-----
 deanie
 is
 an
@@ -73087,7 +73087,7 @@ and
 knows
 her
 stuff
-
+-----
 professor
 hannah
 is
@@ -73146,7 +73146,7 @@ not
 a
 tough
 grader
-
+-----
 uncharismatic
 so
 his
@@ -73201,7 +73201,7 @@ accountable
 for
 lost
 time
-
+-----
 not
 in
 terms
@@ -73231,7 +73231,7 @@ answers
 still
 very
 knowledgable
-
+-----
 he's
 super
 smart
@@ -73284,7 +73284,7 @@ of
 the
 textbook
 more
-
+-----
 she
 was
 such
@@ -73344,7 +73344,7 @@ midterm
 was
 very
 easy
-
+-----
 she
 is
 so
@@ -73405,7 +73405,7 @@ a
 don
 take
 her
-
+-----
 she's
 nice
 smart
@@ -73461,7 +73461,7 @@ great
 class
 would
 recommend
-
+-----
 rockstar
 presented
 us
@@ -73488,7 +73488,7 @@ students
 outside
 of
 class
-
+-----
 watching
 him
 unveil
@@ -73547,7 +73547,7 @@ patch
 in
 my
 life
-
+-----
 he
 taught
 my
@@ -73610,7 +73610,7 @@ let
 us
 learn
 more
-
+-----
 his
 algebra
 class
@@ -73667,7 +73667,7 @@ nice
 person
 highly
 recommended
-
+-----
 i
 took
 zappa's
@@ -73726,10 +73726,10 @@ made
 his
 lectures
 self-sufficient
-
+-----
 excellent
 teacher
-
+-----
 my
 favorite
 teacher
@@ -73791,7 +73791,7 @@ everything
 and
 i'm
 grateful
-
+-----
 hands
 down
 the
@@ -73803,7 +73803,7 @@ negative
 thing
 to
 say
-
+-----
 three
 words:
 can
@@ -73848,7 +73848,7 @@ you
 see
 this
 man
-
+-----
 emily
 is
 nice
@@ -73878,7 +73878,7 @@ related
 to
 the
 essays
-
+-----
 you
 need
 to
@@ -73916,7 +73916,7 @@ makes
 me
 feel
 stupid
-
+-----
 professor
 emily
 stone
@@ -73975,7 +73975,7 @@ gift
 she
 could
 give
-
+-----
 emily
 was
 very
@@ -74042,7 +74042,7 @@ keep
 up
 with
 work
-
+-----
 peter
 is
 one
@@ -74108,7 +74108,7 @@ i
 enjoyed
 his
 class
-
+-----
 this
 is
 the
@@ -74169,7 +74169,7 @@ with
 offensive
 comments
 avoid
-
+-----
 this
 teacher
 was
@@ -74229,7 +74229,7 @@ this
 class
 to
 anyone
-
+-----
 peter
 is
 the
@@ -74287,7 +74287,7 @@ clarify
 things
 big
 letdown
-
+-----
 1
 he
 gave
@@ -74350,7 +74350,7 @@ increase
 your
 final
 grade
-
+-----
 unlike
 many
 star
@@ -74407,7 +74407,7 @@ very
 generous
 with
 grades
-
+-----
 in
 the
 second
@@ -74466,7 +74466,7 @@ was
 basically
 no
 homework
-
+-----
 prof
 cappell
 is
@@ -74528,7 +74528,7 @@ reinforce
 the
 material
 however
-
+-----
 first
 of
 all
@@ -74590,10 +74590,10 @@ final
 grade
 in
 2017
-
+-----
 no
 comments
-
+-----
 easy
 grader
 really
@@ -74615,7 +74615,7 @@ me
 awake
 in
 class
-
+-----
 great
 professorhe
 is
@@ -74641,10 +74641,10 @@ to
 follow
 the
 course
-
+-----
 no
 comments
-
+-----
 do
 not
 take
@@ -74705,7 +74705,7 @@ overall
 i
 am
 disappointed
-
+-----
 fabio
 is
 an
@@ -74736,7 +74736,7 @@ grader
 for
 no
 reason
-
+-----
 professor
 parasecoli
 is
@@ -74794,7 +74794,7 @@ work
 makes
 it
 a-okay
-
+-----
 fabio
 is
 one
@@ -74834,7 +74834,7 @@ pretty
 much
 everything
 really
-
+-----
 valeria
 is
 simply
@@ -74857,7 +74857,7 @@ helpful
 in
 all
 circumstances
-
+-----
 really
 nice
 kind
@@ -74880,7 +74880,7 @@ very
 willing
 to
 help
-
+-----
 she's
 a
 lot
@@ -74926,7 +74926,7 @@ fun
 to
 learn
 from
-
+-----
 i
 had
 professor
@@ -74974,7 +74974,7 @@ clear
 and
 incredibly
 interesting
-
+-----
 what
 a
 wonderful
@@ -75010,7 +75010,7 @@ to
 a
 wonderful
 school
-
+-----
 his
 class
 is
@@ -75022,7 +75022,7 @@ really
 about
 the
 art
-
+-----
 clear
 patient
 passionate
@@ -75056,7 +75056,7 @@ way
 to
 help
 you
-
+-----
 one
 of
 the
@@ -75068,7 +75068,7 @@ very
 passionate
 and
 helpful
-
+-----
 she's
 an
 awesome
@@ -75078,7 +75078,7 @@ class
 rocked
 my
 world
-
+-----
 excellent
 devoted
 and
@@ -75128,7 +75128,7 @@ several
 years
 at
 nyu
-
+-----
 grading
 at
 nyu
@@ -75184,7 +75184,7 @@ helpful
 feedback
 too
 you
-
+-----
 disorganized
 tries
 but
@@ -75244,11 +75244,11 @@ okay
 after
 she's
 matured
-
+-----
 avoid
 this
 teacher
-
+-----
 horrible
 tests
 seems
@@ -75281,7 +75281,7 @@ no
 use
 to
 anything
-
+-----
 i
 always
 felt
@@ -75311,7 +75311,7 @@ in
 the
 mcc
 department
-
+-----
 he
 takes
 attendance
@@ -75374,7 +75374,7 @@ and
 it's
 pretty
 interesting
-
+-----
 the
 new
 media
@@ -75442,7 +75442,7 @@ in
 any
 other
 classes
-
+-----
 don't
 take
 the
@@ -75484,7 +75484,7 @@ a
 teacher
 he's
 young
-
+-----
 i
 took
 his
@@ -75548,7 +75548,7 @@ college
 math
 classes
 yet
-
+-----
 the
 recitations
 were
@@ -75610,7 +75610,7 @@ skills
 aren't
 that
 great
-
+-----
 nice
 guy
 super
@@ -75664,7 +75664,7 @@ and
 study
 a
 bit
-
+-----
 she
 knows
 her
@@ -75726,7 +75726,7 @@ too
 tough
 a
 grader
-
+-----
 professor
 tyler
 has
@@ -75761,7 +75761,7 @@ humor
 take
 her
 class
-
+-----
 i
 learned
 a
@@ -75804,7 +75804,7 @@ vs
 my
 other
 courses
-
+-----
 janos
 is
 basically
@@ -75844,7 +75844,7 @@ class
 is
 actually
 enjoyable
-
+-----
 funny
 smart
 and
@@ -75855,10 +75855,10 @@ classes
 are
 always
 amusing
-
+-----
 awesome
 prof
-
+-----
 i
 really
 enjoyed
@@ -75918,7 +75918,7 @@ you
 can
 do
 well
-
+-----
 the
 professor
 is
@@ -75951,7 +75951,7 @@ taken
 were
 far
 better
-
+-----
 undoubtedly
 the
 best
@@ -76008,7 +76008,7 @@ of
 what
 it
 is
-
+-----
 she
 lectures
 all
@@ -76068,7 +76068,7 @@ categories
 and
 policy
 options
-
+-----
 professor
 dixon
 is
@@ -76134,7 +76134,7 @@ the
 readings
 just
 most
-
+-----
 i
 took
 her
@@ -76198,7 +76198,7 @@ smart
 and
 reputable
 woman
-
+-----
 lisa
 might
 not
@@ -76262,7 +76262,7 @@ will
 be
 all
 set
-
+-----
 the
 course
 uses
@@ -76338,7 +76338,7 @@ of
 the
 lowest
 quiz
-
+-----
 lisa
 is
 nice
@@ -76395,7 +76395,7 @@ didn't
 help
 us
 much
-
+-----
 prof
 mckeen
 is
@@ -76431,7 +76431,7 @@ not
 something
 you
 enjoy
-
+-----
 professor
 mckeen
 is
@@ -76464,7 +76464,7 @@ lenient
 in
 grading
 them
-
+-----
 papers
 do
 not
@@ -76518,7 +76518,7 @@ end
 of
 the
 semester
-
+-----
 dr
 coruzzi
 is
@@ -76571,7 +76571,7 @@ and
 i
 recommend
 it
-
+-----
 her
 lectures
 were
@@ -76627,7 +76627,7 @@ portion
 of
 the
 course
-
+-----
 she
 really
 likes
@@ -76662,7 +76662,7 @@ make
 your
 own
 connectins
-
+-----
 muni
 is
 one
@@ -76706,7 +76706,7 @@ effort
 you'll
 do
 well
-
+-----
 this
 course
 was
@@ -76771,7 +76771,7 @@ eyes
 to
 the
 world
-
+-----
 professor
 olia
 is
@@ -76833,7 +76833,7 @@ you
 put
 into
 it
-
+-----
 jeff
 day
 where
@@ -76885,7 +76885,7 @@ is
 a
 powerful
 man
-
+-----
 what
 i
 love
@@ -76954,7 +76954,7 @@ as
 welli
 love
 it
-
+-----
 i
 took
 his
@@ -76987,7 +76987,7 @@ photographer
 i
 definitely
 recommend
-
+-----
 prof
 astrinaki
 is
@@ -77050,7 +77050,7 @@ more
 open
 to
 discussion
-
+-----
 she
 is
 lovely
@@ -77111,7 +77111,7 @@ felt
 was
 completely
 valid
-
+-----
 awesome
 and
 sweet
@@ -77144,7 +77144,7 @@ sources
 in
 your
 papers
-
+-----
 easily
 one
 of
@@ -77199,7 +77199,7 @@ the
 class
 to
 learn
-
+-----
 prof
 ray
 is
@@ -77256,7 +77256,7 @@ a
 wonderful
 class
 overall
-
+-----
 explains
 very
 well
@@ -77294,7 +77294,7 @@ i've
 had
 at
 nyu
-
+-----
 great
 professor
 holds
@@ -77327,7 +77327,7 @@ career
 before
 teaching
 french
-
+-----
 hayet
 is
 the
@@ -77396,7 +77396,7 @@ patient
 all
 the
 way
-
+-----
 the
 worst
 created
@@ -77441,7 +77441,7 @@ class
 in
 my
 life
-
+-----
 he
 is
 simply
@@ -77508,10 +77508,10 @@ the
 class
 for
 you
-
+-----
 no
 comments
-
+-----
 this
 class
 was
@@ -77543,7 +77543,7 @@ wonderful
 and
 kind
 woman
-
+-----
 i
 took
 her
@@ -77607,7 +77607,7 @@ a
 hip
 grandmother-y
 vibe
-
+-----
 hertkorn
 taught
 my
@@ -77667,10 +77667,10 @@ her
 as
 a
 professor
-
+-----
 no
 comments
-
+-----
 i
 love
 professor
@@ -77701,7 +77701,7 @@ would
 definitely
 recommend
 him
-
+-----
 really
 funny
 and
@@ -77736,7 +77736,7 @@ to
 analyze
 financial
 statements
-
+-----
 professor
 guth
 is
@@ -77792,7 +77792,7 @@ readings
 were
 a
 pain
-
+-----
 very
 kind
 and
@@ -77821,7 +77821,7 @@ care
 about
 the
 students
-
+-----
 great
 great
 great
@@ -77840,7 +77840,7 @@ style
 totally
 recommend
 her
-
+-----
 you
 will
 learn
@@ -77905,7 +77905,7 @@ not
 recommend
 it
 more
-
+-----
 alex
 is
 actually
@@ -77959,7 +77959,7 @@ early
 all
 the
 time
-
+-----
 made
 this
 just
@@ -78024,7 +78024,7 @@ him
 just
 avoid
 this
-
+-----
 i
 took
 the
@@ -78085,7 +78085,7 @@ strongly
 recommend
 taking
 him
-
+-----
 intro
 to
 media
@@ -78152,7 +78152,7 @@ gave
 me
 no
 chance
-
+-----
 i
 went
 to
@@ -78213,7 +78213,7 @@ she
 is
 very
 helpful
-
+-----
 i'll
 give
 her
@@ -78276,7 +78276,7 @@ nice
 just
 really
 hard
-
+-----
 great
 professor
 has
@@ -78311,7 +78311,7 @@ for
 assignments
 and
 stuff
-
+-----
 had
 her
 for
@@ -78374,7 +78374,7 @@ for
 extra
 credit
 study
-
+-----
 professor
 lee
 is
@@ -78438,7 +78438,7 @@ the
 textbook
 it
 helps
-
+-----
 accent
 is
 tough
@@ -78469,12 +78469,12 @@ if
 it
 is
 needed
-
+-----
 don't
 take
 her
 class
-
+-----
 she
 might
 be
@@ -78537,7 +78537,7 @@ was
 such
 as
 pain
-
+-----
 he's
 a
 great
@@ -78578,7 +78578,7 @@ feedback
 on
 the
 assignments
-
+-----
 the
 guy
 is
@@ -78625,7 +78625,7 @@ classes
 in
 the
 future
-
+-----
 frank
 is
 a
@@ -78675,7 +78675,7 @@ class
 -
 he's
 awesome
-
+-----
 frank
 is
 a
@@ -78740,12 +78740,12 @@ of
 books
 and
 articles
-
+-----
 he
 is
 the
 best
-
+-----
 he
 is
 awesome
@@ -78756,7 +78756,7 @@ homework
 easy
 to
 pass
-
+-----
 his
 lectures
 seem
@@ -78817,7 +78817,7 @@ class
 with
 him
 again
-
+-----
 professor
 trogdon
 is
@@ -78880,7 +78880,7 @@ difficult
 to
 do
 well
-
+-----
 the
 professor
 speaks
@@ -78924,7 +78924,7 @@ you
 to
 know
 it
-
+-----
 he
 seems
 to
@@ -78969,7 +78969,7 @@ all
 during
 his
 class
-
+-----
 one
 of
 the
@@ -79016,7 +79016,7 @@ you
 love
 music
 publishing
-
+-----
 blakeman's
 class
 has
@@ -79063,7 +79063,7 @@ of
 group
 projects
 though
-
+-----
 very
 different
 teaching
@@ -79129,7 +79129,7 @@ and
 a
 final
 paper
-
+-----
 professor
 jo
 is
@@ -79185,7 +79185,7 @@ her
 class
 to
 everyone
-
+-----
 frank
 is
 a
@@ -79244,7 +79244,7 @@ what
 you
 are
 learning
-
+-----
 frank
 is
 an
@@ -79294,7 +79294,7 @@ get
 a
 good
 grade
-
+-----
 bob
 is
 a
@@ -79363,7 +79363,7 @@ than
 that
 solid
 prof
-
+-----
 great
 teacher
 and
@@ -79421,7 +79421,7 @@ and
 respect
 your
 effort
-
+-----
 had
 high
 hopes
@@ -79480,7 +79480,7 @@ time
 to
 teach
 anymore
-
+-----
 the
 lecture
 is
@@ -79498,7 +79498,7 @@ from
 a
 broad
 perspective
-
+-----
 dara
 is
 a
@@ -79560,7 +79560,7 @@ fan
 of
 writing
 essay's
-
+-----
 i
 really
 enjoyed
@@ -79599,7 +79599,7 @@ seem
 unimportant
 or
 wrong
-
+-----
 professor
 fewell
 is
@@ -79656,7 +79656,7 @@ her
 as
 my
 instructor
-
+-----
 a
 truly
 excellent
@@ -79691,7 +79691,7 @@ know
 for
 practice
 classes
-
+-----
 a
 really
 wonderful
@@ -79726,7 +79726,7 @@ problem
 passing
 her
 course
-
+-----
 petra
 makes
 lecture
@@ -79751,7 +79751,7 @@ go
 to
 office
 hours
-
+-----
 professor
 fulepp
 is
@@ -79791,7 +79791,7 @@ interested
 would
 highly
 recommend
-
+-----
 young
 charismatic
 executive
@@ -79827,7 +79827,7 @@ take
 professor
 fulepp
 again
-
+-----
 sweetest
 professor
 ever
@@ -79836,7 +79836,7 @@ miss
 him
 like
 hell
-
+-----
 the
 sweetest
 and
@@ -79874,7 +79874,7 @@ have
 him
 every
 semester
-
+-----
 i
 did
 not
@@ -79904,7 +79904,7 @@ philosophy
 than
 environmental
 issues
-
+-----
 wants
 participation
 in
@@ -79957,7 +79957,7 @@ lecture
 is
 very
 interesting
-
+-----
 absolutely
 life
 changing
@@ -80009,7 +80009,7 @@ learned
 the
 absolute
 most
-
+-----
 this
 class
 is
@@ -80069,10 +80069,10 @@ pretty
 chill
 class
 :
-
+-----
 no
 comments
-
+-----
 great
 clear
 professor
@@ -80094,7 +80094,7 @@ an
 eye
 opening
 class
-
+-----
 i've
 always
 dreamed
@@ -80153,7 +80153,7 @@ a
 tutor
 for
 help
-
+-----
 great
 class
 easy
@@ -80187,7 +80187,7 @@ a
 must
 take
 class
-
+-----
 he
 is
 not
@@ -80258,7 +80258,7 @@ have
 loved
 this
 class
-
+-----
 one
 of
 my
@@ -80287,4 +80287,4 @@ another
 class
 with
 her
-
+-----
