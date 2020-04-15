@@ -16,7 +16,7 @@ public class Bayes {
     }
     trainModel(args[0]);  // word - P/N - totalCount
     Map<Integer, String> results = classifyModel(args[1]);  // sentences
-    String outputFilePath = "data/results.txt";
+    String outputFilePath = "results.txt";
     writeIntoFile(results, outputFilePath);
   }
 
@@ -40,6 +40,10 @@ public class Bayes {
         String line = reader.readLine();
 
         if(line == null|| line.equals("")){   // end of one sentence
+//          line = reader.readLine();
+//          if(line == null || line == ""){   // still empty: end reading
+//            endReading = true;
+//          }
           endReading = true;
         }
         if(endReading) break;
@@ -76,6 +80,7 @@ public class Bayes {
     int sentenceIndex = 0;
     Map<Integer, String> tagResults = new HashMap<>();
     List<String> words = new ArrayList<>();
+    int wordIndex = 0;
     try (BufferedReader reader = new BufferedReader(new FileReader(path))) {
       Boolean endReading = false;
       while (!endReading) {
@@ -83,21 +88,30 @@ public class Bayes {
         //if (line.equals(null) || line.equals("")) { // end of one sentence
         if(line.length() == 5 && line.charAt(0) == '-' && line.charAt(1) == '-' && line.charAt(2) == '-' && line.charAt(3) == '-' && line.charAt(4) == '-') {
           String res = getTagOfSentence(words);
+//          System.out.println("end of last sentence from this word: "+words.get(words.size()-1));
           tagResults.put(sentenceIndex, res);
+//          System.out.println("write sentence with index: "+sentenceIndex);
+          
           // Read NextLine
           words.clear();
           line = reader.readLine();
+          wordIndex++;
+//          System.out.println("hit splitter on line: "+wordIndex+" and now sentence# is: "+sentenceIndex);
           sentenceIndex++;
+          
           if (line == null || line == "") { // still empty: end reading
             endReading = true;
           }
         }
-        if (endReading) break;
+        if (endReading) {
+//          System.out.println("total sentence number is: "+ sentenceIndex);
+          break;
+        }
 
         // add words into word
         words.add(line);
+        wordIndex++;
       }
-      System.out.println("total sentences:"+sentenceIndex);
     }
     catch(Exception e){
       e.printStackTrace();
@@ -115,6 +129,7 @@ public class Bayes {
 //        System.out.println("skip the word: "+w);
         continue; // skip the unknown word
       }
+//      else System.out.println(w);
       int CN = 0, CP = 0;
       if(PosDic.containsKey(w)) CP = PosDic.get(w);
       if(NegDic.containsKey(w)) CN = NegDic.get(w);
