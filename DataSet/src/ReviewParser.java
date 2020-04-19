@@ -48,6 +48,11 @@ public class ReviewParser {
             Elements rating = e.select("div.RatingValues__RatingValue-sc-6dc747-3");
             Elements helpful = e.select("div.RatingFooter__HelpTotal-ciwspm-2");
 
+            // skip ineffective reviews
+            if (comment.get(0).text().equalsIgnoreCase("")) {
+                continue;
+            }
+
             reviews.add(
                     new Review(comment.get(0).text(), rating.get(0).text(), helpful.get(0).text()));
         }
@@ -123,7 +128,8 @@ public class ReviewParser {
             for (Review review : reviews) {
 
                 // Write standard.txt, one review class per line
-                keyFileWriter.println(baseIndex++ + "\t" + review.cls);
+                keyFileWriter.println(baseIndex++ + "\t" + review.cls + "\t"
+                        + review.comment.replaceAll("[\n]+", " "));
 
                 // Write testWords.txt, one token per line
                 String[] words = review.comment.split("[()/\\s]");
