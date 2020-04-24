@@ -5,10 +5,18 @@ public class Driver {
 
     public static void main(String[] args) throws IOException {
         String inputPath = "DataSet/doc/NYU";
-        String trainOutputPath = "Niave_Bayes/data/bag.txt";
+
+        // simple bow
+        // String trainOutputPath = "Niave_Bayes/data/bag.txt";
+
+        // stop-words filtered
+        String trainOutputPath = "Niave_Bayes/data/bag-filtered.txt";
+
         String devOutputPath = "Niave_Bayes/data/";
 
-        ReviewParser p = new ReviewParser();
+        // ReviewParser p = new ReviewParser();
+        ReviewParser p = new ReviewParser(true);
+
         List<String> urls = p.loadUrls(inputPath);
         p.clearDevDataFileContent(devOutputPath);
 

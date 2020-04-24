@@ -1,12 +1,15 @@
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import org.jsoup.Connection;
 import org.jsoup.Connection.Method;
 import org.jsoup.Jsoup;
@@ -19,6 +22,24 @@ public class ReviewParser {
             "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36";
     Map<String, Integer> trainPos = new HashMap<>();
     Map<String, Integer> trainNeg = new HashMap<>();
+    Set<String> stopWords = new HashSet<>();
+
+    public ReviewParser() {}
+
+    public ReviewParser(boolean filterStopWords) throws FileNotFoundException, IOException {
+        if (filterStopWords) {
+            try (BufferedReader br =
+                    new BufferedReader(new FileReader("Niave_Bayes/data/stopwords.txt"));) {
+                String line;
+                while ((line = br.readLine()) != null) {
+                    stopWords.add(line);
+                }
+            }
+            for (String s : this.stopWords) {
+                System.out.println(s);
+            }
+        }
+    }
 
     public List<String> loadUrls(String path) throws IOException {
         List<String> urls = new LinkedList<>();
@@ -60,13 +81,17 @@ public class ReviewParser {
         return reviews;
     }
 
-    public void putReviewsIntoTrainCorpus(List<Review> reviews) {
+    public void putReviewsIntoTrainCorpus(List<Review> reviews)
+            throws FileNotFoundException, IOException {
+
         for (Review review : reviews) {
-            String[] words = review.comment.split("[()/\\s]");
+            String[] words = review.comment.split("[-()/\\s]");
 
             if (review.cls == Cls.P) {
                 for (String word : words) {
-                    if (word.replaceAll("[.,!?\"()/\n]", "").equals("")) {
+                    // stopwords are filtered here
+                    if (word.replaceAll("[-.,!?'\"()/\n]", "").equals("") || stopWords
+                            .contains(word.replaceAll("[-.,!?'\"()/\n]", "").toLowerCase())) {
                         continue;
                     }
                     trainPos.merge(word.toLowerCase().replaceAll("[.,!?\"()/]", ""), 1,
@@ -74,7 +99,9 @@ public class ReviewParser {
                 }
             } else {
                 for (String word : words) {
-                    if (word.replaceAll("[.,!?\"()/\n]", "").equals("")) {
+                    // stopwords are filtered here
+                    if (word.replaceAll("[-.,!?'\"()/\n]", "").equals("") || stopWords
+                            .contains(word.replaceAll("[-.,!?'\"()/\n]", "").toLowerCase())) {
                         continue;
                     }
                     trainNeg.merge(word.toLowerCase().replaceAll("[.,!?\"()/]", ""), 1,
@@ -106,8 +133,8 @@ public class ReviewParser {
     }
 
     public void clearDevDataFileContent(String devOutputPath) throws IOException {
-        String keyFile = "standard.txt";
-        String devCorpus = "testWords.txt";
+        String keyFile = "standard-filtered.txt";
+        String devCorpus = "testWords-filtered.txt";
         try (PrintWriter keyFileWriter = new PrintWriter(new FileWriter(devOutputPath + keyFile));
                 PrintWriter testWordsWriter =
                         new PrintWriter(new FileWriter(devOutputPath + devCorpus));) {
@@ -117,8 +144,8 @@ public class ReviewParser {
     }
 
     public void writeDevData(List<Review> reviews, String devOutputPath, int baseIndex) {
-        String keyFile = "standard.txt";
-        String devCorpus = "testWords.txt";
+        String keyFile = "standard-filtered.txt";
+        String devCorpus = "testWords-filtered.txt";
 
         try (PrintWriter keyFileWriter =
                 new PrintWriter(new FileWriter(devOutputPath + keyFile, true));
@@ -132,13 +159,15 @@ public class ReviewParser {
                         + review.comment.replaceAll("[\n]+", " "));
 
                 // Write testWords.txt, one token per line
-                String[] words = review.comment.split("[()/\\s]");
+                String[] words = review.comment.split("[-()/\\s]");
 
                 for (String word : words) {
-                    if (word.replaceAll("[.,!?\"()/\n]", "").equals("")) {
+                    // stopwords are filtered here
+                    if (word.replaceAll("[-.,!?'\"()/\n]", "").equals("") || stopWords
+                            .contains(word.replaceAll("[-.,!?'\"()/\n]", "").toLowerCase())) {
                         continue;
                     }
-                    testWordsWriter.println(word.toLowerCase().replaceAll("[.,!?\"()/\n]", ""));
+                    testWordsWriter.println(word.toLowerCase().replaceAll("[-.,!?'\"()/\n]", ""));
                 }
                 testWordsWriter.println("-----");
             }
