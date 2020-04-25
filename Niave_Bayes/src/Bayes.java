@@ -16,6 +16,7 @@ public class Bayes {
     }
     trainModel(args[0]);  // word - P/N - totalCount
     Map<Integer, String> results = classifyModel(args[1]);  // sentences
+//    System.out.println("size: "+results.size());
     String outputFilePath = "data/results-filtered.txt";
     writeIntoFile(results, outputFilePath);
   }
@@ -86,8 +87,14 @@ public class Bayes {
       Boolean endReading = false;
       while (!endReading) {
         String line = reader.readLine();
-        //if (line.equals(null) || line.equals("")) { // end of one sentence
-        if(line.length() == 5 && line.charAt(0) == '-' && line.charAt(1) == '-' && line.charAt(2) == '-' && line.charAt(3) == '-' && line.charAt(4) == '-') {
+        if (line == null || line == "") { // still empty: end reading
+            endReading = true;
+        }
+        if (endReading) {
+//          System.out.println("total sentence number is: "+ sentenceIndex);
+          break;
+        }
+        while(line.length() == 5 && line.charAt(0) == '-' && line.charAt(1) == '-' && line.charAt(2) == '-' && line.charAt(3) == '-' && line.charAt(4) == '-') {
           String res = getTagOfSentence(words);
 //          System.out.println("end of last sentence from this word: "+words.get(words.size()-1));
           tagResults.put(sentenceIndex, res);
@@ -97,18 +104,15 @@ public class Bayes {
           words.clear();
           line = reader.readLine();
           wordIndex++;
-//          System.out.println("hit splitter on line: "+wordIndex+" and now sentence# is: "+sentenceIndex);
+//         System.out.println("hit splitter on line: "+wordIndex+" and now sentence# is: "+sentenceIndex);
           sentenceIndex++;
-          
           if (line == null || line == "") { // still empty: end reading
-            endReading = true;
-          }
+              endReading = true;
+              break;
+          }  
         }
-        if (endReading) {
-//          System.out.println("total sentence number is: "+ sentenceIndex);
-          break;
-        }
-
+        if (endReading) break;
+       
         // add words into word
         words.add(line);
         wordIndex++;
@@ -124,6 +128,7 @@ public class Bayes {
     String res = "N";
     Double PProb = 1.0, NProb = 1.0;
     int V = dict.size();
+    if(words.size() == 0) return "T";	// tbd
     for(int i = 0; i < words.size(); i++){  // Debug:
       String w = words.get(i);
       if(!dict.contains(w)) {

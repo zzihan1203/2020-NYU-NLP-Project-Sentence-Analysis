@@ -45,11 +45,16 @@ public class Score {
         	      System.err.println ("token mismatch at line ");
         	      System.exit(1);
         	    }
-        	    if (responsePos.equals(keyPos)) {
-        	      correct = correct + 1;
-        	    } else {
-        	      incorrect = incorrect + 1;
+        	    if(responsePos.equals("T")) continue;
+        	    else {
+        	    	if (responsePos.equals(keyPos)) {
+              	      correct = correct + 1;
+              	    } else {
+              	      incorrect = incorrect + 1;
+//              	      System.out.println(responseToken+" "+keyToken +": "+keyFields[2] + " "+responsePos + " is wrong "+keyPos);
+              	    }
         	    }
+        	    
     		}    		
         }catch(Exception e){
             e.printStackTrace();
