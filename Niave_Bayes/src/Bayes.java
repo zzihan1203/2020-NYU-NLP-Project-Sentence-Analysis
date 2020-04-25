@@ -16,7 +16,7 @@ public class Bayes {
     }
     trainModel(args[0]);  // word - P/N - totalCount
     Map<Integer, String> results = classifyModel(args[1]);  // sentences
-    String outputFilePath = "results.txt";
+    String outputFilePath = "data/results-filtered.txt";
     writeIntoFile(results, outputFilePath);
   }
 
@@ -76,6 +76,7 @@ public class Bayes {
     }
   }
 
+  
   private static Map<Integer, String> classifyModel(String path) throws IOException {
     int sentenceIndex = 0;
     Map<Integer, String> tagResults = new HashMap<>();
