@@ -10,12 +10,18 @@ public class Driver {
         // String trainOutputPath = "Niave_Bayes/data/bag.txt";
 
         // stop-words filtered
-        String trainOutputPath = "Niave_Bayes/data/bag-filtered.txt";
+        // String trainOutputPath = "Niave_Bayes/data/bag-filtered.txt";
+
+        // boolean Naive Bayes applied
+        // String trainOutputPath = "Niave_Bayes/data/bag-boolean.txt";
+
+        // stop-words filtered and boolean Naive Bayes applied
+        String trainOutputPath = "Niave_Bayes/data/bag-boolean.txt";
 
         String devOutputPath = "Niave_Bayes/data/";
 
         // ReviewParser p = new ReviewParser();
-        ReviewParser p = new ReviewParser(true);
+        ReviewParser p = new ReviewParser(false, true);
 
         List<String> urls = p.loadUrls(inputPath);
         p.clearDevDataFileContent(devOutputPath);

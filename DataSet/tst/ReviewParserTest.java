@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class ReviewParserTest {
     String url = "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=577620";
-    ReviewParser p = new ReviewParser();
+    ReviewParser p = new ReviewParser(false, false);
     List<Review> reviews;
 
     @Test

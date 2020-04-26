@@ -20,13 +20,17 @@ import org.jsoup.select.Elements;
 public class ReviewParser {
     String agent =
             "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36";
+    String keyFile = "standard-boolean.txt";
+    String devCorpus = "testWords-boolean.txt";
+
     Map<String, Integer> trainPos = new HashMap<>();
     Map<String, Integer> trainNeg = new HashMap<>();
     Set<String> stopWords = new HashSet<>();
 
-    public ReviewParser() {}
+    boolean booleanNaiveBayes;
 
-    public ReviewParser(boolean filterStopWords) throws FileNotFoundException, IOException {
+    public ReviewParser(boolean filterStopWords, boolean booleanNaiveBayes)
+            throws FileNotFoundException, IOException {
         if (filterStopWords) {
             try (BufferedReader br =
                     new BufferedReader(new FileReader("Niave_Bayes/data/stopwords.txt"));) {
@@ -39,6 +43,7 @@ public class ReviewParser {
                 System.out.println(s);
             }
         }
+        this.booleanNaiveBayes = booleanNaiveBayes;
     }
 
     public List<String> loadUrls(String path) throws IOException {
@@ -85,27 +90,30 @@ public class ReviewParser {
             throws FileNotFoundException, IOException {
 
         for (Review review : reviews) {
-            String[] words = review.comment.split("[-()/\\s]");
+            Set<String> booleanNaiveBayesVocabulary = new HashSet<>();
+            String[] words = review.comment.split("[()/\\s]");
 
             if (review.cls == Cls.P) {
                 for (String word : words) {
-                    // stopwords are filtered here
-                    if (word.replaceAll("[-.,!?'\"()/\n]", "").equals("") || stopWords
-                            .contains(word.replaceAll("[-.,!?'\"()/\n]", "").toLowerCase())) {
+                    String token = word.replaceAll("[.,!?\"()]", "").toLowerCase();
+                    // filter stopwords and perform boolean Naive Bayes vocabulary
+                    if (token.equals("") || stopWords.contains(token)
+                            || (booleanNaiveBayes && booleanNaiveBayesVocabulary.contains(token))) {
                         continue;
                     }
-                    trainPos.merge(word.toLowerCase().replaceAll("[.,!?\"()/]", ""), 1,
-                            (a, b) -> a + b);
+                    trainPos.merge(token, 1, (a, b) -> a + b);
+                    booleanNaiveBayesVocabulary.add(token);
                 }
             } else {
                 for (String word : words) {
-                    // stopwords are filtered here
-                    if (word.replaceAll("[-.,!?'\"()/\n]", "").equals("") || stopWords
-                            .contains(word.replaceAll("[-.,!?'\"()/\n]", "").toLowerCase())) {
+                    String token = word.replaceAll("[.,!?\"()]", "").toLowerCase();
+                    // filter stopwords and perform boolean Naive Bayes vocabulary
+                    if (token.equals("") || stopWords.contains(token)
+                            || (booleanNaiveBayes && booleanNaiveBayesVocabulary.contains(token))) {
                         continue;
                     }
-                    trainNeg.merge(word.toLowerCase().replaceAll("[.,!?\"()/]", ""), 1,
-                            (a, b) -> a + b);
+                    trainNeg.merge(token, 1, (a, b) -> a + b);
+                    booleanNaiveBayesVocabulary.add(token);
                 }
             }
         }
@@ -133,8 +141,6 @@ public class ReviewParser {
     }
 
     public void clearDevDataFileContent(String devOutputPath) throws IOException {
-        String keyFile = "standard-filtered.txt";
-        String devCorpus = "testWords-filtered.txt";
         try (PrintWriter keyFileWriter = new PrintWriter(new FileWriter(devOutputPath + keyFile));
                 PrintWriter testWordsWriter =
                         new PrintWriter(new FileWriter(devOutputPath + devCorpus));) {
@@ -144,30 +150,30 @@ public class ReviewParser {
     }
 
     public void writeDevData(List<Review> reviews, String devOutputPath, int baseIndex) {
-        String keyFile = "standard-filtered.txt";
-        String devCorpus = "testWords-filtered.txt";
-
         try (PrintWriter keyFileWriter =
                 new PrintWriter(new FileWriter(devOutputPath + keyFile, true));
                 PrintWriter testWordsWriter =
                         new PrintWriter(new FileWriter(devOutputPath + devCorpus, true));) {
 
             for (Review review : reviews) {
+                Set<String> booleanNaiveBayesVocabulary = new HashSet<>();
 
                 // Write standard.txt, one review class per line
                 keyFileWriter.println(baseIndex++ + "\t" + review.cls + "\t"
                         + review.comment.replaceAll("[\n]+", " "));
 
                 // Write testWords.txt, one token per line
-                String[] words = review.comment.split("[-()/\\s]");
+                String[] words = review.comment.split("[()/\\s]");
 
                 for (String word : words) {
-                    // stopwords are filtered here
-                    if (word.replaceAll("[-.,!?'\"()/\n]", "").equals("") || stopWords
-                            .contains(word.replaceAll("[-.,!?'\"()/\n]", "").toLowerCase())) {
+                    String token = word.replaceAll("[.,!?\"()]", "").toLowerCase();
+                    // filter stopwords and perform boolean Naive Bayes vocabulary
+                    if (token.equals("") || stopWords.contains(token)
+                            || (booleanNaiveBayes && booleanNaiveBayesVocabulary.contains(token))) {
                         continue;
                     }
-                    testWordsWriter.println(word.toLowerCase().replaceAll("[-.,!?'\"()/\n]", ""));
+                    testWordsWriter.println(token);
+                    booleanNaiveBayesVocabulary.add(token);
                 }
                 testWordsWriter.println("-----");
             }
