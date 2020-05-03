@@ -25,7 +25,7 @@ public class Bayes {
         trainModel(args[0]); // word - P/N - totalCount
         Map<Integer, String> results = classifyModel(args[1]); // sentences
         // System.out.println("size: "+results.size());
-        String outputFilePath = "Niave_Bayes/data/results-filtered-boolean.txt";
+        String outputFilePath = "Niave_Bayes/data/results-filtered-boolean-weighted.txt";
         writeIntoFile(results, outputFilePath);
     }
 

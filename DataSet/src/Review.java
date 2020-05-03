@@ -7,7 +7,7 @@ public class Review {
     public Review(String parsedComment, String parsedRating, String parsedhelpful) {
         this.comment = parsedComment;
         this.rating = Double.parseDouble(parsedRating);
-        this.helpful = Integer.parseInt(parsedhelpful);
+        this.helpful = Integer.parseInt(parsedhelpful) + 1;
         this.cls = (this.rating >= 4) ? Cls.P : Cls.N;
     }
 

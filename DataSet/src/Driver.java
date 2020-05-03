@@ -16,7 +16,10 @@ public class Driver {
         // String trainOutputPath = "Niave_Bayes/data/bag-boolean.txt";
 
         // stop-words filtered and boolean Naive Bayes applied
-        String trainOutputPath = "Niave_Bayes/data/bag-boolean.txt";
+        // String trainOutputPath = "Niave_Bayes/data/bag-filtered-boolean.txt";
+
+        // stop-words filtered, boolean Naive Bayes applied, weighted
+        String trainOutputPath = "Niave_Bayes/data/bag-filtered-boolean-weighted.txt";
 
         String devOutputPath = "Niave_Bayes/data/";
 

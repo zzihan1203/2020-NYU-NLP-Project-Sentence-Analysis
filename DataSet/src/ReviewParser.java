@@ -20,8 +20,8 @@ import org.jsoup.select.Elements;
 public class ReviewParser {
     String agent =
             "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36";
-    String keyFile = "standard-boolean.txt";
-    String devCorpus = "testWords-boolean.txt";
+    String keyFile = "standard-filtered-boolean-weighted.txt";
+    String devCorpus = "testWords-filtered-boolean-weighted.txt";
 
     Map<String, Integer> trainPos = new HashMap<>();
     Map<String, Integer> trainNeg = new HashMap<>();
@@ -101,7 +101,7 @@ public class ReviewParser {
                             || (booleanNaiveBayes && booleanNaiveBayesVocabulary.contains(token))) {
                         continue;
                     }
-                    trainPos.merge(token, 1, (a, b) -> a + b);
+                    trainPos.merge(token, 1 * review.helpful, (a, b) -> a + b);
                     booleanNaiveBayesVocabulary.add(token);
                 }
             } else {
@@ -112,7 +112,7 @@ public class ReviewParser {
                             || (booleanNaiveBayes && booleanNaiveBayesVocabulary.contains(token))) {
                         continue;
                     }
-                    trainNeg.merge(token, 1, (a, b) -> a + b);
+                    trainNeg.merge(token, 1 * review.helpful, (a, b) -> a + b);
                     booleanNaiveBayesVocabulary.add(token);
                 }
             }
