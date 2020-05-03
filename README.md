@@ -22,3 +22,6 @@ For testing we feed into a review entry to our program, and give a sentiment out
 - Bag of words with stop-words filtered and Boolean Naive Bayes
   - 1255 out of 1770 sentences is correctly classified.
   - accuracy:    70.90
+- Bag of words with stop-words filtered, Boolean Naive Bayes, and word frequency weighted by number of votes that consider this review helpful
+  - 1297 out of 1777 sentences is correctly classified.
+  - accuracy:    72.99
