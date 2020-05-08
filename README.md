@@ -13,7 +13,19 @@ For testing we feed into a review entry to our program, and give a sentiment out
 - Data retrieval and bag-of-words generation
   - Make sure URLs is listed in DataSet/doc/NYU.txt and stop-words are listed in Niave_Bayes/data/stopwords.txt
   - Simply run DataSet/src/Driver.java then the training process shall begin
-
+- Model training and testing
+  - Run Naive_Bayes/src/Bayes.java with two arguments: the path to the training dataset, the path to the testing dataset.
+  - Remember to change the output file name and path accordingly on line 28.
+- Model Evaluation
+  - Run Naive_Bayes/src.Score.java with two arguments: the path to the result file, the path to the standard key file.
+    The relationships between files under Naive_Bayes/data are: 
+    training dataset -> testing dataset -> result dataset -> key dataset:
+    bag.txt -> testWords.txt -> results.txt -> standard.txt
+    bag-filtered.txt -> testWords-filtered.txt -> results-filtered.txt -> standard-filtered.txt
+    bag-boolean.txt -> testWords-boolean.txt -> results-boolean.txt -> standard-boolean.txt
+    bag-filtered-boolean.txt -> testWords-filtered-boolean.txt -> results-filtered-boolean.txt -> standard-filtered-boolean.txt
+    bag-filtered-boolean-weighted.txt -> testWords-filtered-boolean-weighted.txt -> results-filtered-boolean-weighted.txt -> standard-filtered-boolean-weighted.txt
+   
 # Results
 - Simple bag of words
   - 1127 out of 1774 sentences is correctly classified.
