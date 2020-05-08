@@ -11,8 +11,8 @@ For testing we feed into a review entry to our program, and give a sentiment out
 
 # Running the code
 - Training
- - Make sure URLs is listed in DataSet/doc/NYU.txt and stop-words are listed in Niave_Bayes/data/stopwords.txt
- - Simply run DataSet/src/Driver.java then the training process shall begin
+  - Make sure URLs is listed in DataSet/doc/NYU.txt and stop-words are listed in Niave_Bayes/data/stopwords.txt
+  - Simply run DataSet/src/Driver.java then the training process shall begin
 
 # Results
 - Simple bag of words
