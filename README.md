@@ -18,8 +18,7 @@ For testing we feed into a review entry to our program, and give a sentiment out
   - Remember to change the output file name and path accordingly on line 28.
 - Model Evaluation
   - Run Naive_Bayes/src.Score.java with two arguments: the path to the result file, the path to the standard key file.
-  - The relationships between files under Naive_Bayes/data are: 
-  - training dataset -> testing dataset -> result dataset -> key dataset:
+  - The relationships between files under Naive_Bayes/data are: training dataset -> testing dataset -> result dataset -> key dataset:
   - bag.txt -> testWords.txt -> results.txt -> standard.txt
   - bag-filtered.txt -> testWords-filtered.txt -> results-filtered.txt -> standard-filtered.txt
   - bag-boolean.txt -> testWords-boolean.txt -> results-boolean.txt -> standard-boolean.txt
