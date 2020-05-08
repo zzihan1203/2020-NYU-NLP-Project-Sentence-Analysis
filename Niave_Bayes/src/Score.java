@@ -13,6 +13,7 @@ public class Score {
     String keyFile = args[1];
     int correct = 0;
     int incorrect = 0;
+    int TP = 0, TN = 0, FP = 0, FN = 0;
     try (BufferedReader r1 = new BufferedReader(new FileReader(responseFile))) {
     	try (BufferedReader r2 = new BufferedReader(new FileReader(keyFile))) {
     		while(true) {
@@ -48,8 +49,12 @@ public class Score {
         	    if(responsePos.equals("T")) continue;
         	    else {
         	    	if (responsePos.equals(keyPos)) {
+                      if(responsePos.equals("P")) TP ++;
+                      else TN++;
               	      correct = correct + 1;
               	    } else {
+                      if(responsePos.equals("P")) FP++;
+                      else FN++;
               	      incorrect = incorrect + 1;
 //              	      System.out.println(responseToken+" "+keyToken +": "+keyFields[2] + " "+responsePos + " is wrong "+keyPos);
               	    }
@@ -65,5 +70,18 @@ public class Score {
     System.out.println (correct + " out of " + (correct + incorrect) + " sentences is correctly classified.");
     float accuracy = (float) 100.0 * correct / (correct + incorrect);
     System.out.printf ("accuracy: %8.2f\n", accuracy);
+
+    float precisionP = (float) 100.0 * TP / (TP + FN);
+    System.out.printf ("precisionT: %8.2f\n", precisionP);
+    
+    float precisionN = (float) 100.0 * TN / (TN + FP);
+    System.out.printf ("precisionF: %8.2f\n", precisionN);
+
+    float recallP = (float) 100.0 * TP / (TP + FP);
+    System.out.printf ("recallT: %8.2f\n", recallP);
+    
+    float recallN = (float) 100.0 * TN / (TN + FN);
+    System.out.printf ("recallF: %8.2f\n", recallN);
+
   }
 }
