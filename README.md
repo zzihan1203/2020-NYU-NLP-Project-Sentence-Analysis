@@ -9,6 +9,11 @@ We train our model by parsing reviews from the website, assigning rating 1, 2, 3
 
 For testing we feed into a review entry to our program, and give a sentiment output indicating this review is a positive or negative one.
 
+# Running the code
+- Training
+ - Make sure URLs is listed in DataSet/doc/NYU.txt and stop-words are listed in Niave_Bayes/data/stopwords.txt
+ - Simply run DataSet/src/Driver.java then the training process shall begin
+
 # Results
 - Simple bag of words
   - 1127 out of 1774 sentences is correctly classified.
