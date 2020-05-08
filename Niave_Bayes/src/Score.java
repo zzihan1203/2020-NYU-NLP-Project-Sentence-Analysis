@@ -71,17 +71,17 @@ public class Score {
     float accuracy = (float) 100.0 * correct / (correct + incorrect);
     System.out.printf ("accuracy: %8.2f\n", accuracy);
 
-    float precisionP = (float) 100.0 * TP / (TP + FN);
-    System.out.printf ("precisionT: %8.2f\n", precisionP);
+    float recallP = (float) 100.0 * TP / (TP + FN);
+    System.out.printf ("recallP: %8.2f\n", recallP);
     
-    float precisionN = (float) 100.0 * TN / (TN + FP);
-    System.out.printf ("precisionF: %8.2f\n", precisionN);
+    float recallN = (float) 100.0 * TN / (TN + FP);
+    System.out.printf ("recallN: %8.2f\n", recallN);
 
-    float recallP = (float) 100.0 * TP / (TP + FP);
-    System.out.printf ("recallT: %8.2f\n", recallP);
+    float precisionP = (float) 100.0 * TP / (TP + FP);
+    System.out.printf ("precisionP: %8.2f\n", precisionP);
     
-    float recallN = (float) 100.0 * TN / (TN + FN);
-    System.out.printf ("recallF: %8.2f\n", recallN);
+    float precisionN = (float) 100.0 * TN / (TN + FN);
+    System.out.printf ("precisionN: %8.2f\n", precisionN);
 
   }
 }
